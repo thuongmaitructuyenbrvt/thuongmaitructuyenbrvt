@@ -1,4 +1,7 @@
 # thuong mai truc tuyen brvt
+
+[![Join the chat at https://gitter.im/thuongmaitructuyenbrvt/thuongmaiwiki](https://badges.gitter.im/thuongmaitructuyenbrvt/thuongmaiwiki.svg)](https://gitter.im/thuongmaitructuyenbrvt/thuongmaiwiki?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <img alt="thuong mai truc tuyen brvt" src="https://thuongmaitructuyenbrvt.imfast.io/anhthuongmai/bandothuongmaibrvt.jpg">
 Thương mại trực tuyến brvt hỗ trợ doanh nghiệp, ngân hàng, nhà hàng kinh doanh sản phẩm văn phòng, dịch vụ công nghệ thông tin, ẩm thực á âu hiệu quả
 
