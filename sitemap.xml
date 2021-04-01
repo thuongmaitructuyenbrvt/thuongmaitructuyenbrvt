@@ -45,8 +45,15 @@
 	<url><loc>https://thuongmaitructuyenbrvt.github.io/news/thuong-hieu-business.html</loc></url>
 	<url><loc>https://thuongmaitructuyenbrvt.github.io/news/ma-tran-thuong-hieu.amp.html</loc></url>
 
-	<url><loc>https://thuongmaitructuyenbrvt.github.io/news/am-thuc-recipe.html</loc></url>
-	<url><loc>https://thuongmaitructuyenbrvt.github.io/news/ma-tran-am-thuc.amp.html</loc></url>
+	<url>
+		<loc>https://thuongmaitructuyenbrvt.github.io/news/am-thuc-recipe.html</loc>
+		<lastmod>2021-04-01</lastmod>
+	</url>
+	<url>
+		<loc>https://thuongmaitructuyenbrvt.github.io/news/ma-tran-am-thuc.amp.html</loc>
+		<lastmod>2021-04-01</lastmod>
+	</url>
+	<!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
 
 	<url><loc>https://thuongmaitructuyenbrvt.github.io/news/seo-anh-pinterest.html</loc></url>
 	<url><loc>https://thuongmaitructuyenbrvt.github.io/news/ma-tran-seo-anh.amp.html</loc></url>
