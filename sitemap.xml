@@ -36,7 +36,10 @@
 
 
 	<!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
-	<url><loc>https://thuongmaitructuyenbrvt.github.io/news/tin-tuc-newsarticle.html</loc></url>
+	<url>
+		<loc>https://thuongmaitructuyenbrvt.github.io/news/article-json.html</loc>
+		<lastmod>2021-04-17</lastmod>
+	</url>
 	<url><loc>https://thuongmaitructuyenbrvt.github.io/news/ma-tran-tin-tuc.amp.html</loc></url>
 
 	<url><loc>https://thuongmaitructuyenbrvt.github.io/news/danh-muc-itemlist.html</loc></url>
@@ -47,7 +50,7 @@
 
 	<url>
 		<loc>https://thuongmaitructuyenbrvt.github.io/news/recipe-json.html</loc>
-		<lastmod>2021-04-15</lastmod>
+		<lastmod>2021-04-17</lastmod>
 	</url>
 	<url>
 		<loc>https://thuongmaitructuyenbrvt.github.io/news/ma-tran-am-thuc.amp.html</loc>
