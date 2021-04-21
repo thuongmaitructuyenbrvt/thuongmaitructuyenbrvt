@@ -107,7 +107,7 @@ var myPlaylist = [
 		buy:'https://drive.google.com/open?id=1w8aML4_8hD56dXBY_XTfCsT1B4Xo-lXW',
 		price:'0',
 		duration:'04:14',
-		cover:'https://www.mediafire.com/convkey/35a5/3br72ze7ytfm0d76g.jpg'
+		cover:'https://www.mediafire.com/convkey/c662/o0q0r7sq6c4gha26g.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4NXBRN2tiSGgyUlk',
