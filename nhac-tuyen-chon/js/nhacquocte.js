@@ -85,7 +85,7 @@ var myPlaylist = [
 		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4RGw3WWVlWGR5b28',
 		price:'0',
 		duration:'03:50',
-		cover:'https://www.mediafire.com/convkey/5ab8/u5f4886rjjtony56g.jpg'
+		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4bFE4NWh1bVFpMWs',
@@ -96,7 +96,7 @@ var myPlaylist = [
 		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4bFE4NWh1bVFpMWs',
 		price:'0',
 		duration:'03:47',
-		cover:'https://www.mediafire.com/convkey/5ab8/u5f4886rjjtony56g.jpg'
+		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=1oyFP16pp6rLmDazc9hxJVMA5c0dBhWS5',
@@ -184,7 +184,7 @@ var myPlaylist = [
 		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4RmhrWHZaV0U0U28',
 		price:'0',
 		duration:'04:27',
-		cover:'https://www.mediafire.com/convkey/5ab8/u5f4886rjjtony56g.jpg'
+		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4Z2MxckVENnN2ajA',
@@ -206,7 +206,7 @@ var myPlaylist = [
 		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4bGpLTzVmcnItNVU',
 		price:'0',
 		duration:'03:47',
-		cover:'https://www.mediafire.com/convkey/5ab8/u5f4886rjjtony56g.jpg'
+		cover:'https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4S0lTcjdWQzJTd00',
@@ -217,7 +217,7 @@ var myPlaylist = [
 		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4S0lTcjdWQzJTd00',
 		price:'0',
 		duration:'05:44',
-		cover:'https://www.mediafire.com/convkey/5ab8/u5f4886rjjtony56g.jpg'
+		cover:'https://www.mediafire.com/convkey/chuasua/u5f4886rjjtony56g.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4bW9WUkQzSGQ5cGc',
