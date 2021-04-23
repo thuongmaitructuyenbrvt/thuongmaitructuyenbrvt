@@ -217,7 +217,7 @@ var myPlaylist = [
 		buy:'https://drive.google.com/open?id=0BxTvT8zcUBb4S0lTcjdWQzJTd00',
 		price:'0',
 		duration:'05:44',
-		cover:'https://www.mediafire.com/convkey/chuasua/u5f4886rjjtony56g.jpg'
+		cover:'https://www.mediafire.com/convkey/5ab8/u5f4886rjjtony56g.jpg'
 	},
 	{
 		mp3:'https://drive.google.com/uc?export=view&id=0BxTvT8zcUBb4bW9WUkQzSGQ5cGc',
