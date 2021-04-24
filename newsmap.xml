@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 	<url>
+		<loc>https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/nhac-hoa-tau-tuyen-chon.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>thương mại brvt</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-04-24</news:publication_date>
+			<news:title>Nhạc hòa tấu tuyển chọn khương itvtbadboy sưu tầm</news:title>
+			<news:keywords>nhạc hòa tấu</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/guzheng-dac-biet.amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>thương mại brvt</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-04-24</news:publication_date>
+			<news:title>Guzheng đặc biệt chỉ 102, concert pop tuyển chọn khương itvtbadboy</news:title>
+			<news:keywords>guzheng đặc biệt</news:keywords>
+		</news:news>
+	</url>
+	<url>
 		<loc>https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/nhac-tre-tuyen-chon.html</loc>
 		<news:news>
 			<news:publication>
