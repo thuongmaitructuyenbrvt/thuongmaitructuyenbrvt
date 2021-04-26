@@ -1,5 +1,3 @@
-
-
 /* ----------------------------------------------------------------
 	Colors
 
@@ -187,7 +185,17 @@ input.switch-toggle-flat:checked + label::after,
 
 .title-block { border-left-color: #267DF4; }
 
+.rtl .title-block {
+	border-left-color: transparent;
+	border-right-color: #267DF4;
+}
+
 .title-block-right { border-right-color: #267DF4; }
+
+.rtl .title-block-right {
+	border-right-color: transparent;
+	border-left-color: #267DF4;
+}
 
 .more-link,
 .tabs-bb .tab-nav li.ui-tabs-active a,
@@ -235,4 +243,9 @@ input.switch-toggle-flat:checked + label::after,
 	.dark .top-cart-content { border-top-color: #267DF4; }
 
 	.dots-menu .page-menu-item div::after { border-left-color: #267DF4; }
+
+	.rtl .dots-menu .page-menu-item div::after {
+		border-left-color: transparent;
+		border-right-color: #267DF4;
+	}
 }
