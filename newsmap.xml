@@ -234,4 +234,16 @@
 			<news:keywords>hương vị, ẩm thực, du lịch tứ phương</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://thuongmaitructuyenbrvt.github.io/product/am-thuc-canvas/phat-trien-am-thuc.amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>thương mại brvt</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-04-28</news:publication_date>
+			<news:title>Phát triển ẩm thực với website di động chuẩn seo thương mại (đặc sản - đặt cơm - nấu ăn)</news:title>
+			<news:keywords>phát triển, ẩm thực</news:keywords>
+		</news:news>
+	</url>
 </urlset>
