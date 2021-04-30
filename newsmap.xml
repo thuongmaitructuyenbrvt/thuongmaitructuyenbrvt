@@ -12,6 +12,18 @@
 			<news:keywords>lễ hội, thời trang</news:keywords>
 		</news:news>
 	</url>
+	<url>
+		<loc>https://thuongmaitructuyenbrvt.github.io/thuong-mai-dien-tu.amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>thương mại brvt</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-05-01</news:publication_date>
+			<news:title>Thương mại điện tử toàn cầu với amp developer itvtbadboy</news:title>
+			<news:keywords>thương mại, điện tử</news:keywords>
+		</news:news>
+	</url>
 
 
 
