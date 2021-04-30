@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 	<url>
+		<loc>https://thuongmaitructuyenbrvt.github.io/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>thương mại brvt</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-04-30</news:publication_date>
+			<news:title>Lễ hội thời trang thế giới được chia sẽ từ thư viện youtube, cái nôi sinh ra chuyên gia cũng là kho ý tưởng giành riêng cho các nhà thiết kế trẻ</news:title>
+			<news:keywords>lễ hội, thời trang</news:keywords>
+		</news:news>
+	</url>
+
+
+
+	<url>
 		<loc>https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/nhac-hoa-tau-tuyen-chon.html</loc>
 		<news:news>
 			<news:publication>
