@@ -1,0 +1,6 @@
+# Two pages to disavow
+https://thuongmaitructuyenbrvt.github.io/website-thuong-mai/lap-trinh-jumpstart/index.html
+https://thuongmaitructuyenbrvt.github.io/website-thuong-mai/lap-trinh-jumpstart/lap-trinh-di-dong.amp.html
+
+# One domain to disavow
+# domain:google.com
