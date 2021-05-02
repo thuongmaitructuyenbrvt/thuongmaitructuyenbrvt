@@ -1,2 +1,6 @@
 User-agent: *
 Allow: /
+
+Sitemap: sitemap.xml?redirect=false&start-index=1&max-results=50000
+Sitemap: newsmap.xml?redirect=false&start-index=1&max-results=50000
+Sitemap: rss-channel.xml?redirect=false&start-index=1&max-results=50000
