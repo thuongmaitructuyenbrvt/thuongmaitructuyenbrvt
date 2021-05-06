@@ -30,7 +30,7 @@
 <td><img src="https://www.mediafire.com/convkey/590b/smmvqffantao1xw6g.jpg?size_id=8" alt="web du lich"></td>
 </tr>
 <tr>
-<td><h3>web ẩm thực</h3><p><a href="https://thuongmaitructuyenbrvt.github.io/product/am-thuc-canvas/" target="_blank" title="web ẩm thực">Web ẩm thực</a> chuẩn seo là dạng one-page html5 linh hoạt, có thể đáp ứng tất cả nhu cầu doanh nghiệp 1 cách mạnh mẽ</p></td>
+<td><h3>web ẩm thực</h3><p><a href="https://thuongmaitructuyenbrvt.github.io/product/am-thuc-canvas/" target="_blank" title="web ẩm thực">Web ẩm thực</a> chuẩn seo là dạng one-page html5 linh hoạt, có thể đáp ứng tất cả nhu cầu doanh nghiệp</p></td>
 <td><h3>web du lịch</h3><p><a href="https://thuongmaitructuyenbrvt.github.io/product/du-lich-townhub/" target="_blank" title="web du lịch">Web du lịch</a> chuẩn seo thiết kế hiện đại chuyên nghiệp với boxed and wide giả 3d kết hợp hiệu ứng rê chuột</p></td>
 </tr>
 <tr>
@@ -38,8 +38,8 @@
 <td><img src="https://www.mediafire.com/convkey/c6bd/w8gbapoqbjj52i96g.jpg?size_id=8" alt="web ban le"></td>
 </tr>
 <tr>
-<td><h3>web ứng dụng</h3><p><a href="https://thuongmaitructuyenbrvt.github.io/product/ung-dung-sapp/" target="_blank" title="web ứng dụng">Web ứng dụng</a> chuẩn seo là cách tốt nhất để trình bày ứng dụng hoặc sản phẩm, một mã nguồn chuẩn seo mạnh mẽ nhưng dễ sử dụng</p></td>
-<td><h3>web bán lẻ</h3><p><a href="https://thuongmaitructuyenbrvt.github.io/product/ban-le-landrick/" target="_blank" title="web bán lẻ">Web bán lẻ</a> chuẩn seo đáp ứng tiêu chí thương mại không bảo mật sẽ là tương lai bán hàng đứng đầu thế giới</p></td>
+<td><h3>web ứng dụng</h3><p><a href="https://thuongmaitructuyenbrvt.github.io/product/ung-dung-sapp/" target="_blank" title="web ứng dụng">Web ứng dụng</a> chuẩn seo là 1 mã nguồn chuẩn seo mạnh mẽ nhưng dễ sử dụng</p></td>
+<td><h3>web bán lẻ</h3><p><a href="https://thuongmaitructuyenbrvt.github.io/product/ban-le-landrick/" target="_blank" title="web bán lẻ">Web bán lẻ</a> chuẩn seo đáp ứng tiêu chí thương mại không bảo mật sẽ là tương lai bán hàng</p></td>
 </tr>
 </table>
 
