@@ -30,8 +30,8 @@
 <td><img src="https://www.mediafire.com/convkey/590b/smmvqffantao1xw6g.jpg?size_id=8" alt="web du lich"></td>
 </tr>
 <tr>
-<td><h3>web ẩm thực</h3><p><a href="https://thuongmaitructuyenbrvt.github.io/product/am-thuc-canvas/" target="_blank" title="web ẩm thực">Web ẩm thực</a> chuẩn seo là dạng one-page html5 linh hoạt</p></td>
-<td><h3>web du lịch</h3><p><a href="https://thuongmaitructuyenbrvt.github.io/product/du-lich-townhub/" target="_blank" title="web du lịch">Web du lịch</a> chuẩn seo thiết kế hiện đại chuyên nghiệp với boxed and wide giả 3d</p></td>
+<td><h3>web ẩm thực</h3><p><a href="https://thuongmaitructuyenbrvt.github.io/product/am-thuc-canvas/" target="_blank" title="web ẩm thực">Web ẩm thực</a> chuẩn seo là dạng one-page html5 linh hoạt, có thể đáp ứng tất cả nhu cầu doanh nghiệp 1 cách mạnh mẽ</p></td>
+<td><h3>web du lịch</h3><p><a href="https://thuongmaitructuyenbrvt.github.io/product/du-lich-townhub/" target="_blank" title="web du lịch">Web du lịch</a> chuẩn seo thiết kế hiện đại chuyên nghiệp với boxed and wide giả 3d kết hợp hiệu ứng rê chuột</p></td>
 </tr>
 <tr>
 <td><img src="https://www.mediafire.com/convkey/f5d8/a84kbltd9aqikzw6g.jpg?size_id=8" alt="web ung dung"></td>
