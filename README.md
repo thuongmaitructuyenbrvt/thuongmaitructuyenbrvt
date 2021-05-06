@@ -38,7 +38,7 @@
 <td><img src="https://www.mediafire.com/convkey/c6bd/w8gbapoqbjj52i96g.jpg?size_id=8" alt="web ban le"></td>
 </tr>
 <tr>
-<td><h3>web ứng dụng</h3><p><a href="https://thuongmaitructuyenbrvt.github.io/product/ung-dung-sapp/" target="_blank" title="web ứng dụng">Web ứng dụng</a> chuẩn seo là 1 mã nguồn chuẩn seo mạnh mẽ nhưng dễ sử dụng</p></td>
+<td><h3>web ứng dụng</h3><p><a href="https://thuongmaitructuyenbrvt.github.io/product/ung-dung-sapp/" target="_blank" title="web ứng dụng">Web ứng dụng</a> chuẩn seo là 1 mã nguồn trình bày sản phẩm chuẩn seo mạnh mẽ nhưng dễ sử dụng</p></td>
 <td><h3>web bán lẻ</h3><p><a href="https://thuongmaitructuyenbrvt.github.io/product/ban-le-landrick/" target="_blank" title="web bán lẻ">Web bán lẻ</a> chuẩn seo đáp ứng tiêu chí thương mại không bảo mật sẽ là tương lai bán hàng</p></td>
 </tr>
 </table>
