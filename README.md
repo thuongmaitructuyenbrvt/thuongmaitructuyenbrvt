@@ -1,24 +1,24 @@
-<div itemscope itemtype="https://schema.org/VideoObject">
+<div vocab="https://schema.org/" typeof="VideoObject">
 
-<h2 itemprop="name">thương mại trực tuyến brvt</h2>
+<h2 property="name">thương mại brvt</h2>
 
-<a itemprop="contentUrl" title="thuong mai truc tuyen brvt" href="https://www.youtube.com/watch?v=4LRzMxyZTh4" target="_blank">
-	<img itemprop="thumbnailUrl" alt="thuong mai truc tuyen brvt" src="https://www.mediafire.com/convkey/73f8/gnkodiwov72orah6g.jpg?size_id=8" width="auto">
+<a property="contentUrl" title="thương mại brvt" href="https://www.youtube.com/watch?v=4LRzMxyZTh4" target="_blank">
+	<img property="thumbnailUrl" alt="thuong mai brvt" src="https://www.mediafire.com/convkey/73f8/gnkodiwov72orah6g.jpg?size_id=8" width="auto">
 </a>
 
-<p itemprop="description">Thương mại trực tuyến brvt hỗ trợ doanh nghiệp, ngân hàng, nhà hàng kinh doanh sản phẩm văn phòng, dịch vụ công nghệ thông tin, ẩm thực á âu hiệu quả #thuong #mai #brvt [<em itemprop="uploadDate">Feb 10, 2020</em> | <em itemprop="duration">PT1M</em>]</p>
+<p property="description">Thương mại trực tuyến cung cấp giải pháp quảng bá thương hiệu (an ninh mạng - website bootstrap - trang di động amp - ma trận cdn backends & frontends). Thương mại trực tuyến 56 nguyễn hữu huân long tâm brvt, quản lý khương itvtbadboy [<em property="uploadDate">Feb 10, 2020</em> | <em property="duration">PT1M</em>]</p>
 
 <table style="width:100%">
 <tr>
-<td>thương hiệu (00:01)</td>
-<td>thương nghiệp (00:21)</td>
-<td>tin tức (00:41)</td>
+<td>thời trang (00:01)</td>
+<td>seo web (00:21)</td>
+<td>dịch vụ (00:41)</td>
 </tr>
 </table>
 
 <hr>
 
-<div itemprop="hasPart">
+<div property="hasPart">
 
 <h3>website bootstrap nổi bật</h3>
 
@@ -26,12 +26,12 @@
 
 <table style="width:100%">
 <tr>
-<td><img src="https://www.mediafire.com/convkey/16ae/xgpuaciq8xbdfbb6g.jpg?size_id=8" alt="am thuc canvas"></td>
-<td><img src="https://www.mediafire.com/convkey/f258/cfind9u17fbj9n26g.jpg?size_id=8" alt="du lich townhub"></td>
+<td><img src="https://www.mediafire.com/convkey/4fbb/lgttpfs2gowkr5j6g.jpg?size_id=8" alt="web am thuc"></td>
+<td><img src="https://www.mediafire.com/convkey/590b/smmvqffantao1xw6g.jpg?size_id=8" alt="web du lich"></td>
 </tr>
 <tr>
-<td><h3>ẩm thực (canvas)</h3><p>Bootstrap <a href="https://github.com/thuongmaitructuyenbrvt/thuongmaitructuyenbrvt.github.io/wiki/am-thuc-canvas">ẩm thực canvas</a> là dạng one-page html5 linh hoạt, có thể đáp ứng tất cả nhu cầu ...</p></td>
-<td><h3>du lịch (townhub)</h3><p>Bootstrap <a href="https://github.com/thuongmaitructuyenbrvt/thuongmaitructuyenbrvt.github.io/wiki/du-lich-townhub">du lịch townhub</a> thiết kế hiện đại, chuyên nghiệp với boxed and wide giả 3d kết hợp ...</p></td>
+<td><h3>web ẩm thực</h3><p><a href="https://thuongmaitructuyenbrvt.github.io/product/am-thuc-canvas/" target="_blank" title="web ẩm thực">Web ẩm thực</a> chuẩn seo là dạng one-page html5 linh hoạt</p></td>
+<td><h3>web du lịch</h3><p>Bootstrap <a href="https://github.com/thuongmaitructuyenbrvt/thuongmaitructuyenbrvt.github.io/wiki/du-lich-townhub">du lịch townhub</a> thiết kế hiện đại, chuyên nghiệp với boxed and wide giả 3d kết hợp ...</p></td>
 </tr>
 <tr>
 <td><img src="https://www.mediafire.com/convkey/e115/qcg7pbjxnzskdq36g.jpg?size_id=8" alt="ung dung sapp"></td>
@@ -47,7 +47,7 @@
 
 <hr>
 
-<div itemprop="hasPart">
+<div property="hasPart">
 
 <h3>seo di động</h3>
 
@@ -76,7 +76,7 @@
 
 <hr>
 
-<div itemprop="hasPart">
+<div property="hasPart">
 
 <h3>thời trang pinterest</h3>
 
