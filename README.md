@@ -8,7 +8,7 @@
 
 <p property="description">Thương mại trực tuyến cung cấp giải pháp quảng bá thương hiệu (an ninh mạng - website bootstrap - trang di động amp - ma trận cdn backends & frontends). Thương mại trực tuyến 56 nguyễn hữu huân long tâm brvt, quản lý khương itvtbadboy [<em property="uploadDate">Feb 10, 2020</em> | <em property="duration">PT1M</em>]</p>
 
-<p style="text-align: center;"><span>thời trang (00:01)</span>&nbsp;&nbsp;<span>seo web (00:21)</span>&nbsp;&nbsp;<span>dịch vụ (00:41)</span></p>
+<div style="text-align: center;"><p><span style="color: white; background-color: blue;">thời trang (00:01)</span>&nbsp;&nbsp;<span>seo web (00:21)</span>&nbsp;&nbsp;<span>dịch vụ (00:41)</span></p></div>
 
 <table style="width:100%">
 <tr>
