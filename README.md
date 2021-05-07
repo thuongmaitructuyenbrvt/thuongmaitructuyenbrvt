@@ -1,10 +1,10 @@
 <div vocab="https://schema.org/" typeof="VideoObject">
 
-<h2 property="name">thương mại brvt</h2>
-
 <a property="contentUrl" title="thương mại brvt" href="https://www.youtube.com/watch?v=4LRzMxyZTh4" target="_blank">
 	<img property="thumbnailUrl" alt="thuong mai brvt" src="https://www.mediafire.com/convkey/e41f/bt53phvafr3esqy6g.jpg?size_id=8" width="auto">
 </a>
+
+<h2 property="name">thương mại brvt</h2>
 
 <p property="description">Thương mại trực tuyến cung cấp giải pháp quảng bá thương hiệu (an ninh mạng - website bootstrap - trang di động amp - ma trận cdn backends & frontends). Thương mại trực tuyến 56 nguyễn hữu huân long tâm brvt, quản lý khương itvtbadboy [<em property="uploadDate">Feb 10, 2020</em> | <em property="duration">PT1M</em>]</p>
 
