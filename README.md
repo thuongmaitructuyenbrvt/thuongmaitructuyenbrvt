@@ -22,26 +22,30 @@
 
 <div vocab="https://schema.org/" typeof="PodcastSeason">
 
-<h2>website bootstrap nổi bật</h2>
+<h2 property="name">website bootstrap nổi bật</h2>
 
 <p>&#10032; Website nền tảng bootstrap nổi bật thu hút người dùng.</p>
 
+<link property="url" href="https://github.com/thuongmaitructuyenbrvt/thuongmaitructuyenbrvt.github.io/blob/master/README.md#website-bootstrap-n%E1%BB%95i-b%E1%BA%ADt">
+<meta property="seasonNumber" content="1">
+<meta property="numberOfEpisodes" content="4">
+
 <table style="width:100%">
 <tr>
-<td><img src="https://www.mediafire.com/convkey/4fbb/lgttpfs2gowkr5j6g.jpg?size_id=8" alt="web am thuc"></td>
-<td><img src="https://www.mediafire.com/convkey/590b/smmvqffantao1xw6g.jpg?size_id=8" alt="web du lich"></td>
+<td><img property="image" src="https://www.mediafire.com/convkey/4fbb/lgttpfs2gowkr5j6g.jpg?size_id=8" alt="web am thuc"></td>
+<td><img property="image" src="https://www.mediafire.com/convkey/590b/smmvqffantao1xw6g.jpg?size_id=8" alt="web du lich"></td>
 </tr>
 <tr>
-<td><h3>web ẩm thực</h3><p><a href="https://thuongmaitructuyenbrvt.github.io/product/am-thuc-canvas/" target="_blank" title="web ẩm thực">Web ẩm thực</a> chuẩn seo là dạng one-page html5 linh hoạt, có thể đáp ứng tất cả nhu cầu doanh nghiệp</p></td>
-<td><h3>web du lịch</h3><p><a href="https://thuongmaitructuyenbrvt.github.io/product/du-lich-townhub/" target="_blank" title="web du lịch">Web du lịch</a> chuẩn seo thiết kế hiện đại chuyên nghiệp với boxed and wide giả 3d kết hợp hiệu ứng rê chuột</p></td>
+<td property="partOfSeries" vocab="https://schema.org/" typeof="PodcastSeries"><h3 property="name">web ẩm thực</h3><p><a property="url" href="https://thuongmaitructuyenbrvt.github.io/product/am-thuc-canvas/" target="_blank" title="web ẩm thực">Web ẩm thực</a> chuẩn seo là dạng one-page html5 linh hoạt, có thể đáp ứng tất cả nhu cầu doanh nghiệp</p></td>
+<td property="partOfSeries" vocab="https://schema.org/" typeof="PodcastSeries"><h3 property="name">web du lịch</h3><p><a property="url" href="https://thuongmaitructuyenbrvt.github.io/product/du-lich-townhub/" target="_blank" title="web du lịch">Web du lịch</a> chuẩn seo thiết kế hiện đại chuyên nghiệp với boxed and wide giả 3d kết hợp hiệu ứng rê chuột</p></td>
 </tr>
 <tr>
-<td><img src="https://www.mediafire.com/convkey/f5d8/a84kbltd9aqikzw6g.jpg?size_id=8" alt="web ung dung"></td>
-<td><img src="https://www.mediafire.com/convkey/c6bd/w8gbapoqbjj52i96g.jpg?size_id=8" alt="web ban le"></td>
+<td><img property="image" src="https://www.mediafire.com/convkey/f5d8/a84kbltd9aqikzw6g.jpg?size_id=8" alt="web ung dung"></td>
+<td><img property="image" src="https://www.mediafire.com/convkey/c6bd/w8gbapoqbjj52i96g.jpg?size_id=8" alt="web ban le"></td>
 </tr>
 <tr>
-<td><h3>web ứng dụng</h3><p><a href="https://thuongmaitructuyenbrvt.github.io/product/ung-dung-sapp/" target="_blank" title="web ứng dụng">Web ứng dụng</a> chuẩn seo là 1 mã nguồn trình bày sản phẩm chuẩn seo mạnh mẽ nhưng dễ sử dụng</p></td>
-<td><h3>web bán lẻ</h3><p><a href="https://thuongmaitructuyenbrvt.github.io/product/ban-le-landrick/" target="_blank" title="web bán lẻ">Web bán lẻ</a> chuẩn seo đáp ứng tiêu chí thương mại không bảo mật sẽ là tương lai bán hàng</p></td>
+<td property="partOfSeries" vocab="https://schema.org/" typeof="PodcastSeries"><h3 property="name">web ứng dụng</h3><p><a property="url" href="https://thuongmaitructuyenbrvt.github.io/product/ung-dung-sapp/" target="_blank" title="web ứng dụng">Web ứng dụng</a> chuẩn seo là 1 mã nguồn trình bày sản phẩm chuẩn seo mạnh mẽ nhưng dễ sử dụng</p></td>
+<td property="partOfSeries" vocab="https://schema.org/" typeof="PodcastSeries"><h3 property="name">web bán lẻ</h3><p><a property="url" href="https://thuongmaitructuyenbrvt.github.io/product/ban-le-landrick/" target="_blank" title="web bán lẻ">Web bán lẻ</a> chuẩn seo đáp ứng tiêu chí thương mại không bảo mật sẽ là tương lai bán hàng</p></td>
 </tr>
 </table>
 
@@ -49,9 +53,9 @@
 
 <hr>
 
-<div property="hasPart">
+<div vocab="https://schema.org/" typeof="ItemList">
 
-<h3>seo di độngz</h3>
+<h2>seo di động</h2>
 
 <p>&#10032; Hiệu ứng seo json thu hút khách hàng.</p>
 
