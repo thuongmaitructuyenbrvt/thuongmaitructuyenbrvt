@@ -1,47 +1,49 @@
 <div vocab="https://schema.org/" typeof="VideoObject">
 
-<h2 property="name">thương mại brvt</h2>
+	<h1 property="name">thương mại brvt</h1>
 
-<a property="contentUrl" title="thương mại brvt" href="https://www.youtube.com/watch?v=4LRzMxyZTh4" target="_blank">
-	<img property="thumbnailUrl" alt="thuong mai brvt" src="https://www.mediafire.com/convkey/e41f/bt53phvafr3esqy6g.jpg?size_id=8" width="auto">
-</a>
+	<a property="contentUrl" title="thương mại brvt" href="https://www.youtube.com/watch?v=4LRzMxyZTh4" target="_blank">
+		<img property="thumbnailUrl" alt="thuong mai brvt" src="https://www.mediafire.com/convkey/e41f/bt53phvafr3esqy6g.jpg?size_id=8" width="auto">
+	</a>
 
-<p property="description">Thương mại trực tuyến cung cấp giải pháp quảng bá thương hiệu (an ninh mạng - website bootstrap - trang di động amp - ma trận cdn backends & frontends). Thương mại trực tuyến 56 nguyễn hữu huân long tâm brvt, quản lý khương itvtbadboy [<em property="uploadDate">Feb 10, 2020</em> | <em property="duration">PT1M</em>]</p>
+	<p property="description">Thương mại trực tuyến cung cấp giải pháp quảng bá thương hiệu (an ninh mạng - website bootstrap - trang di động amp - ma trận cdn backends & frontends). Thương mại trực tuyến 56 nguyễn hữu huân long tâm brvt, quản lý khương itvtbadboy [<em property="uploadDate">Feb 10, 2020</em> | <em property="duration">PT1M</em>]</p>
 
-<table style="width:100%">
-<tr>
-<td>thời trang (00:01)</td>
-<td>seo web (00:21)</td>
-<td>dịch vụ (00:41)</td>
-</tr>
-</table>
+	<table style="width: 100%;">
+		<tr>
+			<td>thời trang (00:01)</td>
+			<td>seo web (00:21)</td>
+			<td>dịch vụ (00:41)</td>
+		</tr>
+	</table>
+
+</div>
 
 <hr>
 
-<div property="hasPart">
+<div vocab="https://schema.org/" typeof="PodcastSeason">
 
-<h3>website bootstrap nổi bật</h3>
+	<h2>website bootstrap nổi bật</h2>
 
-<p>&#10032; Website nền tảng bootstrap nổi bật thu hút người dùng.</p>
+	<p>&#10032; Website nền tảng bootstrap nổi bật thu hút người dùng.</p>
 
-<table style="width:100%">
-<tr>
-<td><img src="https://www.mediafire.com/convkey/4fbb/lgttpfs2gowkr5j6g.jpg?size_id=8" alt="web am thuc"></td>
-<td><img src="https://www.mediafire.com/convkey/590b/smmvqffantao1xw6g.jpg?size_id=8" alt="web du lich"></td>
-</tr>
-<tr>
-<td><h3>web ẩm thực</h3><p><a href="https://thuongmaitructuyenbrvt.github.io/product/am-thuc-canvas/" target="_blank" title="web ẩm thực">Web ẩm thực</a> chuẩn seo là dạng one-page html5 linh hoạt, có thể đáp ứng tất cả nhu cầu doanh nghiệp</p></td>
-<td><h3>web du lịch</h3><p><a href="https://thuongmaitructuyenbrvt.github.io/product/du-lich-townhub/" target="_blank" title="web du lịch">Web du lịch</a> chuẩn seo thiết kế hiện đại chuyên nghiệp với boxed and wide giả 3d kết hợp hiệu ứng rê chuột</p></td>
-</tr>
-<tr>
-<td><img src="https://www.mediafire.com/convkey/f5d8/a84kbltd9aqikzw6g.jpg?size_id=8" alt="web ung dung"></td>
-<td><img src="https://www.mediafire.com/convkey/c6bd/w8gbapoqbjj52i96g.jpg?size_id=8" alt="web ban le"></td>
-</tr>
-<tr>
-<td><h3>web ứng dụng</h3><p><a href="https://thuongmaitructuyenbrvt.github.io/product/ung-dung-sapp/" target="_blank" title="web ứng dụng">Web ứng dụng</a> chuẩn seo là 1 mã nguồn trình bày sản phẩm chuẩn seo mạnh mẽ nhưng dễ sử dụng</p></td>
-<td><h3>web bán lẻ</h3><p><a href="https://thuongmaitructuyenbrvt.github.io/product/ban-le-landrick/" target="_blank" title="web bán lẻ">Web bán lẻ</a> chuẩn seo đáp ứng tiêu chí thương mại không bảo mật sẽ là tương lai bán hàng</p></td>
-</tr>
-</table>
+	<table style="width:100%">
+		<tr>
+			<td><img src="https://www.mediafire.com/convkey/4fbb/lgttpfs2gowkr5j6g.jpg?size_id=8" alt="web am thuc"></td>
+			<td><img src="https://www.mediafire.com/convkey/590b/smmvqffantao1xw6g.jpg?size_id=8" alt="web du lich"></td>
+		</tr>
+		<tr>
+			<td><h3>web ẩm thực</h3><p><a href="https://thuongmaitructuyenbrvt.github.io/product/am-thuc-canvas/" target="_blank" title="web ẩm thực">Web ẩm thực</a> chuẩn seo là dạng one-page html5 linh hoạt, có thể đáp ứng tất cả nhu cầu doanh nghiệp</p></td>
+			<td><h3>web du lịch</h3><p><a href="https://thuongmaitructuyenbrvt.github.io/product/du-lich-townhub/" target="_blank" title="web du lịch">Web du lịch</a> chuẩn seo thiết kế hiện đại chuyên nghiệp với boxed and wide giả 3d kết hợp hiệu ứng rê chuột</p></td>
+		</tr>
+		<tr>
+			<td><img src="https://www.mediafire.com/convkey/f5d8/a84kbltd9aqikzw6g.jpg?size_id=8" alt="web ung dung"></td>
+			<td><img src="https://www.mediafire.com/convkey/c6bd/w8gbapoqbjj52i96g.jpg?size_id=8" alt="web ban le"></td>
+		</tr>
+		<tr>
+			<td><h3>web ứng dụng</h3><p><a href="https://thuongmaitructuyenbrvt.github.io/product/ung-dung-sapp/" target="_blank" title="web ứng dụng">Web ứng dụng</a> chuẩn seo là 1 mã nguồn trình bày sản phẩm chuẩn seo mạnh mẽ nhưng dễ sử dụng</p></td>
+			<td><h3>web bán lẻ</h3><p><a href="https://thuongmaitructuyenbrvt.github.io/product/ban-le-landrick/" target="_blank" title="web bán lẻ">Web bán lẻ</a> chuẩn seo đáp ứng tiêu chí thương mại không bảo mật sẽ là tương lai bán hàng</p></td>
+		</tr>
+	</table>
 
 </div>
 
@@ -126,7 +128,5 @@
 <td></td>
 </tr>
 </table>
-
-</div>
 
 </div>
