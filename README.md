@@ -126,7 +126,7 @@
 <td></td>
 </tr>
 <tr>
-<td><h3>trang điểm thiếu nữ (makeup)</h3><p>Phong cách <a href="https://www.pinterest.com/itvtbadboy/trang-diem-make-up/">trang điểm thiếu nữ</a> trẻ đẹp ngất ngây mỗi ngày.</p></td>
+<td><h3>trang điểm thiếu nữ</h3><p>Phong cách <a href="https://www.pinterest.com/itvtbadboy/trang-diem-make-up/">trang điểm thiếu nữ</a> trẻ đẹp ngất ngây mỗi ngày.</p></td>
 <td></td>
 </tr>
 </table>
