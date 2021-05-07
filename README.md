@@ -82,9 +82,7 @@
 
 <hr>
 
-<div property="hasPart">
-
-<h3>thời trang pinterest</h3>
+<h2>thời trang pinterest</h2>
 
 <p>&#10032; Giải pháp khai thác ảnh và video thời trang pinterest.</p>
 
@@ -130,5 +128,3 @@
 <td></td>
 </tr>
 </table>
-
-</div>
