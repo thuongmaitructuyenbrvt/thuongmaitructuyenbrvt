@@ -1,136 +1,824 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>https://thuongmaitructuyenbrvt.github.io/</loc>
-		<lastmod>2021-05-11</lastmod>
-	</url>
-	<url>
-		<loc>https://thuongmaitructuyenbrvt.github.io/thuong-mai-dien-tu.amp.html</loc>
-		<lastmod>2021-05-11</lastmod>
-	</url>
-	<url>
-		<loc>https://thuongmaitructuyenbrvt.github.io/css/sortable/trangsanpham.html</loc>
-		<lastmod>2021-05-03</lastmod>
-	</url>
-	<url>
-		<loc>https://thuongmaitructuyenbrvt.github.io/css/sortable/trangtintuc.html</loc>
-		<lastmod>2021-05-03</lastmod>
-	</url>
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+	<!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WVHVJHX');</script><!-- End Google Tag Manager -->
+	<meta charset="utf-8">
+	<meta name="pinterest-rich-pin" content="true">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="anh-thuong-hieu/badboy.ico" rel="shortcut icon" type="image/x-icon">
+	<link rel="amphtml" href="thuong-mai-dien-tu.amp.html">
+
+	<link href="css/bootstrap/custom.css" rel="stylesheet">
+	<link href="css/bootstrap/color.css" rel="stylesheet">
+	<link href="css/bootstrap/mega-menu.css" rel="stylesheet">
+	<link href="css/bootstrap/bootstrap.css" rel="stylesheet">
+	<link href="css/bootstrap/bootstrap-theme.min.css" rel="stylesheet">
+	<link href="css/bootstrap/materialize.css" rel="stylesheet">
+	<link href="css/bootstrap/owl.slider.css" rel="stylesheet">
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+	<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+	<title>thương mại brvt | trực tuyến</title>
+	<meta name="robots" content="all">
+	<meta name="title" content="thuong mai brvt">
+	<meta name="keywords" content="thuong mai brvt">
+	<meta name="description" content="Thương mại brvt cung cấp giải pháp quảng bá thương hiệu (an ninh mạng - website bootstrap - trang di động amp - ma trận cdn backends & frontends). Thương mại trực tuyến 56 nguyễn hữu huân long tâm brvt, quản lý khương itvtbadboy">
+
+	<style>
+		.searchbar{z-index:2;}
+		.searchbar input{
+			width:100%;
+			min-height:50px;
+			background:#fff;
+			color:#0099ff;
+			font-family:"Times New Roman";
+			font-size:22px;
+			box-shadow:0 1px 2px #333;
+		}
+	</style>
+</head>
 
 
 
-	<url>
-		<loc>https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/nhac-hoa-tuyen-chon.html</loc>
-		<lastmod>2021-05-09</lastmod>
-	</url>
-	<url>
-		<loc>https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/cpop-dac-biet.amp.html</loc>
-		<lastmod>2021-05-08</lastmod>
-	</url>
-	<!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
-	<url>
-		<loc>https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/nhac-quoc-te-tuyen-chon.html</loc>
-		<lastmod>2021-05-09</lastmod>
-	</url>
-	<url>
-		<loc>https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/pop-dac-biet.amp.html</loc>
-		<lastmod>2021-05-08</lastmod>
-	</url>
-	<!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
-	<url>
-		<loc>https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/nhac-tre-tuyen-chon.html</loc>
-		<lastmod>2021-05-09</lastmod>
-	</url>
-	<url>
-		<loc>https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/vpop-dac-biet.amp.html</loc>
-		<lastmod>2021-05-08</lastmod>
-	</url>
-	<!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
-	<url>
-		<loc>https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/nhac-hoa-tau-tuyen-chon.html</loc>
-		<lastmod>2021-05-09</lastmod>
-	</url>
-	<url>
-		<loc>https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/guzheng-dac-biet.amp.html</loc>
-		<lastmod>2021-05-08</lastmod>
-	</url>
-	<!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+<body>
+	<!-- Google Tag Manager (noscript) --><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WVHVJHX" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- End Google Tag Manager (noscript) -->
+	<div id="wrapper" class="wrapper">
+		<div id="cp-header" class="cp-header">
+			<div class="cp-topbar">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-6">
+							<p class="toplinks" style="margin-top: 5px;"><a href="https://www.google.com/search?q=thuong+mai+truc+tuyen+brvt" target="_blank" title="thương mại trực tuyến"><img src="anh-thuong-hieu/logoamp.png" width="26px" height="26px" alt="thuong mai brvt"> <span style="font-size: 18px;">thương mại brvt</span></a></p>
+						</div>
+						<div class="col-md-6">
+							<div class="cp-topsocial pull-right">
+								<ul>
+									<li><a href="https://www.youtube.com/channel/UCWxlQXKvU104ylco8XFcoJg" target="_blank" title="thương mại trực tuyến"><i class="fa fa-youtube"></i></a></li>
+									<li><a href="https://mix.com/thuongmaibrvt" target="_blank" title="thương mại trực tuyến"><i class="fa fa-globe"></i></a></li>
+									<li><a href="https://www.pinterest.com/itvtbadboy/" target="_blank" title="thương mại trực tuyến"><i class="fa fa-pinterest"></i></a></li>
+									<li><a href="https://twitter.com/thuongmaibrvt" target="_blank" title="thương mại trực tuyến"><i class="fa fa-twitter"></i></a></li>
+									<li><a href="https://thuongmaibrvt.tumblr.com/" target="_blank" title="thương mại trực tuyến"><i class="fa fa-tumblr"></i></a></li>
+									<li><a href="https://www.facebook.com/thuongmaigithub/" target="_blank" title="thương mại trực tuyến"><i class="fa fa-facebook"></i></a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div style="background-image: url(https://www.mediafire.com/convkey/cc86/wrrtwy94udukls66g.jpg); background-repeat: no-repeat; background-size: 100%" class="cp-logo-row">
+				<div class="container">
+					<div class="logo text-center">
+						<h1 style="font-size: 60px; margin-bottom: 25px; color: #666666">THƯƠNG MẠI TRỰC TUYẾN</h1>
+					</div>
+				</div>
+			</div>
 
 
 
-	<url>
-		<loc>https://thuongmaitructuyenbrvt.github.io/product/du-lich-townhub/</loc>
-		<lastmod>2021-05-10</lastmod>
-	</url>
-	<url>
-		<loc>https://thuongmaitructuyenbrvt.github.io/product/du-lich-townhub/phat-trien-du-lich.amp.html</loc>
-		<lastmod>2021-05-10</lastmod>
-	</url>
-	<!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
-	<url>
-		<loc>https://thuongmaitructuyenbrvt.github.io/product/am-thuc-canvas/</loc>
-		<lastmod>2021-05-10</lastmod>
-	</url>
-	<url>
-		<loc>https://thuongmaitructuyenbrvt.github.io/product/am-thuc-canvas/phat-trien-am-thuc.amp.html</loc>
-		<lastmod>2021-05-10</lastmod>
-	</url>
-	<!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
-	<url>
-		<loc>https://thuongmaitructuyenbrvt.github.io/product/ban-le-landrick/</loc>
-		<lastmod>2021-05-10</lastmod>
-	</url>
-	<url>
-		<loc>https://thuongmaitructuyenbrvt.github.io/product/ban-le-landrick/thi-truong-ban-le.amp.html</loc>
-		<lastmod>2021-05-10</lastmod>
-	</url>
-	<!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
-	<url>
-		<loc>https://thuongmaitructuyenbrvt.github.io/product/ung-dung-sapp/</loc>
-		<lastmod>2021-05-10</lastmod>
-	</url>
-	<url>
-		<loc>https://thuongmaitructuyenbrvt.github.io/product/ung-dung-sapp/bao-mat-ung-dung.amp.html</loc>
-		<lastmod>2021-05-10</lastmod>
-	</url>
-	<!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
+			<div class="cp-megamenu">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="cp-mega-menu">
+								<label for="mobile-button"><i class="fa fa-bars"></i></label>
+								<input id="mobile-button" type="checkbox">
+								<ul class="collapse main-menu">
+									<li class="slogo"><a href="https://www.thuongmaitructuyenbrvt.com/" target="_blank" title="thương mại trực tuyến"><img alt="thuong mai brvt" src="anh-thuong-hieu/logo_menu.png"></a></li>
+									<li id="sanpham"><a>sản phẩm</a><div class="drop-down full-width col-5 hover-expand"><iframe src="css/sortable/trangsanpham.html" width="100%" height="240" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></div></li>
+									<li id="tintuc"><a>tin tức</a><div class="drop-down full-width col-5 hover-expand"><iframe src="css/sortable/trangtintuc.html" width="100%" height="240" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></div></li>
+									<li id="giaitri">
+										<a>giải trí</a>
+										<ul class="drop-down full-width col-5 hover-expand">
+											<li><p style="font-size:22px"><a href="nhac-tuyen-chon/nhac-hoa-tuyen-chon.html" target="_blank" title="nhạc hoa thương mại trực tuyến">nhạc hoa</a></p></li>
+											<li><p style="font-size:22px"><a href="nhac-tuyen-chon/nhac-quoc-te-tuyen-chon.html" target="_blank" title="nhạc quốc tế thương mại trực tuyến">quốc tế</a></p></li>
+											<li><p style="font-size:22px"><a href="nhac-tuyen-chon/nhac-hoa-tau-tuyen-chon.html" target="_blank" title="nhạc hòa tấu thương mại trực tuyến">hòa tấu</a></p></li>
+											<li><p style="font-size:22px"><a href="nhac-tuyen-chon/nhac-tre-tuyen-chon.html" target="_blank" title="nhạc trẻ thương mại trực tuyến">nhạc trẻ</a></p></li>
+										</ul>
+									</li>
+									<li id="hoidap"><a href="https://noibo.thuongmaitructuyenbrvt.com" target="_blank" title="nội bộ thương mại trực tuyến">nội bộ</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 
 
 
-	<url>
-		<loc>https://thuongmaitructuyenbrvt.github.io/news/article-json.html</loc>
-		<lastmod>2021-04-17</lastmod>
-	</url>
-	<url>
-		<loc>https://thuongmaitructuyenbrvt.github.io/news/ma-tran-tin-tuc.amp.html</loc>
-		<lastmod>2021-04-17</lastmod>
-	</url>
-	<!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
-	<url>
-		<loc>https://thuongmaitructuyenbrvt.github.io/news/itemlist-json.html</loc>
-		<lastmod>2021-04-18</lastmod>
-	</url>
-	<url>
-		<loc>https://thuongmaitructuyenbrvt.github.io/news/ma-tran-danh-muc.amp.html</loc>
-		<lastmod>2021-04-18</lastmod>
-	</url>
-	<!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
-	<url>
-		<loc>https://thuongmaitructuyenbrvt.github.io/news/recipe-json.html</loc>
-		<lastmod>2021-04-17</lastmod>
-	</url>
-	<url>
-		<loc>https://thuongmaitructuyenbrvt.github.io/news/ma-tran-am-thuc.amp.html</loc>
-		<lastmod>2021-04-15</lastmod>
-	</url>
-	<!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
-	<url>
-		<loc>https://thuongmaitructuyenbrvt.github.io/news/howto-json.html</loc>
-		<lastmod>2021-04-20</lastmod>
-	</url>
-	<url>
-		<loc>https://thuongmaitructuyenbrvt.github.io/news/ma-tran-huong-dan.amp.html</loc>
-		<lastmod>2021-04-20</lastmod>
-	</url>
-	<!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->
-</urlset>
+		<div class="main-content">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8">
+						<div class="cp-news-grid-style-1" id="websitebootstrapnoibat">
+							<div class="section-title blue-border">
+								<h2>website bootstrap nổi bật</h2>
+								<small>website nền tảng bootstrap nổi bật thu hút người dùng</small>
+							</div>
+							<div class="row">
+								<ul class="grid">
+									<li class="col-md-6 col-sm-6" id="bootstrapamthuccanvas">
+										<div class="cp-news-post-excerpt">
+											<div class="cp-thumb"><img src="https://www.mediafire.com/convkey/4fbb/lgttpfs2gowkr5j6g.jpg" alt="thuong mai brvt"></div>
+											<div class="cp-post-content">
+												<div class="catname"><a class="catname-btn btn-purple waves-effect waves-button" href="product/am-thuc-canvas/index.html" target="_blank" title="Bootstrap ẩm thực canvas là dạng one-page html5 linh hoạt, có thể đáp ứng tất cả nhu cầu doanh nghiệp 1 cách mạnh mẽ với hơn 1000 mẫu giao diện và 100+ file photoshop psd đính kèm">ẩm thực (canvas)</a></div>
+												<h3>bootstrap ẩm thực canvas</h3>
+												<ul class="cp-post-tools">
+													<li><i class="fa fa-user"></i> <a href="https://www.google.com.vn/search?q=khuong+itvtbadboy" target="_blank" title="quản lý thương mại trực tuyến">itvtbadboy</a></li>
+													<li><i class="fa fa-book"></i> <a title="giải pháp doanh nghiệp thương mại trực tuyến">doanh nghiệp</a></li>
+												</ul>
+											</div>
+										</div>
+									</li>
+									<li class="col-md-6 col-sm-6" id="bootstrapdulichtownhub">
+										<div class="cp-news-post-excerpt">
+											<div class="cp-thumb"><img src="https://www.mediafire.com/convkey/590b/smmvqffantao1xw6g.jpg" alt="thuong mai brvt"></div>
+											<div class="cp-post-content">
+												<div class="catname"><a class="catname-btn btn-purple waves-effect waves-button" href="product/du-lich-townhub/index.html" target="_blank" title="Bootstrap du lịch townhub thiết kế hiện đại chuyên nghiệp với boxed and wide giả 3d kết hợp hiệu ứng rê chuột, web du lịch tạo ra 1 thành phố trực tuyến thu nhỏ không mã nguồn nào theo kịp">du lịch (townhub)</a></div>
+												<h3>bootstrap du lịch townhub</h3>
+												<ul class="cp-post-tools">
+													<li><i class="fa fa-user"></i> <a href="https://www.google.com.vn/search?q=khuong+itvtbadboy" target="_blank" title="quản lý thương mại trực tuyến">itvtbadboy</a></li>
+													<li><i class="fa fa-book"></i> <a title="giải pháp doanh nghiệp thương mại trực tuyến">doanh nghiệp</a></li>
+												</ul>
+											</div>
+										</div>
+									</li>
+								</ul>
+								<ul class="grid">
+									<li class="col-md-6 col-sm-6" id="bootstrapbanlelandrick">
+										<div class="cp-news-post-excerpt">
+											<div class="cp-thumb"><img src="https://www.mediafire.com/convkey/c6bd/w8gbapoqbjj52i96g.jpg" alt="thuong mai brvt"></div>
+											<div class="cp-post-content">
+												<div class="catname"><a class="catname-btn btn-purple waves-effect waves-button" href="product/ban-le-landrick/index.html" target="_blank" title="Bootstrap bán lẻ landrick đáp ứng tiêu chí thương mại không bảo mật sẽ là tương lai bán hàng đứng đầu thế giới, web bán lẻ hỗ trợ tối đa seo json và dễ dàng phát triển">bán lẻ (landrick)</a></div>
+												<h3>bootstrap bán lẻ landrick</h3>
+												<ul class="cp-post-tools">
+													<li><i class="fa fa-user"></i> <a href="https://www.google.com.vn/search?q=khuong+itvtbadboy" target="_blank" title="quản lý thương mại trực tuyến">itvtbadboy</a></li>
+													<li><i class="fa fa-book"></i> <a title="giải pháp công nghệ thương mại trực tuyến">công nghệ</a></li>
+												</ul>
+											</div>
+										</div>
+									</li>
+									<li class="col-md-6 col-sm-6" id="bootstrapungdungsapp">
+										<div class="cp-news-post-excerpt">
+											<div class="cp-thumb"><img src="https://www.mediafire.com/convkey/f5d8/a84kbltd9aqikzw6g.jpg" alt="thuong mai brvt"></div>
+											<div class="cp-post-content">
+												<div class="catname"><a class="catname-btn btn-purple waves-effect waves-button" href="product/ung-dung-sapp/index.html" target="_blank" title="Bootstrap ứng dụng sapp là cách tốt nhất để trình bày ứng dụng hoặc sản phẩm, một mã nguồn chuẩn seo mạnh mẽ nhưng dễ sử dụng với khả năng tùy chỉnh cao">ứng dụng (sapp)</a></div>
+												<h3>bootstrap ứng dụng sapp</h3>
+												<ul class="cp-post-tools">
+													<li><i class="fa fa-user"></i> <a href="https://www.google.com.vn/search?q=khuong+itvtbadboy" target="_blank" title="quản lý thương mại trực tuyến">itvtbadboy</a></li>
+													<li><i class="fa fa-book"></i> <a title="giải pháp công nghệ thương mại trực tuyến">công nghệ</a></li>
+												</ul>
+											</div>
+										</div>
+									</li>
+								</ul>
+							</div>
+						</div>
+
+
+
+						<div class="cp-news-grid-style-2 m20" id="phattrienquanly">
+							<div class="section-title blue-border">
+								<h2>quản lý phát triển</h2>
+								<small>chuyên viên phát triển và quản lý nội dung thương mại trực tuyến</small>
+							</div>
+							<div class="row">
+								<div class="col-md-12">
+									<div class="cp-fullwidth-news-post-excerpt">
+										<div class="cp-thumb" style="box-shadow: 0px 1px 1px 2px #333333;"><img src="https://www.mediafire.com/convkey/5ab8/u5f4886rjjtony56g.jpg" alt="thuong mai brvt"></div>
+										<div class="cp-post-content">
+											<h3 style="text-transform:none">itvtbadboy (<a style="color: #0099ff;" href="https://community.spiceworks.com/people/thuongmaibrvt/projects/amp-developer" target="_blank" title="amp developer itvtbadboy">amp developer</a> & seo manager)</h3>
+											<ul class="cp-post-tools">
+												<li><a href="https://hangouts.google.com/group/p3SyYBAwq9axnFys6" target="_blank" title="hangout thương mại trực tuyến"><i class="fa fa-google-plus"></i> hangout</a></li>
+												<li><a href="https://www.youtube.com/live_chat?v=tzdC3wWVmIQ&embed_domain=thuongmaitructuyenbrvt.com" target="_blank" title="kênh youtube thương mại trực tuyến"><i class="fa fa-youtube"></i> youtube</a></li>
+												<li><a href="https://m.me/thuongmaigithub" target="_blank" title="facebook thương mại trực tuyến"><i class="fa fa-facebook"></i> facebook</a></li>
+												<li><a href="https://github.com/thuongmaitructuyenbrvt/www.thuongmaitructuyenbrvt.com/discussions/3#discussion-2538812" target="_blank" title="github thương mại trực tuyến"><i class="fa fa-github"></i> github</a></li>
+											</ul><hr style="clear: both;">
+											<p style="font-size:20px">Khương itvtbadboy phát triển giao diện website bootstrap, thiết kế website di động đột phá seo json thương mại trực tuyến, liên kết ma trận và tài nguyên google bảo vệ bảng xếp hạng từ khóa sản phẩm.</p>
+											<p style="font-size:20px">Khương itvtbadboy quản lý hệ thống web server apache thương mại trực tuyến bảo mật cao (let's enscrypt & hsts), phát triển website tri thức wikimedia, phát triển cms wordpress chuyên seo với gtm json.</p>
+											<p style="font-size:20px">Khương itvtbadboy sử dụng parrot security quản lý lỗi bảo mật website thương mại bootstrap (bypass admin panel, sql injection), giám sát an ninh mạng thương mại trực tuyến.</p>
+											<p style="font-size:20px">Khương itvtbadboy liên kết lắp đặt hệ thống điện năng lượng mặt trời, camera chống trộm, mạng nội bộ văn phòng, viết phần mềm quản lý bán hàng phát triển thương mại trực tuyến, sửa chữa thiết bị công nghệ.</p>
+										</div>
+									</div>
+								</div>
+								<ul class="small-grid">
+									<li class="col-md-6 col-sm-6" style="margin-top:10px">
+										<div class="small-post">
+											<div class="cp-post-content">
+												<h3><a href="https://g.page/thuongmaibrvt?share" target="_blank" title="thương mại trực tuyến business"><i class="fa fa-google-plus"></i> business</a></h3>
+											</div>
+										</div>
+									</li>
+									<li class="col-md-6 col-sm-6" style="margin-top:10px">
+										<div class="small-post">
+											<div class="cp-post-content">
+												<h3><a href="https://www.youtube.com/channel/UCWxlQXKvU104ylco8XFcoJg" target="_blank" title="thương mại trực tuyến youtube"><i class="fa fa-youtube"></i> youtube</a></h3>
+											</div>
+										</div>
+									</li>
+									<li class="col-md-6 col-sm-6" style="margin-top:10px">
+										<div class="small-post">
+											<div class="cp-post-content">
+												<h3><a href="https://www.facebook.com/watch/101002468197907/303703050734720" target="_blank" title="thương mại trực tuyến facebook"><i class="fa fa-facebook"></i> facebook</a></h3>
+											</div>
+										</div>
+									</li>
+									<li class="col-md-6 col-sm-6" style="margin-top:10px">
+										<div class="small-post">
+											<div class="cp-post-content">
+												<h3><a href="https://www.pinterest.com/itvtbadboy/" target="_blank" title="thương mại trực tuyến pinterest"><i class="fa fa-pinterest"></i> pinterest</a></h3>
+											</div>
+										</div>
+									</li>
+								</ul><div style="clear: both;"></div>
+
+								<ul class="small-grid">
+									<li class="col-md-6 col-sm-6" style="margin-top:10px">
+										<div class="small-post">
+											<div class="cp-post-content">
+												<h3><a href="https://twitter.com/thuongmaibrvt" target="_blank" title="thương mại trực tuyến twitter"><i class="fa fa-twitter"></i> twitter</a></h3>
+											</div>
+										</div>
+									</li>
+									<li class="col-md-6 col-sm-6" style="margin-top:10px">
+										<div class="small-post">
+											<div class="cp-post-content">
+												<h3><a href="https://thuongmaibrvt.tumblr.com/" target="_blank" title="thương mại trực tuyến tumblr"><i class="fa fa-tumblr"></i> tumblr</a></h3>
+											</div>
+										</div>
+									</li>
+									<li class="col-md-6 col-sm-6" style="margin-top:10px">
+										<div class="small-post">
+											<div class="cp-post-content">
+												<h3><a href="https://www.reddit.com/user/thuongmaibrvt" target="_blank" title="thương mại trực tuyến reddit"><i class="fa fa-reddit"></i> reddit</a></h3>
+											</div>
+										</div>
+									</li>
+									<li class="col-md-6 col-sm-6" style="margin-top:10px">
+										<div class="small-post">
+											<div class="cp-post-content">
+												<h3><a href="https://www2.slideshare.net/thngmibrvt" target="_blank" title="thương mại trực tuyến slideshare"><i class="fa fa-slideshare"></i> slideshare</a></h3>
+											</div>
+										</div>
+									</li>
+								</ul>
+							</div>
+						</div>
+
+
+
+						<link rel="stylesheet" href="css/bootstrap/jkresponsivegallery.css" />
+						<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+						<script src="js/bootstrap/jkresponsivegallery.js"></script>
+						<script>
+							jQuery(function($){
+								$('#youtubetintucarticle').responsivegallery()
+								$('#youtubeamthucrecipe').responsivegallery()
+								$('#danhmucitemlist').responsivegallery()
+								$('#huongdanhowto').responsivegallery()
+								$('#youtubeboschgbh226e01').responsivegallery()
+								$('#youtubeboschgbh226e02').responsivegallery()
+								$('#youtubemiamiswimweek').responsivegallery()
+								$('#youtubeguccispringsummer').responsivegallery()
+								$('#youtubechanelfallwinter').responsivegallery()
+								$('#youtubeversacefallwinter').responsivegallery()
+							})
+						</script>
+						<div style="margin-top: 30px;" class="cp-news-grid-style-2 m20" id="seoschemajson">
+							<div class="section-title blue-border">
+								<h2>seo schema json</h2>
+								<small>hiệu ứng seo schema json thu hút khách hàng</small>
+							</div>
+							<div class="row">
+								<div class="col-md-12">
+									<div class="cp-fullwidth-news-post-excerpt">
+										<div class="cp-thumb" style="box-shadow: 0px 1px 1px 2px #333333;"><img src="https://www.mediafire.com/convkey/264d/ct91708sd2yjq856g.jpg" alt="thuong mai brvt"></div>
+										<div class="cp-post-content">
+											<h3 style="text-transform:none"><a style="color: #0099ff;" href="news" target="_blank" title="thư viện seo thương mại brvt">thư viện seo</a> - tác giả itvtbadboy</h3>
+											<ul class="cp-post-tools">
+												<li><a href="https://hangouts.google.com/group/p3SyYBAwq9axnFys6" target="_blank" title="hangout thương mại trực tuyến"><i class="fa fa-google-plus"></i> hangout</a></li>
+												<li><a href="https://www.youtube.com/live_chat?v=tzdC3wWVmIQ&embed_domain=thuongmaitructuyenbrvt.com" target="_blank" title="kênh youtube thương mại trực tuyến"><i class="fa fa-youtube"></i> youtube</a></li>
+												<li><a href="https://m.me/thuongmaigithub" target="_blank" title="facebook thương mại trực tuyến"><i class="fa fa-facebook"></i> facebook</a></li>
+												<li><a href="https://github.com/thuongmaitructuyenbrvt/www.thuongmaitructuyenbrvt.com/discussions/3#discussion-2538812" target="_blank" title="github thương mại trực tuyến"><i class="fa fa-github"></i> github</a></li>
+											</ul><hr style="clear: both;">
+											<p style="font-size: 20px;">Seo schema json tuy 2 mà 1, không đơn giản chỉ phát triển hiệu ứng website mà phải đưa hiệu ứng vào ma trận đột phá toàn diện, quản lý hết cơ hội trên bảng xếp hạng.</p>
+											<p style="font-size:20px">Seo schema json khương itvtbadboy phát triển đa hiệu ứng website amp top 3x hiệu quả, mạnh dạng khai thác google tag manager (gtm) đột phá giới hạn ma trận cdn và thương mại wiki.</p>
+										</div>
+									</div>
+								</div>
+								<ul class="small-grid">
+									<li class="col-md-6 col-sm-6" id="seotintucarticle">
+										<div class="small-post">
+											<div class="cp-thumb"><img src="https://www.mediafire.com/convkey/41b8/u6h0z2l5ctrwdpl6g.jpg" alt="thuong mai brvt"></div>
+											<div class="cp-post-content">
+												<h4><a href="https://www.youtube.com/embed/TDL1Lyj4rmI" id="youtubetintucarticle" title="Tin tức article liên kết trang di động amp stories đột phá bài tin hàng đầu top news, tác giả khương itvtbadboy">tin tức article</a></h4>
+												<ul class="cp-post-tools">
+													<li><i class="icon-1"></i> Jan 21, 2021</li>
+													<li><i class="icon-2"></i> <a href="news/article-json.html" target="_blank" title="tin tức article">di động</a></li>
+												</ul>
+											</div>
+										</div>
+									</li>
+									<li class="col-md-6 col-sm-6" id="seoamthucrecipe">
+										<div class="small-post">
+											<div class="cp-thumb"><img src="https://www.mediafire.com/convkey/b8e0/lg1ut0jie77fpx76g.jpg" alt="thuong mai brvt"></div>
+											<div class="cp-post-content">
+												<h4><a href="https://www.youtube.com/embed/sMn7eqepS_g" id="youtubeamthucrecipe" title="Ẩm thực liên kết trang di động amp stories đột phá doanh thu du lịch tứ phương, tác giả khương itvtbadboy">ẩm thực recipe</a></h4>
+												<ul class="cp-post-tools">
+													<li><i class="icon-1"></i> Apr 21, 2021</li>
+													<li><i class="icon-2"></i> <a href="news/recipe-json.html" target="_blank" title="ẩm thực recipe">di động</a></li>
+												</ul>
+											</div>
+										</div>
+									</li>
+									<li class="col-md-6 col-sm-6" id="seodanhmucitemlist">
+										<div class="small-post">
+											<div class="cp-thumb"><img src="https://www.mediafire.com/convkey/c6c3/sd5pmyov1c3bx5u6g.jpg" alt="thuong mai brvt"></div>
+											<div class="cp-post-content">
+												<h4><a href="https://www.youtube.com/embed/YwRA_3hrPdc" id="danhmucitemlist" title="Danh mục itemlist liên kết trang di động amp stories đột phá hiệu ứng chủ lực chuyên nghiệp, tác giả khương itvtbadboy">danh mục itemlist</a></h4>
+												<ul class="cp-post-tools">
+													<li><i class="icon-1"></i> Apr 21, 2021</li>
+													<li><i class="icon-2"></i> <a href="news/itemlist-json.html" target="_blank" title="danh mục itemlist">di động</a></li>
+												</ul>
+											</div>
+										</div>
+									</li>
+									<li class="col-md-6 col-sm-6" id="seohuongdanhowto">
+										<div class="small-post">
+											<div class="cp-thumb"><img src="https://www.mediafire.com/convkey/bcfc/49nr1b34eiskvwt6g.jpg" alt="thuong mai brvt"></div>
+											<div class="cp-post-content">
+												<h4><a href="https://www.youtube.com/embed/6dMwRF18z60" id="huongdanhowto" title="Hướng dẫn howto liên kết trang di động amp stories khẳng định uy tín doanh nghiệp, tác giả khương itvtbadboy">hướng dẫn howto</a></h4>
+												<ul class="cp-post-tools">
+													<li><i class="icon-1"></i> Jan 30, 2021</li>
+													<li><i class="icon-2"></i> <a href="news/howto-json.html" target="_blank" title="hướng dẫn howto">di động</a></li>
+												</ul>
+											</div>
+										</div>
+									</li>
+								</ul>
+							</div>
+						</div>
+
+
+
+						<div style="margin-top: 30px;" class="cp-news-grid-style-3 m20" id="thoitrangpinterest">
+							<div class="section-title orange-border">
+								<h2>thời trang pinterest</h2>
+								<small>pinterest quảng bá ảnh thời trang chất lượng cao</small>
+							</div>
+							<div class="grid-holder">
+								<div class="row">
+									<ul class="cp-load-newsgrid">
+										<li class="col-md-4 col-sm-4 cp-news-post" id="leggingthieunu">
+											<div class="cp-thumb"><img src="https://www.mediafire.com/convkey/4bd5/0lyeumy3ois20ja6g.jpg" alt="thuong mai brvt"></div>
+											<h3 align="center">
+												<a href="https://www.pinterest.com/itvtbadboy/legging-footless-tights/" target="_blank" title="thời trang legging thiếu nữ mềm mại nhẹ nhàng, căng tràn nhựa sống">legging thiếu nữ <br>(footless tights)</a>
+											</h3>
+										</li>
+										<li class="col-md-4 col-sm-4 cp-news-post" id="quanjeanthieunu">
+											<div class="cp-thumb"><img src="https://www.mediafire.com/convkey/d1e8/9e9ue1d3svs6vqm6g.jpg" alt="thuong mai brvt"></div>
+											<h3 align="center">
+												<a href="https://www.pinterest.com/itvtbadboy/quan-jean-thieu-nu-jeans/" target="_blank" title="thời trang quần jean thiếu nữ mạnh mẽ cá tính, khao khát bến tình">quần jean thiếu nữ <br>(jeans body)</a>
+											</h3>
+										</li>
+										<li class="col-md-4 col-sm-4 cp-news-post" id="aodaithieunu">
+											<div class="cp-thumb"><img src="https://www.mediafire.com/convkey/01da/xo90y9mjwpa4olh6g.jpg" alt="thuong mai brvt"></div>
+											<h3 align="center">
+												<a href="https://www.pinterest.com/itvtbadboy/ao-dai-long-dress/" target="_blank" title="thời trang áo dài thiếu nữ cong tròn khiêu gợi, căng đầy nữ tính">áo dài thiếu nữ <br>(long dress)</a>
+											</h3>
+										</li>
+										<li class="col-md-4 col-sm-4 cp-news-post" id="aolienquanthieunu">
+											<div class="cp-thumb"><img src="https://www.mediafire.com/convkey/bfee/mmeam718oubugcl6g.jpg" alt="thuong mai brvt"></div>
+											<h3 align="center">
+												<a href="https://www.pinterest.com/itvtbadboy/ao-lien-quan-bodysuit/" target="_blank" title="thời trang áo liền quần thiếu nữ năng động quyến rũ, tự tin khoe dáng">áo liền quần thiếu nữ <br>(bodysuit)</a>
+											</h3>
+										</li>
+										<li class="col-md-4 col-sm-4 cp-news-post" id="dolotthieunu">
+											<div class="cp-thumb"><img src="https://www.mediafire.com/convkey/19df/xpnwqyijjn8ews86g.jpg" alt="thuong mai brvt"></div>
+											<h3 align="center">
+												<a href="https://www.pinterest.com/itvtbadboy/do-lot-underwear/" target="_blank" title="thời trang đồ lót thiếu nữ căng tròn rạo rực, khát khao lửa tình">đồ lót thiếu nữ <br>(underwear)</a>
+											</h3>
+										</li>
+										<li class="col-md-4 col-sm-4 cp-news-post" id="donguthieunu">
+											<div class="cp-thumb"><img src="https://www.mediafire.com/convkey/871b/q6we41q1pg3y09a6g.jpg" alt="thuong mai brvt"></div>
+											<h3 align="center">
+												<a href="https://www.pinterest.com/itvtbadboy/do-ngu-sleepwear/" target="_blank" title="thời trang đồ ngủ thiếu nữ gợi cảm ngọt ngào, xuân tình vẫy gọi">đồ ngủ thiếu nữ <br>(sleepwear)</a>
+											</h3>
+										</li>
+									</ul>
+									<ul class="cp-load-newsgrid">
+										<li class="col-md-4 col-sm-4 cp-news-post" id="quanshortthieunu">
+											<div class="cp-thumb"><img src="https://www.mediafire.com/convkey/0a5e/10flvfi0zuegguf6g.jpg" alt="thuong mai brvt"></div>
+											<h3 align="center">
+												<a href="https://www.pinterest.com/itvtbadboy/quan-short-shorts/" target="_blank" title="thời trang quần short thiếu nữ năng động nữ tính, tràn đầy nhựa sống">quần short thiếu nữ <br>(shorts)</a>
+											</h3>
+										</li>
+										<li class="col-md-4 col-sm-4 cp-news-post" id="aodamthieunu">
+											<div class="cp-thumb"><img src="https://www.mediafire.com/convkey/8376/rez6z1w5q6epjts6g.jpg" alt="thuong mai brvt"></div>
+											<h3 align="center">
+												<a href="https://www.pinterest.com/itvtbadboy/dam-dresses/" target="_blank" title="thời trang áo đầm thiếu nữ thân thể ngọc ngà, căng tròn thướt tha">áo đầm thiếu nữ <br>(dresses)</a>
+											</h3>
+										</li>
+										<li class="col-md-4 col-sm-4 cp-news-post" id="trangdiemthieunu">
+											<div class="cp-thumb"><img src="https://www.mediafire.com/convkey/8193/8wbkglt3p9wtkuc6g.jpg" alt="thuong mai brvt"></div>
+											<h3 align="center">
+												<a href="https://www.pinterest.com/itvtbadboy/trang-diem-make-up/" target="_blank" title="phong cách makeup thời trang thiếu nữ trẻ đẹp ngất ngây mỗi ngày">trang điểm thiếu nữ <br>(makeup)</a>
+											</h3>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+
+
+
+						<div style="margin-top: 50px;" class="cp-news-grid-style-2 m20" id="lehoithoitrang">
+							<div class="section-title blue-border">
+								<h2>lễ hội thời trang</h2>
+								<small>lễ hội trình diễn thời trang toàn cầu</small>
+							</div>
+							<div class="row">
+								<div class="col-md-12">
+									<div class="cp-fullwidth-news-post-excerpt">
+										<div class="cp-post-content">
+											<marquee style="letter-spacing: 13px;" behavior="scroll" direction="right" scrollamount="1">
+												<a href="https://www.youtube.com/embed/deQ0DZH2buA" target="_blank" title="fendi"><img width="100px" src="https://i.ytimg.com/vi/ov0E5ZxCuHg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBU5l-00GxkPojRhDJsFxILXjJenw"></a>
+												<a href="https://www.youtube.com/embed/Av5D_hopdPU" target="_blank" title="armani"><img width="100px" src="https://i.ytimg.com/vi/Av5D_hopdPU/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLC-YTAxXloxtfbTWmNKkqr7GvqlEQ"></a>
+												<a href="https://www.youtube.com/embed/wzYwS3keSps" target="_blank" title="dolce & gabbana"><img width="100px" src="https://i.ytimg.com/vi/wzYwS3keSps/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCkcDZMZr5fnfVtPqG4IiffZpXXoA"></a>
+												<a href="https://www.youtube.com/embed/8vot0_nSTLY" target="_blank" title="burberry"><img width="100px" src="https://i.ytimg.com/vi/8vot0_nSTLY/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDQx03aa-4rm4q6JEd9dokq5PSFRQ"></a>
+												<a href="https://www.youtube.com/embed/zh7c30jSAgk" target="_blank" title="hermes"><img width="100px" src="https://i.ytimg.com/vi/zh7c30jSAgk/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAM0ivmOkO7FODmd7H_S9oTGmjSLw"></a>
+												<a href="https://www.youtube.com/embed/XhOeVYmatJw" target="_blank" title="dior"><img width="100px" src="https://i.ytimg.com/vi/XhOeVYmatJw/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLD0BRnReqfpiwup-ZNcRcix9YL3sg"></a>
+												<a href="https://www.youtube.com/embed/dP9bfB-VCF8" target="_blank" title="prada"><img width="100px" src="https://i.ytimg.com/vi/dP9bfB-VCF8/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDz7EGfRmlY6KFumGesXlhXKWwWTQ"></a>
+												<a href="https://www.youtube.com/embed/VE8STJbiDgI" target="_blank" title="shift"><img width="100px" src="https://i.ytimg.com/vi/VE8STJbiDgI/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLA0gbtPi-HyH62QaKERqb7uHuv61Q"></a>
+												<a href="https://www.youtube.com/embed/I1AqjvdiubA" target="_blank" title="louis"><img width="100px" src="https://i.ytimg.com/vi/I1AqjvdiubA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBHwkGJj47I0eW06SrazmI3Cls6ng"></a>
+												<a href="https://www.youtube.com/embed/gdFvxhuxEP4" target="_blank" title="triumph"><img width="100px" src="https://i.ytimg.com/vi/gdFvxhuxEP4/hq2.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0H9_v8T8RmFqGaXAlAl5kGiZ23Q"></a>
+												<a href="https://www.youtube.com/embed/1fwmNtn7ABg" target="_blank" title="victoria's secret"><img width="100px" src="https://i.ytimg.com/vi/1fwmNtn7ABg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDpWqScQKIaiXbw5rJUrZDiSrN9ww"></a>
+											</marquee>
+											<ul class="cp-post-tools">
+												<li><a href="https://www.google.com/search?q=khuong+itvtbadboy" target="_blank" title="quản lý thương mại trực tuyến khương itvtbadboy"><i class="fa fa-user-secret"></i> khương itvtbadboy</a></li>
+												<li><a href="https://www.google.com/search?q=thuong+mai+brvt+channel" target="_blank" title=" thương mại trực tuyến channel"><i class="fa fa-youtube"></i> thương mại channel</a></li>
+												<li><a href="https://www.google.com/search?q=thuongmaiwiki" target="_blank" title="trang tri thức thương mại wiki"><i class="fa fa-dropbox"></i> thương mại wiki</a></li>
+											</ul>
+											<p style="font-size:20px">Lễ hội thời trang thế giới được chia sẽ từ thư viện youtube, cái nôi sinh ra chuyên gia cũng là kho ý tưởng giành riêng cho các nhà thiết kế trẻ.</p>
+										</div>
+									</div>
+								</div>
+								<ul class="small-grid">
+									<li class="col-md-6 col-sm-6" id="miamiswimweek">
+										<div class="small-post">
+											<div class="cp-thumb"><img src="https://i.ytimg.com/vi/i4xvXBlfFCA/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAAyktnWDM76BAd8jxtMtaEzLO-Dw" alt="thuong mai brvt"></div>
+											<div class="cp-post-content">
+												<h3><a href="https://www.youtube.com/watch?v=i4xvXBlfFCA" id="youtubemiamiswimweek" title="lễ hội thời trang miami swim week 2019 stello">miami swim week 2019</a></h3>
+												<ul class="cp-post-tools">
+													<li><i class="icon-1"></i> Feb 02, 2019</li>
+													<li><i class="icon-2"></i> <a href="https://www.youtube.com/channel/UC3T5fmgL4Kvk3kG1kF6JFeA" target="_blank" title="stello resort channel">Stello</a></li>
+												</ul>
+											</div>
+										</div>
+									</li>
+									<li class="col-md-6 col-sm-6" id="guccispringsummer">
+										<div class="small-post">
+											<div class="cp-thumb"><img src="https://i.ytimg.com/vi/AXOfw9x-hVw/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLC8dt-fKT687oUm_cjO42xg0TTYHg" alt="thuong mai brvt"></div>
+											<div class="cp-post-content">
+												<h3><a href="https://www.youtube.com/watch?v=AXOfw9x-hVw" id="youtubeguccispringsummer" title="lễ hội thời trang spring summer 2020 gucci">spring summer 2020</a></h3>
+												<ul class="cp-post-tools">
+													<li><i class="icon-1"></i> Sep 22, 2020</li>
+													<li><i class="icon-2"></i> <a href="https://www.youtube.com/channel/UCo6fjlKg6GuCmEMeqYbGJng" target="_blank" title="gucci channel">Gucci</a></li>
+												</ul>
+											</div>
+										</div>
+									</li>
+									<li class="col-md-6 col-sm-6" id="chanelfallwinter">
+										<div class="small-post">
+											<div class="cp-thumb"><img src="https://i.ytimg.com/vi/yZIx2-gPTgg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD--n48Kq3FxouHlZjZ6qsLVWcqug" alt="thuong mai brvt"></div>
+											<div class="cp-post-content">
+												<h3><a href="https://www.youtube.com/watch?v=yZIx2-gPTgg" id="youtubechanelfallwinter" title="lễ hội thời trang fall winter ready to wear 2021 chanel">fall winter 2021</a></h3>
+												<ul class="cp-post-tools">
+													<li><i class="icon-1"></i> Mar 09, 2021</li>
+													<li><i class="icon-2"></i> <a href="https://www.youtube.com/channel/UCclHSnngVTZK7LEOQAzcg1w" target="_blank" title="chanel channel">Chanel</a></li>
+												</ul>
+											</div>
+										</div>
+									</li>
+									<li class="col-md-6 col-sm-6" id="versacefallwinter">
+										<div class="small-post">
+											<div class="cp-thumb"><img src="https://i.ytimg.com/vi/CSNve1zdxwo/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCbtcgB635kHjQ8qT8kT7vo6wnpeA" alt="thuong mai brvt"></div>
+											<div class="cp-post-content">
+												<h3><a href="https://www.youtube.com/watch?v=CSNve1zdxwo" id="youtubeversacefallwinter" title="lễ hội thời trang fall winter 2020 versace">fall winter 2020</a></h3>
+												<ul class="cp-post-tools">
+													<li><i class="icon-1"></i> Feb 25, 2020</li>
+													<li><i class="icon-2"></i> <a href="https://www.youtube.com/channel/UCrx5pVziMo1qzF8isicR5SQ" target="_blank" title="versace channel">Versace</a></li>
+												</ul>
+											</div>
+										</div>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+
+
+
+					<div class="col-md-4">
+						<div class="sidebar side-bar right-sidebar">
+							<div class="widget sidebar-featured-post" id="doitacthuongmai">
+								<h3 class="side-title">đối tác thương mại</h3>
+								<div class="cp-sidebar-content">
+									<div class="side-featured-slider owl-carousel owl-theme">
+										<div class="item" id="ecommerceservice">
+											<img src="https://www.mediafire.com/convkey/489d/1p1fb1flcj5dcgc6g.jpg" alt="thuong mai brvt">
+											<div class="cp-post-content">
+												<div class="catname"><a class="catname-btn btn-orange waves-effect waves-button" href="https://g.page/thuongmaibrvt?share" target="_blank" title="Thương mại trực tuyến brvt hỗ trợ doanh nghiệp, ngân hàng, nhà hàng kinh doanh sản phẩm văn phòng, dịch vụ công nghệ thông tin, ẩm thực á âu hiệu quả">e-commerce service</a></div>
+												<h3 style="color:#ffffff; line-height:20px">Dịch vụ thương mại điện tử e-commerce</h3>
+											</div>
+										</div>
+										<div class="item" id="internetmarketing">
+											<img src="https://www.mediafire.com/convkey/02b1/dfrf9232voa245s6g.jpg" alt="thuong mai brvt">
+											<div class="cp-post-content">
+												<div class="catname"><a class="catname-btn btn-orange waves-effect waves-button" href="https://g.page/khuongitvtbadboy?share" target="_blank" title="Chia sẽ sổ tay chuyên ngành giám sát an ninh hệ thống và phát triển thương mại trực tuyến toàn cầu, tác giả khương itvtbadboy">internet marketing</a></div>
+												<h3 style="color:#ffffff; line-height:20px">Dịch vụ tiếp thị trực tuyến marketing</h3>
+											</div>
+										</div>
+										<div class="item" id="fashionrestaurant">
+											<img src="https://www.mediafire.com/convkey/5045/9csyzv9teavwn546g.jpg" alt="thuong mai brvt">
+											<div class="cp-post-content">
+												<div class="catname"><a class="catname-btn btn-orange waves-effect waves-button" href="https://g.page/caphethoitrang?share" target="_blank" title="Quảng cáo thời trang thiếu nữ, thương hiệu cà phê, ẩm thực nhà hàng">fashion & restaurant</a></div>
+												<h3 style="color:#ffffff; line-height:20px">Dịch vụ ẩm thực nhà hàng restaurant</h3>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="widget sidebar-featured-post" id="kythuatthuongmai">
+								<h3 class="side-title">kỹ thuật thương mại</h3>
+								<div class="cp-sidebar-content">
+									<div class="side-featured-slider owl-carousel owl-theme">
+										<div class="item" id="baotrikhoanbosch01">
+											<img src="https://www.mediafire.com/convkey/dbf6/6pw088dfg9edste6g.jpg" alt="thuong mai brvt">
+											<div class="cp-post-content">
+												<div class="catname"><a id="youtubeboschgbh226e01" href="https://www.youtube.com/watch?v=F10N9iJ0jjE" class="catname-btn btn-orange waves-effect waves-button" title="kỹ thuật thương mại khoan bosch gbh 2-26 e">bosch gbh 2-26 e (1/2)</a></div>
+												<h3 style="color:#ffffff; line-height:20px">Hướng dẫn kỹ thuật thương mại lắp ráp bảo trì khoan bosch gbh 2-26 e (1/2).</h3>
+											</div>
+										</div>
+										<div class="item" id="baotrikhoanbosch02">
+											<img src="https://www.mediafire.com/convkey/dbf6/6pw088dfg9edste6g.jpg" alt="thuong mai brvt">
+											<div class="cp-post-content">
+												<div class="catname"><a id="youtubeboschgbh226e02" href="https://www.youtube.com/watch?v=KEGUkpMiRrM" class="catname-btn btn-orange waves-effect waves-button" title="kỹ thuật thương mại khoan bosch gbh 2-26 e">bosch gbh 2-26 e (2/2)</a></div>
+												<h3 style="color:#ffffff; line-height:20px">Hướng dẫn kỹ thuật thương mại lắp ráp bảo trì khoan bosch gbh 2-26 e (2/2).</h3>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="widget sidebar-featured-post" id="vaynganthieunu">
+								<h3 class="side-title">váy ngắn thiếu nữ</h3>
+								<div class="cp-sidebar-content">
+									<div class="side-featured-slider owl-carousel owl-theme">
+										<div class="item">
+											<img src="https://www.mediafire.com/convkey/41e2/ukhwpqdla85h5s06g.jpg" alt="thuong mai brvt">
+											<div class="cp-post-content">
+												<div class="catname"><a class="catname-btn btn-orange waves-effect waves-button" href="https://www.thuongmaitructuyenbrvt.com/quang-cao/vay-ngan-trang-satin-ho-lung.html" target="_blank" title="váy ngắn satin trắng hở lưng">váy ngắn satin</a></div>
+												<h3 style="color:#ffffff; line-height:20px">Váy ngắn satin trắng hở lưng bóng mượt, thiếu nữ căng tròn khiêu gợi, sức hút mãnh liệt.</h3>
+											</div>
+										</div>
+										<div class="item">
+											<img src="https://www.mediafire.com/convkey/7f4c/oepf07h9xq2dg796g.jpg" alt="thuong mai brvt">
+											<div class="cp-post-content">
+												<div class="catname"><a class="catname-btn btn-orange waves-effect waves-button" href="https://www.thuongmaitructuyenbrvt.com/quang-cao/vay-ngan-den-satin-dai-tay.html" target="_blank" title="váy ngắn satin đen dài tay">váy ngắn satin</a></div>
+												<h3 style="color:#ffffff; line-height:20px">Váy ngắn satin đen dài tay hở lưng bóng mượt, thiếu nữ căng tròn khiêu gợi, sức hút mãnh liệt.</h3>
+											</div>
+										</div>
+										<div class="item">
+											<img src="https://www.mediafire.com/convkey/606a/5l2gy3wq8tf58d36g.jpg" alt="thuong mai brvt">
+											<div class="cp-post-content">
+												<div class="catname"><a class="catname-btn btn-orange waves-effect waves-button" href="https://www.thuongmaitructuyenbrvt.com/quang-cao/vay-ngan-thun-body-soc-nau.html" target="_blank" title="váy ngắn body thun sọc nâu">váy ngắn body</a></div>
+												<h3 style="color:#ffffff; line-height:20px">Váy ngắn body thun sọc nâu mềm mỏng, thiếu nữ căng tròn khiêu gợi, sức hút mãnh liệt.</h3>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="widget sidebar-featured-post" id="aodamthieunu">
+								<h3 class="side-title">áo đầm thiếu nữ</h3>
+								<div class="cp-sidebar-content">
+									<div class="side-featured-slider owl-carousel owl-theme">
+										<div class="item">
+											<img src="https://www.mediafire.com/convkey/729f/e5fktnfuqtruaus6g.jpg" alt="thuong mai brvt">
+											<div class="cp-post-content">
+												<div class="catname"><a class="catname-btn btn-orange waves-effect waves-button" href="https://www.thuongmaitructuyenbrvt.com/quang-cao/ao-dam-den-2-day-xe-ta.html" target="_blank" title="áo đầm 2 dây đen xẻ tà">áo đầm 2 dây</a></div>
+												<h3 style="color:#ffffff; line-height:20px">Áo đầm 2 dây đen xẻ tà hở lưng, thiếu nữ ngọc ngà, căng tròn thướt tha.</h3>
+											</div>
+										</div>
+										<div class="item">
+											<img src="https://www.mediafire.com/convkey/e6ca/vadkpimc5dpd46t6g.jpg" alt="thuong mai brvt">
+											<div class="cp-post-content">
+												<div class="catname"><a class="catname-btn btn-orange waves-effect waves-button" href="https://www.thuongmaitructuyenbrvt.com/quang-cao/ao-dam-trang-body-ho-vai.html" target="_blank" title="áo đầm body trắng hở vai">áo đầm body</a></div>
+												<h3 style="color:#ffffff; line-height:20px">Áo đầm body trắng hở vai vai ôm toàn thân, thiếu nữ ngọc ngà, căng tròn thướt tha.</h3>
+											</div>
+										</div>
+										<div class="item">
+											<img src="https://www.mediafire.com/convkey/049d/7w0bg9i1c5g9l3a6g.jpg" alt="thuong mai brvt">
+											<div class="cp-post-content">
+												<div class="catname"><a class="catname-btn btn-orange waves-effect waves-button" href="https://www.thuongmaitructuyenbrvt.com/quang-cao/ao-dam-satin-xanh-body-2-day.html" target="_blank" title="áo đầm body satin xanh 2 dây">áo đầm body satin</a></div>
+												<h3 style="color:#ffffff; line-height:20px">Áo đầm body satin xanh 2 dây ôm toàn thân bóng mượt, thiếu nữ ngọc ngà, căng tròn thướt tha.</h3>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="widget sidebar-featured-post" id="damnguthieunu">
+								<h3 class="side-title">đầm ngủ thiếu nữ</h3>
+								<div class="cp-sidebar-content">
+									<div class="side-featured-slider owl-carousel owl-theme">
+										<div class="item">
+											<img src="https://www.mediafire.com/convkey/8ea2/bbr3s2lh4a3ul9c6g.jpg" alt="thuong mai brvt">
+											<div class="cp-post-content">
+												<div class="catname"><a class="catname-btn btn-orange waves-effect waves-button" href="https://www.thuongmaitructuyenbrvt.com/quang-cao/dam-ngu-den-satin-2-day.html" target="_blank" title="đầm ngủ 2 dây satin đen">đầm ngủ 2 dây satin</a></div>
+												<h3 style="color:#ffffff; line-height:20px">Đầm ngủ 2 dây satin đen bóng mượt, thiếu nữ gợi cảm ngọt ngào, xuân tình vẫy gọi.</h3>
+											</div>
+										</div>
+										<div class="item">
+											<img src="https://www.mediafire.com/convkey/f861/w0xd9ug0sfib0yq6g.jpg" alt="thuong mai brvt">
+											<div class="cp-post-content">
+												<div class="catname"><a class="catname-btn btn-orange waves-effect waves-button" href="https://www.thuongmaitructuyenbrvt.com/quang-cao/dam-ngu-ren-trang-2-day.html" target="_blank" title="đầm ngủ 2 dây ren trắng">đầm ngủ 2 dây ren</a></div>
+												<h3 style="color:#ffffff; line-height:20px">Đầm ngủ 2 dây ren trắng, thiếu nữ gợi cảm ngọt ngào, xuân tình vẫy gọi.</h3>
+											</div>
+										</div>
+										<div class="item">
+											<img src="https://www.mediafire.com/convkey/aa3a/zryj9ocy9nzdkde6g.jpg" alt="thuong mai brvt">
+											<div class="cp-post-content">
+												<div class="catname"><a class="catname-btn btn-orange waves-effect waves-button" href="https://www.thuongmaitructuyenbrvt.com/quang-cao/dam-ngu-trang-satin-2-day.html" target="_blank" title="đầm ngủ 2 dây satin trắng">đầm ngủ 2 dây satin</a></div>
+												<h3 style="color:#ffffff; line-height:20px">Đầm ngủ 2 dây satin trắng bóng mượt, thiếu nữ gợi cảm ngọt ngào, xuân tình vẫy gọi.</h3>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="widget sidebar-featured-post" id="donguthieunu">
+								<h3 class="side-title">đồ ngủ thiếu nữ</h3>
+								<div class="cp-sidebar-content">
+									<div class="side-featured-slider owl-carousel owl-theme">
+										<div class="item">
+											<img src="https://www.mediafire.com/convkey/824b/vwvyw8m0nc3bwl36g.jpg" alt="thuong mai brvt">
+											<div class="cp-post-content">
+												<div class="catname"><a class="catname-btn btn-orange waves-effect waves-button" href="https://www.thuongmaitructuyenbrvt.com/quang-cao/do-ngu-luoi-den-ho-lung.html" target="_blank" title="đồ ngủ lưới đen thêu hoa hở lưng">đồ ngủ lưới</a></div>
+												<h3 style="color:#ffffff; line-height:20px">Đồ ngủ lưới đen thêu hoa hở lưng, thiếu nữ gợi cảm ngọt ngào, xuân tình vẫy gọi.</h3>
+											</div>
+										</div>
+										<div class="item">
+											<img src="https://www.mediafire.com/convkey/c5f7/rag5nmp5k30jja06g.jpg" alt="thuong mai brvt">
+											<div class="cp-post-content">
+												<div class="catname"><a class="catname-btn btn-orange waves-effect waves-button" href="https://www.thuongmaitructuyenbrvt.com/quang-cao/do-ngu-den-2-day-that-no.html" target="_blank" title="đồ ngủ 2 dây đen thắt nơ">đồ ngủ 2 dây</a></div>
+												<h3 style="color:#ffffff; line-height:20px">Đồ ngủ 2 dây đen thắt nơ, thiếu nữ gợi cảm ngọt ngào, xuân tình vẫy gọi.</h3>
+											</div>
+										</div>
+										<div class="item">
+											<img src="https://www.mediafire.com/convkey/b9f3/tc9aab8p7mnj4wx6g.jpg" alt="thuong mai brvt">
+											<div class="cp-post-content">
+												<div class="catname"><a class="catname-btn btn-orange waves-effect waves-button" href="https://www.thuongmaitructuyenbrvt.com/quang-cao/do-ngu-ren-den-theu-hoa.html" target="_blank" title="đồ ngủ ren lụa mỏng đen thêu hoa">đồ ngủ ren lụa</a></div>
+												<h3 style="color:#ffffff; line-height:20px">Đồ ngủ ren lụa mỏng đen thêu hoa, thiếu nữ gợi cảm ngọt ngào, xuân tình vẫy gọi.</h3>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="widget sidebar-featured-post" id="aolienquanthieunu">
+								<h3 class="side-title">áo liền quần thiếu nữ</h3>
+								<div class="cp-sidebar-content">
+									<div class="side-featured-slider owl-carousel owl-theme">
+										<div class="item">
+											<img src="https://www.mediafire.com/convkey/5e97/ryeyb8pnmrzci2n6g.jpg" alt="thuong mai brvt">
+											<div class="cp-post-content">
+												<div class="catname"><a class="catname-btn btn-orange waves-effect waves-button" href="https://www.thuongmaitructuyenbrvt.com/quang-cao/ao-lien-quan-cravat-den-2-day.html" target="_blank" title="áo liền quần 2 dây cravat đen">áo liền quần 2 dây</a></div>
+												<h3 style="color:#ffffff; line-height:20px">Áo liền quần 2 dây cravat đen giả sơ mi trắng, thiếu nữ năng động quyến rũ, tự tin khoe dáng.</h3>
+											</div>
+										</div>
+										<div class="item">
+											<img src="https://www.mediafire.com/convkey/6743/g2a5or1ghg9upji6g.jpg" alt="thuong mai brvt">
+											<div class="cp-post-content">
+												<div class="catname"><a class="catname-btn btn-orange waves-effect waves-button" href="https://www.thuongmaitructuyenbrvt.com/quang-cao/ao-lien-quan-trang-luoi-ho-lung.html" target="_blank" title="áo liền quần satin trắng hở lưng">áo liền quần satin</a></div>
+												<h3 style="color:#ffffff; line-height:20px">Áo liền quần satin trắng hở lưng, thiếu nữ năng động quyến rũ, tự tin khoe dáng.</h3>
+											</div>
+										</div>
+										<div class="item">
+											<img src="https://www.mediafire.com/convkey/0693/koh7275eh7cf84g6g.jpg" alt="thuong mai brvt">
+											<div class="cp-post-content">
+												<div class="catname"><a class="catname-btn btn-orange waves-effect waves-button" href="https://www.thuongmaitructuyenbrvt.com/quang-cao/ao-lien-quan-den-luoi-hong-ho-vai.html" target="_blank" title="áo liền quần lưới đen hông hở vai">áo liền quần lưới</a></div>
+												<h3 style="color:#ffffff; line-height:20px">Áo liền quần lưới đen hông hở vai, thiếu nữ năng động quyến rũ, tự tin khoe dáng.</h3>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="widget sidebar-featured-post" id="dolotthieunu">
+								<h3 class="side-title">đồ lót thiếu nữ</h3>
+								<div class="cp-sidebar-content">
+									<div class="side-featured-slider owl-carousel owl-theme">
+										<div class="item">
+											<img src="https://www.mediafire.com/convkey/67e6/9np5fmtweeypocv6g.jpg" alt="thuong mai brvt">
+											<div class="cp-post-content">
+												<div class="catname"><a class="catname-btn btn-orange waves-effect waves-button" href="https://www.thuongmaitructuyenbrvt.com/quang-cao/do-lot-ren-do-2-manh-theu-hoa.html" target="_blank" title="đồ lót ren 2 mảnh đỏ thêu hoa">đồ lót ren 2 mảnh</a></div>
+												<h3 style="color:#ffffff; line-height:20px">Đồ lót ren 2 mảnh đỏ thêu hoa, thiếu nữ căng tròn rạo rực, khát khao lửa tình.</h3>
+											</div>
+										</div>
+										<div class="item">
+											<img src="https://www.mediafire.com/convkey/f41a/i7fbt3izvwonme76g.jpg" alt="thuong mai brvt">
+											<div class="cp-post-content">
+												<div class="catname"><a class="catname-btn btn-orange waves-effect waves-button" href="https://www.thuongmaitructuyenbrvt.com/quang-cao/do-lot-ren-trang-satin-theu-hoa.html" target="_blank" title="đồ lót ren satin trắng thêu hoa">đồ lót ren satin</a></div>
+												<h3 style="color:#ffffff; line-height:20px">Đồ lót ren satin trắng thêu hoa bóng mượt, thiếu nữ căng tròn rạo rực, khát khao lửa tình.</h3>
+											</div>
+										</div>
+										<div class="item">
+											<img src="https://www.mediafire.com/convkey/4e5e/p42ke1fduhsj1hm6g.jpg" alt="thuong mai brvt">
+											<div class="cp-post-content">
+												<div class="catname"><a class="catname-btn btn-orange waves-effect waves-button" href="https://www.thuongmaitructuyenbrvt.com/quang-cao/do-lot-ren-hong-2-day-theu-hoa.html" target="_blank" title="đồ lót ren 2 dây hồng thêu hoa">đồ lót ren 2 dây</a></div>
+												<h3 style="color:#ffffff; line-height:20px">Đồ lót ren 2 dây hồng thêu hoa mềm mại, thiếu nữ căng tròn rạo rực, khát khao lửa tình.</h3>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="widget sidebar-featured-post" id="leggingthieunu">
+								<h3 class="side-title">legging thiếu nữ</h3>
+								<div class="cp-sidebar-content">
+									<div class="side-featured-slider owl-carousel owl-theme">
+										<div class="item">
+											<img src="https://www.mediafire.com/convkey/d689/djnu8mf1lw0cgj76g.jpg" alt="thuong mai brvt">
+											<div class="cp-post-content">
+												<div class="catname"><a class="catname-btn btn-orange waves-effect waves-button" href="https://www.thuongmaitructuyenbrvt.com/quang-cao/legging-thun-den-satin.html" target="_blank" title="legging body satin đen">legging body satin</a></div>
+												<h3 style="color:#ffffff; line-height:20px">Legging body satin đen bóng mượt, thiếu nữ mềm mại nhẹ nhàng, căng tràn nhựa sống.</h3>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+	<script src="js/bootstrap/jquery-1.11.2.min.js"></script>
+	<script src="js/bootstrap/jquery-migrate-1.2.1.min.js"></script>
+	<script src="js/bootstrap/bootstrap.min.js"></script>
+	<script src="js/bootstrap/materialize.min.js"></script>
+	<script src="js/bootstrap/owl.carousel.min.js"></script>
+	<script src="js/bootstrap/custom.js"></script>
+
+
+
+	<footer id="footer" class="footer">
+		<div class="footer-one footer-widgets">
+			<div class="container">
+				<div class="row">
+					<div class="widget contact-widget">
+						<h3><img alt="thuong mai brvt" src="anh-thuong-hieu/logoamp.png" width="60px" height="60px"> thương mại brvt</h3>
+						<div class="cp-widget-content">
+							<table class="table" style="color:#ffffff;">
+								<tr>
+									<td style="text-align:center;width:50%">LIÊN HỆ</td>
+									<td align="center">BẢN ĐỒ</td>
+								</tr>
+								<tr>
+									<td>
+										<ul style="font-size: 20px;">
+											<li>địa chỉ 56 nguyễn hữu huân</li>
+											<li>long tâm, thành phố bà rịa</li>
+											<li>bà rịa - vũng tàu, vietnam</li>
+										</ul>
+										<form class="searchbar" action="https://www.google.com/search" method="get" target="_blank">
+											<input name="q" type="search" placeholder=" tìm zì zậy?">
+											<input name="as_sitesearch" type="hidden" value="thuongmaitructuyenbrvt.com">
+										</form>
+									</td>
+									<td align="center">
+										<a href="https://goo.gl/maps/2K54sSxmcy83UDm99" target="_blank" title="thương mại trực tuyến">
+											<img src="https://www.mediafire.com/convkey/e41f/bt53phvafr3esqy6g.jpg?size_id=8" width="100%" height="231px" alt="thuong mai brvt">
+										</a>
+									</td>
+								</tr>
+							</table>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+</body>
+</html>
