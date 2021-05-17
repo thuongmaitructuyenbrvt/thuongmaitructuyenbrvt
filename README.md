@@ -41,6 +41,7 @@
 
 <img property="image" src="https://www.mediafire.com/convkey/e41f/bt53phvafr3esqy6g.jpg?size_id=8" alt="thuong mai brvt"></img>
 
+<div style="text-align: right;">
 <table>
 <tr>
 <td><a href="https://www.youtube.com/channel/UCWxlQXKvU104ylco8XFcoJg" target="_blank" title="thương mại youtube">youtube</a></td>
@@ -48,6 +49,7 @@
 <td><a href="https://www.facebook.com/pg/thuongmaigithub/videos/" target="_blank" title="thương mại facebook">facebook</a></td>
 </tr>
 </table>
+</div>
 
 <p property="description">&#10032; Thương mại brvt cung cấp giải pháp quảng bá thương hiệu (an ninh mạng - website bootstrap - trang di động amp - ma trận cdn backends & frontends)</p>
 
