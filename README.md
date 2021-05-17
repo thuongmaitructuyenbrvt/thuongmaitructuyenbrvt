@@ -1,130 +1,58 @@
-<div vocab="https://schema.org/" typeof="VideoObject">
+<slot vocab="https://schema.org/" typeof="LocalBusiness">
 
-<h1 property="name">thương mại brvt</h1>
+<!----><div style="display: none;">
+	
+<p><meta property="telephone" content="+84 869 202 254"></meta> <meta property="priceRange" content="$$"></meta> <meta property="paymentAccepted" content="Cash"></meta> <meta property="areaServed" content="VN"></meta></p>
+<p property="aggregateRating" typeof="AggregateRating"><meta property="ratingValue" content=5></meta> <meta property="reviewCount" content=5></meta></p>
+<p property="address" typeof="PostalAddress"><meta property="streetAddress" content="56 nguyễn hữu huân"></meta> <meta property="addressLocality" content="bà rịa"></meta> <meta property="addressRegion" content="bà rịa - vũng tàu"></meta> <meta property="postalCode" content="78110"></meta> <meta property="addressCountry" content="VN"></meta></p>
+<p property="geo" typeof="GeoCoordinates"><meta property="latitude" content=10.5108216></meta> <meta property="longitude" content=107.1894638></meta></p>
 
-<a property="contentUrl" title="thương mại brvt" href="https://www.youtube.com/watch?v=4LRzMxyZTh4" target="_blank">
-	<img property="thumbnailUrl" alt="thuong mai brvt" src="https://www.mediafire.com/convkey/e41f/bt53phvafr3esqy6g.jpg?size_id=8" width="auto">
-</a>
+<!----><!----><div property="makesOffer" typeof="Offer">
+<p property="priceSpecification" typeof="UnitPriceSpecification"><meta property="priceCurrency" content="VND"></meta> <meta property="price" content=3000000></meta></p>
 
-<p property="description">Thương mại trực tuyến cung cấp giải pháp quảng bá thương hiệu (an ninh mạng - website bootstrap - trang di động amp - ma trận cdn backends & frontends). Thương mại trực tuyến 56 nguyễn hữu huân long tâm brvt, quản lý khương itvtbadboy [<em property="uploadDate">Feb 10, 2020</em> | <em property="duration">PT1M</em>]</p>
-
-<table style="width:100%">
-<tr>
-<td>thời trang (00:01)</td>
-<td>seo web (00:21)</td>
-<td>dịch vụ (00:41)</td>
-</tr>
-</table>
-
+<div property="itemOffered" typeof="SoftwareApplication">
+<meta property="name" content="web ẩm thực"></meta> <meta property="operatingSystem" content="linux"></meta> <meta property="applicationCategory" content="BusinessApplication"></meta>
+<p property="aggregateRating" typeof="AggregateRating"><meta property="ratingValue" content=5></meta> <meta property="ratingCount" content=5></meta></p>
+<p property="offers" typeof="Offer"><meta property="price" content=3000000></meta> <meta property="priceCurrency" content="VND"></meta></p>
 </div>
 
-<hr>
-
-<div vocab="https://schema.org/" typeof="PodcastSeason">
-
-<h2 property="name">website bootstrap nổi bật</h2>
-
-<p>&#10032; Website nền tảng bootstrap nổi bật thu hút người dùng.</p>
-
-<link property="url" href="https://github.com/thuongmaitructuyenbrvt/thuongmaitructuyenbrvt.github.io/blob/master/README.md#website-bootstrap-n%E1%BB%95i-b%E1%BA%ADt">
-<meta property="seasonNumber" content="1">
-<meta property="numberOfEpisodes" content="4">
-
-<table style="width:100%">
-<tr>
-<td><img property="image" src="https://www.mediafire.com/convkey/4fbb/lgttpfs2gowkr5j6g.jpg?size_id=8" alt="web am thuc"></td>
-<td><img property="image" src="https://www.mediafire.com/convkey/590b/smmvqffantao1xw6g.jpg?size_id=8" alt="web du lich"></td>
-</tr>
-<tr>
-<td property="partOfSeries" vocab="https://schema.org/" typeof="PodcastSeries"><h3 property="name">web ẩm thực</h3><p><a property="url" href="https://thuongmaitructuyenbrvt.github.io/product/am-thuc-canvas/" target="_blank" title="web ẩm thực">Web ẩm thực</a> chuẩn seo là dạng one-page html5 linh hoạt, có thể đáp ứng tất cả nhu cầu doanh nghiệp</p></td>
-<td property="partOfSeries" vocab="https://schema.org/" typeof="PodcastSeries"><h3 property="name">web du lịch</h3><p><a property="url" href="https://thuongmaitructuyenbrvt.github.io/product/du-lich-townhub/" target="_blank" title="web du lịch">Web du lịch</a> chuẩn seo thiết kế hiện đại chuyên nghiệp với boxed and wide giả 3d kết hợp hiệu ứng rê chuột</p></td>
-</tr>
-<tr>
-<td><img property="image" src="https://www.mediafire.com/convkey/f5d8/a84kbltd9aqikzw6g.jpg?size_id=8" alt="web ung dung"></td>
-<td><img property="image" src="https://www.mediafire.com/convkey/c6bd/w8gbapoqbjj52i96g.jpg?size_id=8" alt="web ban le"></td>
-</tr>
-<tr>
-<td property="partOfSeries" vocab="https://schema.org/" typeof="PodcastSeries"><h3 property="name">web ứng dụng</h3><p><a property="url" href="https://thuongmaitructuyenbrvt.github.io/product/ung-dung-sapp/" target="_blank" title="web ứng dụng">Web ứng dụng</a> chuẩn seo là 1 mã nguồn trình bày sản phẩm chuẩn seo mạnh mẽ nhưng dễ sử dụng</p></td>
-<td property="partOfSeries" vocab="https://schema.org/" typeof="PodcastSeries"><h3 property="name">web bán lẻ</h3><p><a property="url" href="https://thuongmaitructuyenbrvt.github.io/product/ban-le-landrick/" target="_blank" title="web bán lẻ">Web bán lẻ</a> chuẩn seo đáp ứng tiêu chí thương mại không bảo mật sẽ là tương lai bán hàng</p></td>
-</tr>
-</table>
-
+<div property="itemOffered" typeof="SoftwareApplication">
+<meta property="name" content="web du lịch"></meta> <meta property="operatingSystem" content="linux"></meta> <meta property="applicationCategory" content="BusinessApplication"></meta>
+<p property="aggregateRating" typeof="AggregateRating"><meta property="ratingValue" content=5></meta> <meta property="ratingCount" content=5></meta></p>
+<p property="offers" typeof="Offer"><meta property="price" content=3000000></meta> <meta property="priceCurrency" content="VND"></meta></p>
 </div>
 
-<hr>
-
-<div vocab="https://schema.org/" typeof="ItemList">
-
-<h2>seo di động</h2>
-
-<p>&#10032; Hiệu ứng seo json thu hút khách hàng.</p>
-
-<table style="width:100%">
-<tr>
-<td><img src="https://www.mediafire.com/convkey/41b8/u6h0z2l5ctrwdpl6g.jpg?size_id=8" alt="tin tuc article"></td>
-<td><img src="https://www.mediafire.com/convkey/b8e0/lg1ut0jie77fpx76g.jpg?size_id=8" alt="am thuc recipe"></td>
-</tr>
-<tr>
-<td property="itemListElement" vocab="https://schema.org/" typeof="ListItem"><h3>tin tức (article)</h3><p><meta property="position" content="1"><a property="url" href="https://github.com/thuongmaitructuyenbrvt/thuongmaitructuyenbrvt.github.io/wiki/tin-tuc-newsarticle">Tin tức article</a> đột phá doanh thu dẫn đầu kinh tế, nâng tầm ảnh hưởng từ doanh nghiệp đè bẹp ...</p></td>
-<td property="itemListElement" vocab="https://schema.org/" typeof="ListItem"><h3>ẩm thực (recipe)</h3><p><meta property="position" content="2"><a property="url" href="https://github.com/thuongmaitructuyenbrvt/thuongmaitructuyenbrvt.github.io/wiki/am-thuc-recipe">Ẩm thực recipe</a> chuyên dụng cho nhà hàng, giải pháp thúc đẩy du lịch tứ phương ...</p></td>
-</tr>
-<tr>
-<td><img src="https://www.mediafire.com/convkey/c6c3/sd5pmyov1c3bx5u6g.jpg?size_id=8" alt="danh muc itemlist"></td>
-<td><img src="https://www.mediafire.com/convkey/bcfc/49nr1b34eiskvwt6g.jpg?size_id=8" alt="huong dan howto"></td>
-</tr>
-<tr>
-<td property="itemListElement" vocab="https://schema.org/" typeof="ListItem"><h3>danh mục (itemlist)</h3><p><meta property="position" content="3"><a property="url" href="https://github.com/thuongmaitructuyenbrvt/thuongmaitructuyenbrvt.github.io/wiki/danh-muc-itemlist">Danh mục itemlist</a> là đòn gánh ma thuật liên kết hiệu ứng chủ lực, liên kết ...</p></td>
-<td property="itemListElement" vocab="https://schema.org/" typeof="ListItem"><h3>hướng dẫn (howto)</h3><p><meta property="position" content="4"><a property="url" href="https://github.com/thuongmaitructuyenbrvt/thuongmaitructuyenbrvt.github.io/wiki/huong-dan-howto">Hướng dẫn howto</a> khai thác hiệu ứng seo chuyên nghiệp không thể thay thế ...</p></td>
-</tr>
-</table>
-
+<div property="itemOffered" typeof="SoftwareApplication">
+<meta property="name" content="web ứng dụng"></meta> <meta property="operatingSystem" content="linux"></meta> <meta property="applicationCategory" content="BusinessApplication"></meta>
+<p property="aggregateRating" typeof="AggregateRating"><meta property="ratingValue" content=5></meta> <meta property="ratingCount" content=5></meta></p>
+<p property="offers" typeof="Offer"><meta property="price" content=3000000></meta> <meta property="priceCurrency" content="VND"></meta></p>
 </div>
 
-<hr>
+<div property="itemOffered" typeof="SoftwareApplication">
+<meta property="name" content="web bán lẻ"></meta> <meta property="operatingSystem" content="linux"></meta> <meta property="applicationCategory" content="BusinessApplication"></meta>
+<p property="aggregateRating" typeof="AggregateRating"><meta property="ratingValue" content=5></meta> <meta property="ratingCount" content=5></meta></p>
+<p property="offers" typeof="Offer"><meta property="price" content=3000000></meta> <meta property="priceCurrency" content="VND"></meta></p>
+</div>
+</div><!----><!---->
 
-<h2>thời trang pinterest</h2>
+</div><!---->
 
-<p>&#10032; Giải pháp khai thác ảnh và video thời trang pinterest.</p>
+<h2 property="name"><a property="url" href="https://g.page/thuongmaibrvt?share" target="_blank" title="thương mại brvt">thương mại brvt</a></h2>
 
-<table style="width:100%">
+<img property="image" src="https://www.mediafire.com/convkey/e41f/bt53phvafr3esqy6g.jpg?size_id=8" alt="thuong mai brvt"></img>
+
+<table>
 <tr>
-<td><img src="https://www.mediafire.com/convkey/4bd5/0lyeumy3ois20ja6g.jpg?size_id=8" alt="legging thieu nu"></td>
-<td><img src="https://www.mediafire.com/convkey/d1e8/9e9ue1d3svs6vqm6g.jpg?size_id=8" alt="quan jean thieu nu"></td>
-</tr>
-<tr>
-<td><h3>legging thiếu nữ</h3><p><a href="https://www.pinterest.com/itvtbadboy/legging-footless-tights/">Legging thiếu nữ</a> mềm mại nhẹ nhàng, căng tràn nhựa sống.</p></td>
-<td><h3>quần jean thiếu nữ</h3><p><a href="https://www.pinterest.com/itvtbadboy/quan-jean-thieu-nu-jeans/">Quần jean thiếu nữ</a> mạnh mẽ cá tính, khao khát bến tình.</p></td>
-</tr>
-<tr>
-<td><img src="https://www.mediafire.com/convkey/01da/xo90y9mjwpa4olh6g.jpg?size_id=8" alt="ao dai thieu nu"></td>
-<td><img src="https://www.mediafire.com/convkey/bfee/mmeam718oubugcl6g.jpg?size_id=8" alt="bodysuit thieu nu"></td>
-</tr>
-<tr>
-<td><h3>áo dài thiếu nữ</h3><p><a href="https://www.pinterest.com/itvtbadboy/ao-dai-long-dress/">Áo dài thiếu nữ</a> cong tròn khiêu gợi, căng đầy nữ tính.</p></td>
-<td><h3>áo liền quần thiếu nữ</h3><p><a href="https://www.pinterest.com/itvtbadboy/ao-lien-quan-bodysuit/">Áo liền quần thiếu nữ</a> năng động quyến rũ, tự tin khoe dáng.</p></td>
-</tr>
-<tr>
-<td><img src="https://www.mediafire.com/convkey/19df/xpnwqyijjn8ews86g.jpg?size_id=8" alt="do lot thieu nu"></td>
-<td><img src="https://www.mediafire.com/convkey/871b/q6we41q1pg3y09a6g.jpg?size_id=8" alt="do ngu thieu nu"></td>
-</tr>
-<tr>
-<td><h3>đồ lót thiếu nữ</h3><p><a href="https://www.pinterest.com/itvtbadboy/do-lot-underwear/">Đồ lót thiếu nữ</a> căng tròn rạo rực, khát khao lửa tình.</p></td>
-<td><h3>đồ ngủ thiếu nữ</h3><p><a href="https://www.pinterest.com/itvtbadboy/do-ngu-sleepwear/">Đồ ngủ thiếu nữ</a> gợi cảm ngọt ngào, xuân tình vẫy gọi.</p></td>
-</tr>
-<tr>
-<td><img src="https://www.mediafire.com/convkey/0a5e/10flvfi0zuegguf6g.jpg?size_id=8" alt="quan short thieu nu"></td>
-<td><img src="https://www.mediafire.com/convkey/8376/rez6z1w5q6epjts6g.jpg?size_id=8" alt="ao dam thieu nu"></td>
-</tr>
-<tr>
-<td><h3>quần short thiếu nữ</h3><p><a href="https://www.pinterest.com/itvtbadboy/quan-short-shorts/">Quần short thiếu nữ</a> năng động nữ tính, tràn đầy nhựa sống.</p></td>
-<td><h3>áo đầm thiếu nữ</h3><p><a href="https://www.pinterest.com/itvtbadboy/dam-dresses/">Áo đầm thiếu nữ</a> thân thể ngọc ngà, căng tròn thướt tha.</p></td>
-</tr>
-<tr>
-<td><img src="https://www.mediafire.com/convkey/8193/8wbkglt3p9wtkuc6g.jpg?size_id=8" alt="trang diem thieu nu"></td>
-<td></td>
-</tr>
-<tr>
-<td><h3>trang điểm thiếu nữ</h3><p>Phong cách <a href="https://www.pinterest.com/itvtbadboy/trang-diem-make-up/">trang điểm thiếu nữ</a> trẻ đẹp ngất ngây mỗi ngày.</p></td>
-<td></td>
+<td><a href="https://www.youtube.com/channel/UCWxlQXKvU104ylco8XFcoJg" target="_blank" title="thương mại youtube">youtube</a></td>
+<td><a href="https://www.pinterest.com/itvtbadboy/" target="_blank" title="thương mại pinterest">pinterest</a></td>
+<td><a href="https://www.facebook.com/pg/thuongmaigithub/videos/" target="_blank" title="thương mại facebook">facebook</a></td>
 </tr>
 </table>
+
+<p property="description">&#10032; Thương mại brvt cung cấp giải pháp quảng bá thương hiệu (an ninh mạng - website bootstrap - trang di động amp - ma trận cdn backends & frontends)</p>
+
+<p>&#10032; Thương mại trực tuyến 56 nguyễn hữu huân long tâm brvt, quản lý khương itvtbadboy</p>
+
+<p>&#10032; Thương mại brvt phát triển giao diện website bootstrap, thiết kế website di động đột phá seo json, liên kết ma trận và tài nguyên google bảo vệ bảng xếp hạng từ khóa sản phẩm</p>
+
+</slot>
