@@ -73,12 +73,21 @@
 
 <table>
 <tr>
-<th><p property="partOfSeries" typeof="PodcastSeries"><a property="url" href="https://thuongmaitructuyenbrvt.com/nhac-tuyen-chon/nhac-hoa-tuyen-chon.html" target="_blank" title="nhạc hoa"><span property="name">nhạc hoa</span></a><p></th>
-<th><p property="partOfSeries" typeof="PodcastSeries"><a property="url" href="https://thuongmaitructuyenbrvt.com/news/article-json.html" target="_blank" title="article json"><span property="name">article json</span></a><p></th>
+<th><p property="partOfSeries" typeof="PodcastSeries"><a property="url" href="https://thuongmaitructuyenbrvt.com/nhac-tuyen-chon/nhac-hoa-tuyen-chon.html" target="_blank" title="nhạc hoa"><span property="name">nhạc hoa</span></a> <link property="image" href="https://www.mediafire.com/convkey/10a3/r3uad54hymerff16g.jpg?size_id=8"><p></th>
+<th><p property="partOfSeries" typeof="PodcastSeries"><a property="url" href="https://thuongmaitructuyenbrvt.com/news/article-json.html" target="_blank" title="article json"><span property="name">article json</span></a> <link property="image" href="https://www.mediafire.com/convkey/41b8/u6h0z2l5ctrwdpl6g.jpg?size_id=8"><p></th>
 </tr>
 <tr>
 <td><img src="https://www.mediafire.com/convkey/10a3/r3uad54hymerff16g.jpg?size_id=8" alt="nhac hoa"></td>
 <td><img src="https://www.mediafire.com/convkey/41b8/u6h0z2l5ctrwdpl6g.jpg?size_id=8" alt="article json"></td>
+</tr>
+
+<tr>
+<th><p property="partOfSeries" typeof="PodcastSeries"><a property="url" href="https://thuongmaitructuyenbrvt.com/nhac-tuyen-chon/nhac-quoc-te-tuyen-chon.html" target="_blank" title="nhạc quốc tế"><span property="name">quốc tế</span></a> <link property="image" href="https://www.mediafire.com/convkey/1473/fpx43icm2j36hq86g.jpg?size_id=8"><p></th>
+<th><p property="partOfSeries" typeof="PodcastSeries"><a property="url" href="https://thuongmaitructuyenbrvt.com/news/itemlist-json.html" target="_blank" title="itemlist json"><span property="name">itemlist json</span></a> <link property="image" href="https://www.mediafire.com/convkey/c6c3/sd5pmyov1c3bx5u6g.jpg?size_id=8"><p></th>
+</tr>
+<tr>
+<td><img src="https://www.mediafire.com/convkey/1473/fpx43icm2j36hq86g.jpg?size_id=8" alt="nhac quoc te"></td>
+<td><img src="https://www.mediafire.com/convkey/c6c3/sd5pmyov1c3bx5u6g.jpg?size_id=8" alt="itemlist json"></td>
 </tr>
 </table>
 
