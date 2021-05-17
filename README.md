@@ -73,8 +73,12 @@
 
 <table>
 <tr>
-<td><a href="https://thuongmaitructuyenbrvt.com/nhac-tuyen-chon/nhac-hoa-tuyen-chon.html" target="_blank" title="nhạc hoa">nhạc hoa</a></td>
-<td><a href="https://thuongmaitructuyenbrvt.com/news/article-json.html" target="_blank" title="article json">article json</a></td>
+<th><p property="partOfSeries" typeof="PodcastSeries"><a property="url" href="https://thuongmaitructuyenbrvt.com/nhac-tuyen-chon/nhac-hoa-tuyen-chon.html" target="_blank" title="nhạc hoa"><span property="name">nhạc hoa</span></a><p></th>
+<th><p property="partOfSeries" typeof="PodcastSeries"><a property="url" href="https://thuongmaitructuyenbrvt.com/news/article-json.html" target="_blank" title="article json"><span property="name">article json</span></a><p></th>
+</tr>
+<tr>
+<td><img src="https://www.mediafire.com/convkey/10a3/r3uad54hymerff16g.jpg?size_id=8" alt="nhac hoa"></td>
+<td><img src="https://www.mediafire.com/convkey/41b8/u6h0z2l5ctrwdpl6g.jpg?size_id=8" alt="article json"></td>
 </tr>
 </table>
 
