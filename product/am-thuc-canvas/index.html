@@ -9,32 +9,25 @@
 	<!-- Stylesheets
 	============================================= -->
 	<link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet" type="text/css" />
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+	<script src="https://app.awesome-table.com/AwesomeTableInclude.js"></script>
+
 	<link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
 	<link rel="stylesheet" href="style.css" type="text/css" />
 	<link rel="stylesheet" href="css/dark.css" type="text/css" />
-
 	<link rel="stylesheet" href="css/font-icons.css" type="text/css" />
 	<link rel="stylesheet" href="css/animate.css" type="text/css" />
 	<link rel="stylesheet" href="css/magnific-popup.css" type="text/css" />
+	<link rel="stylesheet" href="css/swiper.css" type="text/css" />
+
+	<link rel="stylesheet" href="css/et-line.css" type="text/css" />
+
+	<link rel="stylesheet" href="demos/restaurant/restaurant.css" type="text/css" />
+	<link rel="stylesheet" href="demos/restaurant/css/fonts.css" type="text/css" />
+
 	<link rel="stylesheet" href="css/custom.css" type="text/css" />
-	<meta name="viewport" content="width=device-width, initial-scale=1" />
-
-	<!-- SLIDER REVOLUTION 5.x CSS SETTINGS -->
-	<link rel="stylesheet" type="text/css" href="include/rs-plugin/css/settings.css" media="screen" />
-	<link rel="stylesheet" type="text/css" href="include/rs-plugin/css/layers.css">
-	<link rel="stylesheet" type="text/css" href="include/rs-plugin/css/navigation.css">
-
-	<!-- ADD-ONS CSS FILES -->
-	<link rel="stylesheet" type="text/css" href="include/rs-plugin/css/addons/revolution.addon.liquideffect.css">
-
-	<!--  Recipes Demo Specific Stylesheet -->
 	<link rel="stylesheet" href="css/colors.php?color=267DF4" type="text/css" /> <!-- Theme Color -->
-	<link rel="stylesheet" href="demos/recipes/css/fonts.css" type="text/css" /> <!-- Theme Font -->
-	<link rel="stylesheet" href="demos/recipes/recipes.css" type="text/css" /> <!-- Theme Custom CSS -->
-
-	<style>
-		.dt-shadow{text-shadow:0px 10px 30px rgba(0,0,0,1)}#rev_slider_131_1 .uranus.tparrows{width:50px; height:50px; background:rgba(255,255,255,0)}#rev_slider_131_1 .uranus.tparrows:before{width:50px; height:50px; line-height:50px; font-size:40px; transition:all 0.3s;-webkit-transition:all 0.3s}#rev_slider_131_1 .uranus.tparrows:hover:before{opacity:0.75}.slotholder canvas { height: 100% !important; }
-	</style>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<!-- / -->
 
 	<!-- Document Title
@@ -46,10 +39,10 @@
 	<meta name="robots" content="all"/>
 	<meta name="title" content="web am thuc chuan seo">
 	<meta name="keywords" content="web am thuc, chuan seo"/>
-	<meta name="description" content="Web ẩm thực chuẩn seo là dạng one-page html5 linh hoạt, có thể đáp ứng tất cả nhu cầu doanh nghiệp 1 cách mạnh mẽ với hơn 1000 mẫu giao diện và 100+ file photoshop psd đính kèm" />
+	<meta name="description" content="Web ẩm thực chuẩn seo hỗ trợ tìm nhà hàng trên bản đồ business, đặt món trực tuyến google - facebook, giao hàng nhanh hương vẫn còn vị vẫn ngon" />
 </head>
 
-<body class="stretched" style="font-family: Roboto;">
+<body>
 	<!-- Google Tag Manager (noscript) --><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WVHVJHX" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- End Google Tag Manager (noscript) -->
 	<!-- Document Wrapper
 	============================================= -->
@@ -60,969 +53,498 @@
 		<header id="header" class="transparent-header" data-sticky-shrink="false">
 			<div id="header-wrap">
 				<div class="container">
-					<div class="header-row">
-
+					<div class="header-row justify-content-lg-between">
 						<!-- Logo
 						============================================= -->
-						<div id="logo">
-							<a href="https://themes.semicolonweb.com/html/canvas/demo-recipes.html" class="standard-logo" target="_blank" title="web ẩm thực chuẩn seo"><img src="demos/recipes/images/logo.png" alt="Canvas Logo"></a>
-							<a href="https://themes.semicolonweb.com/html/canvas/demo-recipes.html" class="retina-logo" target="_blank" title="web ẩm thực chuẩn seo"><img src="demos/recipes/images/logo@2x.png" alt="Canvas Logo"></a>
+						<div id="logo" class="col-auto mr-lg-0 order-lg-2">
+							<a class="standard-logo"><img src="demos/restaurant/images/logo.png" alt="Canvas"></a>
+							<a class="retina-logo"><img src="demos/restaurant/images/logo@2x.png" alt="Canvas"></a>
 						</div><!-- #logo end -->
 
-						<div class="header-misc">
-
-							<!-- Top Search
-							============================================= -->
-							<div id="top-search" class="header-misc-icon">
-								<a href="#" id="top-search-trigger"><i class="icon-line-search"></i><i class="icon-line-cross"></i></a>
-							</div><!-- #top-search end -->
-
-						</div>
-
 						<div id="primary-menu-trigger">
-							<svg class="svg-trigger" viewBox="0 0 100 100"><path d="m 30,33 h 40 c 3.722839,0 7.5,3.126468 7.5,8.578427 0,5.451959 -2.727029,8.421573 -7.5,8.421573 h -20"></path><path d="m 30,50 h 40"></path><path d="m 70,67 h -40 c 0,0 -7.5,-0.802118 -7.5,-8.365747 0,-7.563629 7.5,-8.634253 7.5,-8.634253 h 20"></path></svg>
+							<svg class="svg-trigger" viewBox="0 0 100 100">
+								<path d="m 30,33 h 40 c 3.722839,0 7.5,3.126468 7.5,8.578427 0,5.451959 -2.727029,8.421573 -7.5,8.421573 h -20"></path>
+								<path d="m 30,50 h 40"></path>
+								<path d="m 70,67 h -40 c 0,0 -7.5,-0.802118 -7.5,-8.365747 0,-7.563629 7.5,-8.634253 7.5,-8.634253 h 20"></path>
+							</svg>
 						</div>
 
 						<!-- Primary Navigation
 						============================================= -->
-						<nav class="primary-menu">
-
+						<nav class="primary-menu col-lg-4 order-lg-1">
 							<ul class="menu-container">
-								<li class="menu-item current"><a class="menu-link" href="demo-recipes.html"><div>Home</div></a></li>
-								<li class="menu-item"><a class="menu-link" href="demo-recipes-about-us.html"><div>About Us</div></a></li>
-								<li class="menu-item"><a class="menu-link" href="demo-recipes-recipes.html"><div>Recipes <i class="icon-angle-down1 d-none d-lg-inline-block"></i></div></a>
-									<ul class="sub-menu-container rounded-bottom">
-										<li class="menu-item"><a class="menu-link" href="demo-recipes-recipe-single.html"><div>Recipe Single Page</div></a></li>
-										 <div class="dropdown-divider my-0"></div>
-										<li class="menu-item"><a class="menu-link" href="demo-recipes-recipes.html"><div>Popular</div></a></li>
-										<li class="menu-item"><a class="menu-link" href="demo-recipes-recipes.html"><div>Recent</div></a></li>
-										<li class="menu-item"><a class="menu-link" href="demo-recipes-recipes.html"><div>Most liked</div></a></li>
-										<li class="menu-item"><a class="menu-link" href="demo-recipes-recipes.html"><div>Most Commented</div></a></li>
-									</ul>
-								</li>
-								<li class="menu-item"><a class="menu-link" href="demo-recipes-contact.html"><div>Contact Us</div></a></li>
+								<li class="menu-item"><a class="menu-link color"><div>Home</div></a></li>
+								<li class="menu-item"><a class="menu-link"><div>About</div></a></li>
+								<li class="menu-item"><a class="menu-link"><div>Menu</div></a></li>
 							</ul>
+						</nav>
 
+						<nav class="primary-menu col-lg-4 order-lg-3">
+							<ul class="menu-container justify-content-lg-end">
+								<li class="menu-item"><a class="menu-link"><div>Gallery</div></a></li>
+								<li class="menu-item"><a class="menu-link"><div>Blog</div></a></li>
+								<li class="menu-item"><a class="menu-link"><div>Reservation</div></a></li>
+							</ul>
 						</nav><!-- #primary-menu end -->
-
-						<form class="top-search-form" action="search.html" method="get">
-							<input type="text" name="q" class="form-control" value="" placeholder="tìm zì zậy" autocomplete="on">
-						</form>
-
 					</div>
 				</div>
 			</div>
 			<div class="header-wrap-clone"></div>
 		</header><!-- #header end -->
 
-		<!-- Slider
+		<!-- Page Title
 		============================================= -->
-		<section id="slider" class="slider-element min-vh-60 min-vh-md-100 include-header">
-			<div class="slider-inner">
-
-				<div id="rev_slider_2_1_wrapper" class="rev_slider_wrapper fullscreen-container" data-alias="distortion-addon" data-source="gallery" style="background:#000000;padding:0px;">
-					<!-- START REVOLUTION SLIDER 5.4.8.1 fullscreen mode -->
-					<div id="rev_slider_2_1" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.4.8.1">
-						<ul>
-							<!-- SLIDE  -->
-							<li id="banhnuongbotrung" data-index="rs-7" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="demos/recipes/images/slider/100x50-bg.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="" data-liquideffect='{"image":"demos/recipes/images/slider/fibers_small.jpg","imagesize":"external","autoplay":true,"scalex":4,"scaley":4,"speedx":0.5,"speedy":-0.5,"rotationx":0,"rotationy":0,"rotation":0,"transtime":2000,"easing":"Power3.easeOut","transcross":false,"transpower":false,"transitionx":0,"transitiony":0,"transpeedx":0,"transpeedy":0,"transrotx":0,"transroty":0,"transrot":0}'>
-								<!-- MAIN IMAGE -->
-								<img src="demos/recipes/images/slider/dummy.png"  alt="Image" data-duration="4000" data-lazyload="https://www.mediafire.com/convkey/4ff0/6a3fihnj680th276g.jpg" data-bgposition="center center"  data-bgfit="cover" data-bgparallax="4" class="rev-slidebg" data-no-retina>
-								<!-- LAYERS -->
-
-								<!-- LAYER NR. 1 -->
-								<h2 class="tp-caption font-primary"
-									id="avocadoeggtoast"
-									data-x="['left','left','middle','middle']" data-hoffset="['0','30','0','0']"
-									data-y="['middle','middle','top','top']" data-voffset="['-200','-200','80','20']"
-									data-fontsize="['54','54','54','40']"
-									data-width="auto"
-									data-height="auto"
-									data-whitespace="nowrap"
-									data-type="text"
-									data-responsive_offset="on"
-									data-frames='[{"delay":1200,"split":"words","splitdelay":0.05,"speed":1000,"split_direction":"forward","frame":"0","from":"x:50px;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","split":"words","splitdelay":0.02,"speed":300,"split_direction":"backward","frame":"999","to":"auto:auto;fb:0;","ease":"Power3.easeInOut"}]'
-									data-textAlign="['inherit','inherit','inherit','inherit']"
-									style="z-index: 7; white-space: nowrap; font-size: 54px; line-height: 54px; letter-spacing: 0px; color:#FFF">bánh nướng bơ trứng</h2>
-
-								<!-- LAYER NR. 2 -->
-								<p class="tp-caption Restaurant-Description"
-									id="avocadoeggtoast-noidung"
-									data-x="['left','left','middle','middle']" data-hoffset="['0','30','0','0']"
-									data-y="['middle','middle','top','top']" data-voffset="['-100','-100','180','80']"
-									data-fontsize="['18','18','18','18']"
-									data-lineheight="['30','30','30','30']"
-									data-fontweight="['400','400','400','400']"
-									data-width="['480','400','480','400']"
-									data-height="auto"
-									data-visibility="['on', 'on', 'off', 'off']"
-									data-type="text"
-									data-responsive_offset="on"
-									data-frames='[{"delay":1500,"split":"words","splitdelay":0.05,"speed":1000,"split_direction":"forward","frame":"0","from":"x:50px;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","split":"words","splitdelay":0.02,"speed":300,"split_direction":"backward","frame":"999","to":"auto:auto;fb:0;","ease":"Power3.easeInOut"}]'
-									data-textAlign="['left','left','center','center']"
-									style="z-index: 5; min-width: 480px; max-width: 480px; white-space: normal; letter-spacing: 0px;"><span style="font-size: 17px;">Bánh nướng bơ trứng hương vị mới lạ web du lịch độc quyền chế biến. Bánh nướng thơm hương bơ trứng, ngọt ngào gia vị hoa quả thích hợp băng đèo lội suối</span></p>
-
-								<!-- LAYER NR. 3 -->
-								<div class="tp-caption"
-									id="avocadoeggtoast-hinhanh"
-									data-x="['right','right','middle','middle']" data-hoffset="['0','0','0','0']"
-									data-y="['middle','middle','middle','middle']" data-voffset="['0','0','-70','-10']"
-									data-width="auto"
-									data-height="auto"
-									data-whitespace="normal"
-									data-type="image"
-									data-responsive_offset="on"
-									data-frames='[{"delay":1500,"speed":1500,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.8;sY:0.8;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-									data-textAlign="['inherit','inherit','inherit','inherit']"
-									data-paddingtop="[0,0,0,0]"
-									data-paddingright="[0,0,0,0]"
-									data-paddingbottom="[0,0,0,0]"
-									data-paddingleft="[0,0,0,0]"
-									style="z-index: 6;">
-									<div class="rs-looped rs-rotate"  data-easing="Linear.easeNone" data-startdeg="0" data-enddeg="180" data-speed="40" data-origin="50% 50%"><img src="demos/recipes/images/slider/dummy.png" alt="Image" data-ww="['530px','400px','200px','200px']" data-hh="['530px','400px','200px','200px']" data-lazyload="demos/recipes/images/slider/bg01-600.png" data-no-retina> </div>
-								</div>
-
-								<!-- LAYER NR. 6 -->
-								<div class="tp-caption"
-									id="avocadoeggtoast-danhgia"
-									data-x="['left','left','middle','middle']" data-hoffset="['0','30','0','0']"
-									data-y="['middle','middle','middle','middle']" data-voffset="['0','0','90','130']"
-									data-width="auto"
-									data-fontsize="['20','18','20','20']"
-									data-height="auto"
-									data-whitespace="nowrap"
-									data-type="text"
-									data-responsive_offset="on"
-									data-frames='[{"delay":2600,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-									data-textAlign="['inherit','inherit','inherit','inherit']"
-									data-paddingtop="[0,0,0,0]"
-									data-paddingright="[0,0,0,0]"
-									data-paddingbottom="[0,0,0,0]"
-									data-paddingleft="[0,0,0,0]"
-									style="z-index: 14; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: 0px;"><span class="mr-3"><i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i></span> <strong>5 </strong><span style="font-weight: 300">(2,123 Reviews)</span>
-								</div>
-
-								<!-- LAYER NR. 5 -->
-								<div class="tp-caption slider-features tp-resizeme"
-									id="avocadoeggtoast-thoigian"
-									data-x="['left','left','middle','middle']" data-hoffset="['0','30','0','0']"
-									data-y="['middle','middle','middle','middle']" data-voffset="['100','100','210','230']"
-									data-width="auto"
-									data-height="auto"
-									data-whitespace="nowrap"
-									data-type="text"
-									data-responsive_offset="on"
-									data-frames='[{"delay":2500,"split":"words","splitdelay":0.05,"speed":1000,"split_direction":"forward","frame":"0","from":"x:50px;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","split":"words","splitdelay":0.02,"speed":300,"split_direction":"backward","frame":"999","to":"auto:auto;fb:0;","ease":"Power3.easeInOut"}]'
-									data-textAlign="['inherit','inherit','inherit','inherit']"
-									data-paddingtop="[0,0,0,0]"
-									data-paddingright="[0,0,0,0]"
-									data-paddingbottom="[0,0,0,0]"
-									data-paddingleft="[0,0,0,0]"
-									style="z-index: 13;">
-									<ul class="list-unstyled dark">
-										<li class="d-inline-block">
-											<img src="demos/recipes/images/icons/timer.svg" alt="Timer" width="30">
-											<h4>40 Mins</h4>
-										</li>
-										<li class="d-inline-block">
-											<img src="demos/recipes/images/icons/ingredients.svg" alt="ingredients" width="30">
-											<h4>9 Ing</h4>
-										</li>
-										<li class="d-inline-block">
-											<img src="demos/recipes/images/icons/kcal.svg" alt="kcal" width="30">
-											<h4>600 Kcal</h4>
-										</li>
-									</ul>
-								</div>
-
-								<a class="tp-caption rev-btn button button-large m-0 button-white font-weight-bold button-circle button-light"
-									href="#" target="_blank"
-									id="avocadoeggtoast-chitiet"
-									data-x="['left','left','middle','middle']" data-hoffset="['0','30','0','0']"
-									data-y="['middle','middle','bottom','bottom']" data-voffset="['200','200','30','0']"
-									data-width="auto"
-									data-height="auto"
-									data-type="button"
-									data-actions=''
-									data-responsive_offset="off"
-									data-responsive="off"
-									data-fontsize="['17', '17', '15', '15']"
-									data-lineheight="['40', '40', '30', '30']"
-									data-frames='[{"delay":3000,"speed":1600,"frame":"0","from":"x:50px;z:0;rX:0;rY:0;rZ:0;sX:1.1;sY:1.1;skX:0;skY:0;opacity:0;fbr:100;","bgcolor":"#FFF","to":"o:1;fbr:100;","ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"frame":"999","bgcolor":"#FFF","to":"opacity:0;fbr:100;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"150","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;fbr:90%;","style":"c:#000;"}]'
-									style="z-index: 9; background-color: #FFF; padding: 4px 28px"><span>nướng bánh</span> <i class="icon-angle-right"></i>
-								</a>
-							</li>
-							<!-- SLIDE  -->
-							<!-- SLIDE  -->
-							<li id="mixaotuphuong" data-index="rs-8" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="demos/recipes/images/slider/100x50-bg.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="" data-liquideffect='{"image":"demos/recipes/images/slider/fibers_small.jpg","imagesize":"external","autoplay":true,"scalex":4,"scaley":4,"speedx":0.5,"speedy":-0.5,"rotationx":0,"rotationy":0,"rotation":0,"transtime":2000,"easing":"Power3.easeOut","transcross":false,"transpower":false,"transitionx":0,"transitiony":0,"transpeedx":0,"transpeedy":0,"transrotx":0,"transroty":0,"transrot":0}'>
-								<!-- MAIN IMAGE -->
-								<img src="demos/recipes/images/slider/dummy.png"  alt="Image" data-duration="4000" data-lazyload="https://www.mediafire.com/convkey/31f2/6gl9epowx51a13u6g.jpg" data-bgposition="center center"  data-bgparallax="4" class="rev-slidebg" data-no-retina>
-								<!-- LAYERS -->
-
-								<!-- LAYER NR. 1 -->
-								<h2 class="tp-caption font-primary"
-									id="homemadebrunch"
-									data-x="['left','left','middle','middle']" data-hoffset="['0','30','0','0']"
-									data-y="['middle','middle','top','top']" data-voffset="['-200','-200','80','20']"
-									data-fontsize="['54','54','54','40']"
-									data-width="auto"
-									data-height="auto"
-									data-whitespace="nowrap"
-									data-type="text"
-									data-responsive_offset="on"
-									data-frames='[{"delay":1200,"split":"words","splitdelay":0.05,"speed":1000,"split_direction":"forward","frame":"0","from":"x:50px;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","split":"words","splitdelay":0.02,"speed":300,"split_direction":"backward","frame":"999","to":"auto:auto;fb:0;","ease":"Power3.easeInOut"}]'
-									data-textAlign="['inherit','inherit','inherit','inherit']"
-									style="z-index: 7; white-space: nowrap; font-size: 54px; line-height: 50px; letter-spacing: 0px; color: #111;">mì xào tứ phương</h2>
-
-								<!-- LAYER NR. 2 -->
-								<p class="tp-caption Restaurant-Description"
-									id="homemadebrunch-noidung"
-									data-x="['left','left','middle','middle']" data-hoffset="['0','30','0','0']"
-									data-y="['middle','middle','top','top']" data-voffset="['-100','-100','180','80']"
-									data-fontsize="['18','18','18','18']"
-									data-lineheight="['30','30','30','30']"
-									data-fontweight="['400','400','400','400']"
-									data-width="['480','400','480','400']"
-									data-height="auto"
-									data-visibility="['on', 'on', 'off', 'off']"
-									data-type="text"
-									data-responsive_offset="on"
-									data-frames='[{"delay":1500,"split":"words","splitdelay":0.05,"speed":1000,"split_direction":"forward","frame":"0","from":"x:50px;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","split":"words","splitdelay":0.02,"speed":300,"split_direction":"backward","frame":"999","to":"auto:auto;fb:0;","ease":"Power3.easeInOut"}]'
-									data-textAlign="['left','left','center','center']"
-									style="z-index: 5; min-width: 480px; max-width: 480px; white-space: normal; letter-spacing: 0px;color: #111;"><span style="font-size: 17px;">Mì xào tứ phương hương vị đậm đà web du lịch độc quyền chế biến. Mì xào hương thơm độc đáo từ nấm, trứng và củ quả tứ phương là điểm tâm nhanh thời hiện đại</span></p>
-
-								<!-- LAYER NR. 3 -->
-								<div class="tp-caption tp-resizeme"
-									id="homemadebrunch-hinhanh"
-									data-x="['right','right','middle','middle']" data-hoffset="['0','0','0','0']"
-									data-y="['middle','middle','middle','middle']" data-voffset="['0','0','-70','-10']"
-									data-width="none"
-									data-height="none"
-									data-whitespace="normal"
-									data-type="image"
-									data-responsive_offset="on"
-									data-frames='[{"delay":2500,"speed":1500,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.8;sY:0.8;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-									data-textAlign="['inherit','inherit','inherit','inherit']"
-									data-paddingtop="[0,0,0,0]"
-									data-paddingright="[0,0,0,0]"
-									data-paddingbottom="[0,0,0,0]"
-									data-paddingleft="[0,0,0,0]"
-									style="z-index: 6;">
-									<div class="rs-looped rs-rotate"  data-easing="Linear.easeNone" data-startdeg="0" data-enddeg="180" data-speed="40" data-origin="50% 50%"><img src="demos/recipes/images/slider/dummy.png" alt="Image" data-ww="['602px','500px','300px','200px']" data-hh="['602px','500px','300px','200px']" data-lazyload="demos/recipes/images/slider/bg02-640.png" data-no-retina> </div>
-								</div>
-
-								<!-- LAYER NR. 6 -->
-								<div class="tp-caption"
-									id="homemadebrunch-danhgia"
-									data-x="['left','left','middle','middle']" data-hoffset="['0','30','0','0']"
-									data-y="['middle','middle','middle','middle']" data-voffset="['0','0','90','130']"
-									data-width="none"
-									data-fontsize="['20','18','20','20']"
-									data-height="none"
-									data-whitespace="nowrap"
-									data-type="text"
-									data-responsive_offset="on"
-									data-frames='[{"delay":3100,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-									data-textAlign="['inherit','inherit','inherit','inherit']"
-									data-paddingtop="[0,0,0,0]"
-									data-paddingright="[0,0,0,0]"
-									data-paddingbottom="[0,0,0,0]"
-									data-paddingleft="[0,0,0,0]"
-									style="z-index: 14; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: #333; letter-spacing: 0px;"><span class="mr-3"><i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i></span><strong>5 </strong><span style="font-weight: 300">(1,313 Reviews)</span>
-								</div>
-
-								<!-- LAYER NR. 5 -->
-								<div class="tp-caption slider-features tp-resizeme"
-									id="homemadebrunch-thoigian"
-									data-x="['left','left','middle','middle']" data-hoffset="['0','30','0','0']"
-									data-y="['middle','middle','middle','middle']" data-voffset="['100','100','210','230']"
-									data-width="none"
-									data-height="none"
-									data-whitespace="nowrap"
-									data-type="text"
-									data-responsive_offset="on"
-									data-frames='[{"delay":3400,"split":"words","splitdelay":0.05,"speed":1000,"split_direction":"forward","frame":"0","from":"x:50px;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","split":"words","splitdelay":0.02,"speed":300,"split_direction":"backward","frame":"999","to":"auto:auto;fb:0;","ease":"Power3.easeInOut"}]'
-									data-textAlign="['inherit','inherit','inherit','inherit']"
-									data-paddingtop="[0,0,0,0]"
-									data-paddingright="[0,0,0,0]"
-									data-paddingbottom="[0,0,0,0]"
-									data-paddingleft="[0,0,0,0]"
-									style="z-index: 13;">
-									<ul class="list-unstyled">
-										<li class="d-inline-block">
-											<img src="demos/recipes/images/icons/timer-dark.svg" alt="Timer" width="30">
-											<h4>37 Mins</h4>
-										</li>
-										<li class="d-inline-block">
-											<img src="demos/recipes/images/icons/ingredients-dark.svg" alt="ingredients" width="30">
-											<h4>11 Ing</h4>
-										</li>
-										<li class="d-inline-block">
-											<img src="demos/recipes/images/icons/kcal-dark.svg" alt="kcal" width="30">
-											<h4>450 Kcal</h4>
-										</li>
-									</ul>
-								</div>
-
-								<a class="tp-caption rev-btn button button-large m-0 button-white font-weight-bold button-circle button-light"
-									href="demos/recipes/recipe-single.html" target="_blank"
-									id="homemadebrunch-chitiet"
-									data-x="['left','left','middle','middle']" data-hoffset="['0','30','0','0']"
-									data-y="['middle','middle','bottom','bottom']" data-voffset="['200','200','30','0']"
-									data-width="auto"
-									data-height="auto"
-									data-type="button"
-									data-actions=''
-									data-responsive_offset="off"
-									data-responsive="off"
-									data-fontsize="['17', '17', '15', '15']"
-									data-lineheight="['40', '40', '36', '30']"
-									data-frames='[{"delay":3000,"speed":1600,"frame":"0","from":"x:50px;z:0;rX:0;rY:0;rZ:0;sX:1.1;sY:1.1;skX:0;skY:0;opacity:0;fbr:100;","bgcolor":"#FFF","to":"o:1;fbr:100;","ease":"Power3.easeInOut"},{"delay":"wait","speed":500,"frame":"999","bgcolor":"#FFF","to":"opacity:0;fbr:100;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"150","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;fbr:90%;","style":"c:#000;"}]'
-									style="z-index: 9; background-color: #FFF; padding: 4px 28px"><span>xào mì</span> <i class="icon-angle-right"></i>
-								</a>
-							</li>
-						</ul>
-						<div class="tp-bannertimer" style="height: 6px; background: rgba(255,255,255,0.15);"></div>
-					</div>
-				</div><!-- END REVOLUTION SLIDER -->
-
+		<section id="page-title" class="page-title-parallax page-title-dark page-title-center include-header" style="background-image: url('demos/restaurant/images/sections/food-menu.jpg'); background-size: cover; padding: 120px 0 180px;" data-bottom-top="background-position:0 0px;" data-top-bottom="background-position:0px -300px;">
+			<div class="container clearfix">
+				<h2 style="font-size: 60px; color: white;">thực đơn</h2>
+				<span class="font-weight-normal">hương vị ẩm thực chỉ 102</span>
 			</div>
-		</section>
+		</section><!-- #page-title end -->
 
 		<!-- Content
 		============================================= -->
 		<section id="content">
-			<div class="content-wrap pb-0" style="overflow: visible;">
+			<div class="content-wrap py-0" style="overflow: visible;">
+				<div class="container">
+					<div class="tabs tabs-justify" id="tab-1">
+						<ul class="tab-nav clearfix border-bottom-0">
+							<li><a href="#tabs-breakfast"><img src="demos/restaurant/images/icons/breakfast.svg" alt="breakfast">Breakfast</a></li>
+							<li><a href="#tabs-salad"><img src="demos/restaurant/images/icons/salads.svg" alt="balads">Salads</a></li>
+							<li><a href="#tabs-pizza"><img src="demos/restaurant/images/icons/pizza.svg" alt="pizza">Pizza</a></li>
+							<li><a href="#tabs-dessert"><img src="demos/restaurant/images/icons/dessert.svg" alt="dessert">Dessert</a></li>
+						</ul>
+						<div class="tab-container mt-4">
+							<div class="tab-content" id="tabs-breakfast">
+								<div class="row gutter-40">
+									<div class="col-lg-3 col-md-6">
+										<div class="portfolio-item">
+											<a href="#" class="portfolio-image"><img src="demos/restaurant/images/menu/breakfast/1.jpg" alt="banh chuoi" class="rounded"></a>
+											<div class="portfolio-desc pt-2">
+												<h4 class="mb-1"><a href="#">bánh chuối</a></h4>
+												<div class="item-price">&dollar; 19.49</div>
+											</div>
+										</div>
+									</div>
 
-				<div class="section mt-2 bg-transparent" id="huongviamthuc">
-					<div class="container">
-						<div class="row">
-							<div class="col-md-8 offset-md-2 center">
-								<h1 class="text-title-light text-dark mb-5 ls1 text-uppercase">hương vị ẩm thực</h1>
-								<p style="font-size: 17px; color: #777">hương vị ẩm thực đột phá hiệu ứng tạo ra căn bếp trực tuyến phục vụ du lịch tứ phương</p>
-								<img src="demos/barber/images/about/sign.png" alt="Sign" width="150" class="mt-3">
+									<div class="col-lg-3 col-md-6">
+										<div class="portfolio-item">
+											<a href="#" class="portfolio-image"><img src="demos/restaurant/images/menu/breakfast/2.jpg" alt="banh nho" class="rounded"></a>
+											<div class="portfolio-desc pt-2">
+												<h4 class="mb-1"><a href="#">bánh nho</a></h4>
+												<div class="item-price">&dollar; 11.99</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-lg-3 col-md-6">
+										<div class="portfolio-item">
+											<a href="#" class="portfolio-image"><img src="demos/restaurant/images/menu/breakfast/3.jpg" alt="trung chien" class="rounded"></a>
+											<div class="portfolio-desc pt-2">
+												<h4 class="mb-1"><a href="#">trứng chiên</a></h4>
+												<div class="item-price">&dollar; 8.00</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-lg-3 col-md-6">
+										<div class="portfolio-item">
+											<a href="#" class="portfolio-image"><img src="demos/restaurant/images/menu/breakfast/4.jpg" alt="trung op la" class="rounded"></a>
+											<div class="portfolio-desc pt-2">
+												<h4 class="mb-1"><a href="#">ốp la</a></h4>
+												<div class="item-price">&dollar; 13.19</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-lg-3 col-md-6">
+										<div class="portfolio-item">
+											<a href="#" class="portfolio-image"><img src="demos/restaurant/images/menu/breakfast/5.jpg" alt="banh pho mai" class="rounded"></a>
+											<div class="portfolio-desc pt-2">
+												<h4 class="mb-1"><a href="#">bánh phô mai</a></h4>
+												<div class="item-price">&dollar; 7.49</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-lg-3 col-md-6">
+										<div class="portfolio-item">
+											<a href="#" class="portfolio-image"><img src="demos/restaurant/images/menu/breakfast/6.jpg" alt="banh ngu coc" class="rounded"></a>
+											<div class="portfolio-desc pt-2">
+												<h4 class="mb-1"><a href="#">bánh ngũ cốc</a></h4>
+												<div class="item-price">&dollar; 11.99</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-lg-3 col-md-6">
+										<div class="portfolio-item">
+											<a href="#" class="portfolio-image"><img src="demos/restaurant/images/menu/breakfast/7.jpg" alt="banh que" class="rounded"></a>
+											<div class="portfolio-desc pt-2">
+												<h4 class="mb-1"><a href="#">bánh quế</a></h4>
+												<div class="item-price">&dollar; 29.00</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-lg-3 col-md-6">
+										<div class="portfolio-item">
+											<a href="#" class="portfolio-image"><img src="demos/restaurant/images/menu/breakfast/8.jpg" alt="trung op la dau xanh" class="rounded"></a>
+											<div class="portfolio-desc pt-2">
+												<h4 class="mb-1"><a href="#">ốp la đậu</a></h4>
+												<div class="item-price">&dollar; 5.99</div>
+											</div>
+										</div>
+									</div>
+								</div>
 							</div>
-							<div class="col-12 mt-5 mb-3">
-								<h3 class="center" style="text-transform:uppercase;">thực đơn chính</h3>
-								<div class="categories-lists justify-content-center clearfix">
-
-									<a href="demos/recipes/recipes.html" data-animate="fadeInUp" class="categories" style="background-image: url('demos/recipes/images/categories/bf.jpg');">
-										<div class="categories-details">
-											<div class="icon"><img src="demos/recipes/images/icons/bf.svg" alt="an sang breakfast"></div>
-											<div class="info">ăn sáng (bre)</div>
+							<div class="tab-content" id="tabs-salad">
+								<div class="row gutter-40">
+									<div class="col-lg-3 col-md-6">
+										<div class="portfolio-item">
+											<a href="#" class="portfolio-image"><img src="demos/restaurant/images/menu/salads/1.jpg" alt="goi tron xa lach hat luu" class="rounded"></a>
+											<div class="portfolio-desc pt-2">
+												<h4 class="mb-1"><a href="#">xà lách lựu</a></h4>
+												<div class="item-price">&dollar; 19.49</div>
+											</div>
 										</div>
-									</a>
+									</div>
 
-									<a href="demos/recipes/recipes.html" data-animate="fadeInUp" data-delay="100" class="categories" style="background-image: url('demos/recipes/images/categories/lunch.jpg');">
-										<div class="categories-details">
-											<div class="icon"><img src="demos/recipes/images/icons/lunch.svg" alt="an trua lunch"></div>
-											<div class="info">ăn trưa (lun)</div>
+									<div class="col-lg-3 col-md-6">
+										<div class="portfolio-item">
+											<a href="#" class="portfolio-image"><img src="demos/restaurant/images/menu/salads/2.jpg" alt="goi tron xa lach kieu hy lap" class="rounded"></a>
+											<div class="portfolio-desc pt-2">
+												<h4 class="mb-1"><a href="#">xà lách Hy Lạp</a></h4>
+												<div class="item-price">&dollar; 11.99</div>
+											</div>
 										</div>
-									</a>
+									</div>
 
-									<a href="demos/recipes/recipes.html" data-animate="fadeInUp" data-delay="200" class="categories" style="background-image: url('demos/recipes/images/categories/dinner.jpg');">
-										<div class="categories-details">
-											<div class="icon"><img src="demos/recipes/images/icons/dinner.svg" alt="an toi dinner"></div>
-											<div class="info">ăn tối (din)</div>
+									<div class="col-lg-3 col-md-6">
+										<div class="portfolio-item">
+											<a href="#" class="portfolio-image"><img src="demos/restaurant/images/menu/salads/3.jpg" alt="goi tron thap cam rau cu qua" class="rounded"></a>
+											<div class="portfolio-desc pt-2">
+												<h4 class="mb-1"><a href="#">gỏi củ quả</a></h4>
+												<div class="item-price">&dollar; 8.00</div>
+											</div>
 										</div>
-									</a>
+									</div>
 
-									<a href="demos/recipes/recipes.html" data-animate="fadeInUp" data-delay="300" class="categories" style="background-image: url('demos/recipes/images/categories/desserts.jpg');">
-										<div class="categories-details">
-											<div class="icon"><img src="demos/recipes/images/icons/desserts.svg" alt="banh kem desserts"></div>
-											<div class="info">bánh & kem (des)</div>
+									<div class="col-lg-3 col-md-6">
+										<div class="portfolio-item">
+											<a href="#" class="portfolio-image"><img src="demos/restaurant/images/menu/salads/4.jpg" alt="goi tron xa lach trung luoc rau xanh" class="rounded"></a>
+											<div class="portfolio-desc pt-2">
+												<h4 class="mb-1"><a href="#">xà lách trứng</a></h4>
+												<div class="item-price">&dollar; 13.19</div>
+											</div>
 										</div>
-									</a>
+									</div>
 
-									<a href="demos/recipes/recipes.html" data-animate="fadeInUp" data-delay="400" class="categories" style="background-image: url('demos/recipes/images/categories/veg.jpg');">
-										<div class="categories-details">
-											<div class="icon"><img src="demos/recipes/images/icons/vegan.svg" alt="an chay vegan"></div>
-											<div class="info">ăn chay (veg)</div>
+									<div class="col-lg-3 col-md-6">
+										<div class="portfolio-item">
+											<a href="#" class="portfolio-image"><img src="demos/restaurant/images/menu/salads/5.jpg" alt="nam xao bo" class="rounded"></a>
+											<div class="portfolio-desc pt-2">
+												<h4 class="mb-1"><a href="#">nấm xào bơ</a></h4>
+												<div class="item-price">&dollar; 7.49</div>
+											</div>
 										</div>
-									</a>
+									</div>
 
-									<a href="demos/recipes/recipes.html" data-animate="fadeInUp" data-delay="500" class="categories" style="background-image: url('demos/recipes/images/categories/seafood.jpg');">
-										<div class="categories-details">
-											<div class="icon"><img src="demos/recipes/images/icons/seafood.svg" alt="hai san seafood"></div>
-											<div class="info">hải sản (sea)</div>
+									<div class="col-lg-3 col-md-6">
+										<div class="portfolio-item">
+											<a href="#" class="portfolio-image"><img src="demos/restaurant/images/menu/salads/6.jpg" alt="trung xao ca chua kieu canada" class="rounded"></a>
+											<div class="portfolio-desc pt-2">
+												<h4 class="mb-1"><a href="#">trứng xào Canada</a></h4>
+												<div class="item-price">&dollar; 11.99</div>
+											</div>
 										</div>
-									</a>
+									</div>
 
-									<a href="demos/recipes/recipes.html" data-animate="fadeInUp" data-delay="600" class="categories" style="background-image: url('demos/recipes/images/categories/drinks.jpg');">
-										<div class="categories-details">
-											<div class="icon"><img src="demos/recipes/images/icons/drinks.svg" alt="sinh to beverages"></div>
-											<div class="info">sinh tố (bev)</div>
+									<div class="col-lg-3 col-md-6">
+										<div class="portfolio-item">
+											<a href="#" class="portfolio-image"><img src="demos/restaurant/images/menu/salads/7.jpg" alt="bun chay kieu thailand" class="rounded"></a>
+											<div class="portfolio-desc pt-2">
+												<h4 class="mb-1"><a href="#">bún chay Thái</a></h4>
+												<div class="item-price">&dollar; 29.00</div>
+											</div>
 										</div>
-									</a>
+									</div>
 
+									<div class="col-lg-3 col-md-6">
+										<div class="portfolio-item">
+											<a href="#" class="portfolio-image"><img src="demos/restaurant/images/menu/salads/8.jpg" alt="goi chay tron rau cu qua" class="rounded"></a>
+											<div class="portfolio-desc pt-2">
+												<h4 class="mb-1"><a href="#">gỏi chay</a></h4>
+												<div class="item-price">&dollar; 5.99</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="tab-content" id="tabs-pizza">
+								<div class="row gutter-40">
+									<div class="col-lg-3 col-md-6">
+										<div class="portfolio-item">
+											<a href="#" class="portfolio-image"><img src="demos/restaurant/images/menu/pizza/1.jpg" alt="pizza tomatino" class="rounded"></a>
+											<div class="portfolio-desc pt-2">
+												<h4 class="mb-1"><a href="#">pizza tomatino</a></h4>
+												<div class="item-price">&dollar; 19.49</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-lg-3 col-md-6">
+										<div class="portfolio-item">
+											<a href="#" class="portfolio-image"><img src="demos/restaurant/images/menu/pizza/2.jpg" alt="pizza margerita" class="rounded"></a>
+											<div class="portfolio-desc pt-2">
+												<h4 class="mb-1"><a href="#">pizza margerita</a></h4>
+												<div class="item-price">&dollar; 12.99</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-lg-3 col-md-6">
+										<div class="portfolio-item">
+											<a href="#" class="portfolio-image"><img src="demos/restaurant/images/menu/pizza/3.jpg" alt="pizza y" class="rounded"></a>
+											<div class="portfolio-desc pt-2">
+												<h4 class="mb-1"><a href="#">pizza Ý</a></h4>
+												<div class="item-price">&dollar; 17.00</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-lg-3 col-md-6">
+										<div class="portfolio-item">
+											<a href="#" class="portfolio-image"><img src="demos/restaurant/images/menu/pizza/4.jpg" alt="pizza thap cam" class="rounded"></a>
+											<div class="portfolio-desc pt-2">
+												<h4 class="mb-1"><a href="#">pizza thập cẩm</a></h4>
+												<div class="item-price">&dollar; 22.19</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-lg-3 col-md-6">
+										<div class="portfolio-item">
+											<a href="#" class="portfolio-image"><img src="demos/restaurant/images/menu/pizza/5.jpg" alt="pizza rustica" class="rounded"></a>
+											<div class="portfolio-desc pt-2">
+												<h4 class="mb-1"><a href="#">pizza rustica</a></h4>
+												<div class="item-price">&dollar; 17.49</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-lg-3 col-md-6">
+										<div class="portfolio-item">
+											<a href="#" class="portfolio-image"><img src="demos/restaurant/images/menu/pizza/6.jpg" alt="pizza bianca" class="rounded"></a>
+											<div class="portfolio-desc pt-2">
+												<h4 class="mb-1"><a href="#">pizza bianca</a></h4>
+												<div class="item-price">&dollar; 21.99</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-lg-3 col-md-6">
+										<div class="portfolio-item">
+											<a href="#" class="portfolio-image"><img src="demos/restaurant/images/menu/pizza/7.jpg" alt="pizza quattro" class="rounded"></a>
+											<div class="portfolio-desc pt-2">
+												<h4 class="mb-1"><a href="#">pizza quattro</a></h4>
+												<div class="item-price">&dollar; 11.99</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-lg-3 col-md-6">
+										<div class="portfolio-item">
+											<a href="#" class="portfolio-image"><img src="demos/restaurant/images/menu/pizza/8.jpg" alt="pizza roma" class="rounded"></a>
+											<div class="portfolio-desc pt-2">
+												<h4 class="mb-1"><a href="#">pizza roma</a></h4>
+												<div class="item-price">&dollar; 15.99</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="tab-content" id="tabs-dessert">
+								<div class="row gutter-40">
+									<div class="col-lg-3 col-md-6">
+										<div class="portfolio-item">
+											<a href="#" class="portfolio-image"><img src="demos/restaurant/images/menu/desserts/1.jpg" alt="chocolate fudge" class="rounded"></a>
+											<div class="portfolio-desc pt-2">
+												<h4 class="mb-1"><a href="#">chocolate fudge</a></h4>
+												<div class="item-price">&dollar; 19.49</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-lg-3 col-md-6">
+										<div class="portfolio-item">
+											<a href="#" class="portfolio-image"><img src="demos/restaurant/images/menu/desserts/2.jpg" alt="banh viet quat" class="rounded"></a>
+											<div class="portfolio-desc pt-2">
+												<h4 class="mb-1"><a href="#">bánh việt quất</a></h4>
+												<div class="item-price">&dollar; 11.99</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-lg-3 col-md-6">
+										<div class="portfolio-item">
+											<a href="#" class="portfolio-image"><img src="demos/restaurant/images/menu/desserts/3.jpg" alt="banh tao" class="rounded"></a>
+											<div class="portfolio-desc pt-2">
+												<h4 class="mb-1"><a href="#">bánh táo</a></h4>
+												<div class="item-price">&dollar; 8.00</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-lg-3 col-md-6">
+										<div class="portfolio-item">
+											<a href="#" class="portfolio-image"><img src="demos/restaurant/images/menu/desserts/4.jpg" alt="kem dau" class="rounded"></a>
+											<div class="portfolio-desc pt-2">
+												<h4 class="mb-1"><a href="#">kem dâu</a></h4>
+												<div class="item-price">&dollar; 13.19</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-lg-3 col-md-6">
+										<div class="portfolio-item">
+											<a href="#" class="portfolio-image"><img src="demos/restaurant/images/menu/desserts/5.jpg" alt="kem viet quat" class="rounded"></a>
+											<div class="portfolio-desc pt-2">
+												<h4 class="mb-1"><a href="#">kem việt quất</a></h4>
+												<div class="item-price">&dollar; 7.49</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-lg-3 col-md-6">
+										<div class="portfolio-item">
+											<a href="#" class="portfolio-image"><img src="demos/restaurant/images/menu/desserts/6.jpg" alt="banh hat luu" class="rounded"></a>
+											<div class="portfolio-desc pt-2">
+												<h4 class="mb-1"><a href="#">bánh hạt lựu</a></h4>
+												<div class="item-price">&dollar; 11.99</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-lg-3 col-md-6">
+										<div class="portfolio-item">
+											<a href="#" class="portfolio-image"><img src="demos/restaurant/images/menu/desserts/7.jpg" alt="banh dau" class="rounded"></a>
+											<div class="portfolio-desc pt-2">
+												<h4 class="mb-1"><a href="#">bánh dâu</a></h4>
+												<div class="item-price">&dollar; 29.00</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-lg-3 col-md-6">
+										<div class="portfolio-item">
+											<a href="#" class="portfolio-image"><img src="demos/restaurant/images/menu/desserts/8.jpg" alt="banh trai cay" class="rounded"></a>
+											<div class="portfolio-desc pt-2">
+												<h4 class="mb-1"><a href="#">bánh trái cây</a></h4>
+												<div class="item-price">&dollar; 5.99</div>
+											</div>
+										</div>
+									</div>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 
-				<div id="tiecbuffetthang" class="section recipe-itmes p-0" style="overflow: visible;background-color: #f9f9f9">
-					<div class="row align-items-stretch align-content-stretch no-gutters">
-						<div class="col-lg-4 dark">
-							<div class="position-sticky min-vh-60 min-vh-md-100 d-flex flex-column align-items-center center justify-content-center" style="top:0; background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.5)), url('demos/recipes/images/popular/side-bg.jpg') center center / cover;">
-								<h2 class="display-4 px-3 center font-weight-bold d-block">tiệc buffet <br>tháng 10</h2>
-								<a href="demos/recipes/recipes.html" class="button button-large button-light button-white button-circle m-0 px-5">tham gia</a>
-							</div>
-						</div>
-						<div class="col-lg-8">
-							<div class="row no-gutters">
-
-								<!-- Item 1 -->
-								<div class="col-sm-4 col-6">
-									<div class="card">
-										<div class="card-body">
-											<img src="demos/recipes/images/popular/1-500.png" alt="image">
-											<div class="d-flex justify-content-between align-items-center mt-4 mb-2">
-												<p class="card-author">By <a href="#">Gunther Beard</a></p>
-												<span class="badge badge-primary bg-color"><i class="icon-star3"></i> 4.6</span>
-											</div>
-											<h3 class="card-title"><a href="demos/recipes/recipe-single.html" class="stretched-link">Green Goddess Avocado Hummus</a></h3>
-											<h5 class="card-date"><i class="icon-line2-calendar"></i>Dec 26, 2021</h5>
-										</div>
-									</div>
-								</div>
-
-								<!-- Item 2 -->
-								<div class="col-sm-4 col-6" id="buffetrauxanh">
-									<div class="card">
-										<div class="card-body">
-										<img src="demos/recipes/images/popular/2-500.png" alt="image">
-											<div class="d-flex justify-content-between align-items-center mt-4 mb-2">
-												<p class="card-author">By <a href="#">Chauffina Carr</a></p>
-												<span class="badge badge-primary bg-color"><i class="icon-star3"></i> 4.9</span>
-											</div>
-											<h3 class="card-title"><a href="demos/recipes/recipe-single.html" class="stretched-link">Strawberry Kiwi Healthy Bowl</a></h3>
-											<h5 class="card-date"><i class="icon-line2-calendar"></i>Dec 1, 2021</h5>
-										</div>
-									</div>
-								</div>
-
-								<!-- Item 3 -->
-								<div class="col-sm-4 col-6">
-									<div class="card">
-										<div class="card-body">
-										<img src="demos/recipes/images/popular/3-500.png" alt="image">
-											<div class="d-flex justify-content-between align-items-center mt-4 mb-2">
-												<p class="card-author">By <a href="#">Eric Widget </a></p>
-												<span class="badge badge-primary bg-color"><i class="icon-star3"></i> 4.3</span>
-											</div>
-											<h3 class="card-title"><a href="demos/recipes/recipe-single.html" class="stretched-link">Rustic Sweet Treat</a></h3>
-											<h5 class="card-date"><i class="icon-line2-calendar"></i>Nov 20, 2021</h5>
-										</div>
-									</div>
-								</div>
-
-								<!-- Item 4 -->
-								<div class="col-sm-4 col-6">
-									<div class="card">
-										<div class="card-body">
-										<img src="demos/recipes/images/popular/4-500.png" alt="image">
-											<div class="d-flex justify-content-between align-items-center mt-4 mb-2">
-												<p class="card-author">By <a href="#">Quiche Hollandaise</a></p>
-												<span class="badge badge-primary bg-color"><i class="icon-star3"></i> 4.5</span>
-											</div>
-											<h3 class="card-title"><a href="demos/recipes/recipe-single.html" class="stretched-link">A Delicious Homemade Breakfast</a></h3>
-											<h5 class="card-date"><i class="icon-line2-calendar"></i>Oct 2, 2021</h5>
-										</div>
-									</div>
-								</div>
-
-								<!-- Item 5 -->
-								<div class="col-sm-4 col-6" id="buffetdacsan">
-									<div class="card">
-										<div class="card-body">
-										<img src="demos/recipes/images/popular/5-500.png" alt="image">
-											<div class="d-flex justify-content-between align-items-center mt-4 mb-2">
-												<p class="card-author">By <a href="#">Norman Gordon</a></p>
-												<span class="badge badge-primary bg-color"><i class="icon-star3"></i> 4.5</span>
-											</div>
-											<h3 class="card-title"><a href="demos/recipes/recipe-single.html" class="stretched-link">Pumpkin Bars with Cream Cheese Frosting</a></h3>
-											<h5 class="card-date"><i class="icon-line2-calendar"></i>Sep 18, 2021</h5>
-										</div>
-									</div>
-								</div>
-
-								<!-- Item 6 -->
-								<div class="col-sm-4 col-6" id="buffetpizza">
-									<div class="card">
-										<div class="card-body">
-										<img src="demos/recipes/images/popular/6-500.png" alt="image">
-											<div class="d-flex justify-content-between align-items-center mt-4 mb-2">
-												<p class="card-author">By <a href="#">Druid Wensleydale</a></p>
-												<span class="badge badge-primary bg-color"><i class="icon-star3"></i> 4.0</span>
-											</div>
-											<h3 class="card-title"><a href="demos/recipes/recipe-single.html" class="stretched-link">The Best Homemade Pizza Recipes</a></h3>
-											<h5 class="card-date"><i class="icon-line2-calendar"></i>Sep 7, 2021</h5>
-										</div>
-									</div>
-								</div>
-
-								<!-- Item 7 -->
-								<div class="col-sm-4 col-6">
-									<div class="card">
-										<div class="card-body">
-										<img src="demos/recipes/images/popular/7-500.png" alt="image">
-											<div class="d-flex justify-content-between align-items-center mt-4 mb-2">
-												<p class="card-author">By <a href="#">Bailey Wonger</a></p>
-												<span class="badge badge-primary bg-color"><i class="icon-star3"></i> 4.5</span>
-											</div>
-											<h3 class="card-title"><a href="demos/recipes/recipe-single.html" class="stretched-link">Baked Salmon with Sweet-Potatoes</a></h3>
-											<h5 class="card-date"><i class="icon-line2-calendar"></i>Aug 12, 2021</h5>
-										</div>
-									</div>
-								</div>
-
-								<!-- Item 8 -->
-								<div class="col-sm-4 col-6">
-									<div class="card">
-										<div class="card-body">
-										<img src="demos/recipes/images/popular/8-500.png" alt="image">
-											<div class="d-flex justify-content-between align-items-center mt-4 mb-2">
-												<p class="card-author">By <a href="#">Pelican Steve</a></p>
-												<span class="badge badge-primary bg-color"><i class="icon-star3"></i> 4.2</span>
-											</div>
-											<h3 class="card-title"><a href="demos/recipes/recipe-single.html" class="stretched-link">A Kollam Grilled Cheese with Vegetables</a></h3>
-											<h5 class="card-date"><i class="icon-line2-calendar"></i>Aug 8, 2021</h5>
-										</div>
-									</div>
-								</div>
-
-								<!-- Item 9 -->
-								<div class="col-sm-4 col-6">
-									<div class="card">
-										<div class="card-body">
-										<img src="demos/recipes/images/popular/9-500.png" alt="image">
-											<div class="d-flex justify-content-between align-items-center mt-4 mb-2">
-												<p class="card-author">By <a href="#">Malcolm Function</a></p>
-												<span class="badge badge-primary bg-color"><i class="icon-star3"></i> 4.3</span>
-											</div>
-											<h3 class="card-title"><a href="demos/recipes/recipe-single.html" class="stretched-link">Garden Veggie Delux Pizza</a></h3>
-											<h5 class="card-date"><i class="icon-line2-calendar"></i>Jul 26, 2021</h5>
-										</div>
-									</div>
-								</div>
-
-								<!-- Item 10 -->
-								<div class="col-sm-4 col-6">
-									<div class="card">
-										<div class="card-body">
-										<img src="demos/recipes/images/popular/10-500.png" alt="image">
-											<div class="d-flex justify-content-between align-items-center mt-4 mb-2">
-												<p class="card-author">By <a href="#">Dianne Ameter</a></p>
-												<span class="badge badge-primary bg-color"><i class="icon-star3"></i> 4.5</span>
-											</div>
-											<h3 class="card-title"><a href="demos/recipes/recipe-single.html" class="stretched-link">Spinach Artichoke Dip Pasta with Chicken</a></h3>
-											<h5 class="card-date"><i class="icon-line2-calendar"></i>Jun 15, 2021</h5>
-										</div>
-									</div>
-								</div>
-
-								<!-- Item 11 -->
-								<div class="col-sm-4 col-6">
-									<div class="card">
-										<div class="card-body">
-										<img src="demos/recipes/images/popular/11-500.png" alt="image">
-											<div class="d-flex justify-content-between align-items-center mt-4 mb-2">
-												<p class="card-author">By <a href="#">Weir Doe</a></p>
-												<span class="badge badge-primary bg-color"><i class="icon-star3"></i> 4.4</span>
-											</div>
-											<h3 class="card-title"><a href="demos/recipes/recipe-single.html" class="stretched-link">Quick Black Pepper Pork Lunch</a></h3>
-											<h5 class="card-date"><i class="icon-line2-calendar"></i>May 11, 2021</h5>
-										</div>
-									</div>
-								</div>
-
-								<!-- Item 12 -->
-								<div class="col-sm-4 col-6">
-									<div class="card">
-										<div class="card-body">
-										<img src="demos/recipes/images/popular/12-500.png" alt="image">
-											<div class="d-flex justify-content-between align-items-center mt-4 mb-2">
-												<p class="card-author">By <a href="#">Niles Peppertrout</a></p>
-												<span class="badge badge-primary bg-color"><i class="icon-star3"></i> 4.0</span>
-											</div>
-											<h3 class="card-title"><a href="demos/recipes/recipe-single.html" class="stretched-link">Afternoon Plates of Pasta</a></h3>
-											<h5 class="card-date"><i class="icon-line2-calendar"></i>May 4, 2021</h5>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div id="datcomtuan" class="section bg-transparent" style="padding: 100px 0">
+				<div class="section mb-0 mt-3" style="padding: 80px 0; background: #F5F5F5 url('demos/restaurant/images/food-pattern.png') repeat center center;">
 					<div class="container">
-						<h2 class="text-title-light" style="margin: 0 0 -20px 15px; color:#666666; margin-bottom: 5px;">đặt cơm tuần</h2>
-						<div id="recipes-carousel" class="owl-carousel carousel-widget" data-margin="0" data-nav="true" data-pagi="false" data-items="1">
-							<div class="row no-gutters align-items-stretch" style="box-shadow: 0px 1px 1px 1px #333333; border-radius: 5px;">
-								<div class="col-lg-5 rounded-left" style="background: url('demos/recipes/images/recipe-week.jpg') no-repeat center center / cover; min-height: 300px">
-									<a href="https://www.youtube.com/watch?v=-KlusH1loj4" data-lightbox="iframe" class="play-video stretched-link">
-										<i class="icon-play"></i>
-									</a>
-								</div>
-								<div class="col-lg-7 d-flex justify-content-center flex-column rounded-right" style="padding: 80px 50px" id="datcomtuan_miong">
-									<h3>Earthy Pasta with Chestnuts and Mushrooms</h3>
-									<p>Distinctively leverage other's user friendly methods of empowerment and magnetic niche markets. Appropriately utilize accurate web-readiness through integrated results. Globally pursue high-quality web-readiness with value-added "outside the box" thinking. Dramatically optimize next-generation information after turnkey technologies.</p>
-									<div class="slider-features d-none d-sm-block my-3">
-										<ul class="list-unstyled">
-											<li class="d-inline-block">
-												<img src="demos/recipes/images/icons/timer-dark.svg" alt="Timer" width="30">
-												<h5 class="mb-0">40 Mins</h5>
-											</li>
-
-											<li class="d-inline-block">
-												<img src="demos/recipes/images/icons/ingredients-dark.svg" alt="ingredients" width="30">
-												<h5 class="mb-0">9 Ingredients</h5>
-											</li>
-
-											<li class="d-inline-block">
-												<img src="demos/recipes/images/icons/kcal-dark.svg" alt="kcal" width="30">
-												<h5 class="mb-0">600 Kcal</h5>
-											</li>
-										</ul>
-									</div>
-									<div><a href="demos/recipes/recipe-single.html" class="button button-circle button-large m-0 font-weight-semibold nott ls0 text-right">View Recipe <i class="icon-angle-right"></i></a></div>
-								</div>
-							</div>
-
-							<div class="row no-gutters align-items-stretch" style="box-shadow: 0px 1px 1px 1px #333333; border-radius: 5px;">
-								<div class="col-lg-5 rounded-left dark" style="background: url('demos/recipes/images/recipe-week-2.jpg') no-repeat center center / cover; min-height: 300px">
-									<a href="https://www.youtube.com/watch?v=-KlusH1loj4" data-lightbox="iframe" class="play-video stretched-link">
-										<i class="icon-play"></i>
-									</a>
-								</div>
-								<div class="col-lg-7 d-flex justify-content-center flex-column rounded-right" style="padding: 80px 50px" id="datcomtuan_banhkep">
-									<h3>Wholesome Pancakes with Orange</h3>
-									<p>Distinctively leverage other's user friendly methods of empowerment and magnetic niche markets. Appropriately utilize accurate web-readiness through integrated results. Globally pursue high-quality web-readiness with value-added "outside the box" thinking. Dramatically optimize next-generation information after turnkey technologies.</p>
-									<div class="slider-features d-none d-sm-block my-3">
-										<ul class="list-unstyled">
-											<li class="d-inline-block">
-												<img src="demos/recipes/images/icons/timer-dark.svg" alt="Timer" width="30">
-												<h5 class="mb-0">32 Mins</h5>
-											</li>
-
-											<li class="d-inline-block">
-												<img src="demos/recipes/images/icons/ingredients-dark.svg" alt="ingredients" width="30">
-												<h5 class="mb-0">5 Ingredients</h5>
-											</li>
-
-											<li class="d-inline-block">
-												<img src="demos/recipes/images/icons/kcal-dark.svg" alt="kcal" width="30">
-												<h5 class="mb-0">300 Kcal</h5>
-											</li>
-										</ul>
-									</div>
-									<div><a href="demos/recipes/recipe-single.html" class="button button-circle button-large m-0 font-weight-semibold ls0 nott text-right">View Recipe <i class="icon-angle-right"></i></a></div>
-								</div>
-							</div>
+						<div class="heading-block border-bottom-0 center bottommargin-sm">
+							<p class="font-primary ls1 color">hương vị ẩm thực</p>
+							<h2 class="nott ls0" style="font-size: 52px; line-height: 1.3;">hướng dẫn ăn hàng</h2>
 						</div>
-					</div>
-				</div>
 
-				<div id="dacsannhahang" class="section mb-0" style="padding: 100px 0">
-					<div class="container">
-						<div class="row clearfix">
-							<div class="heading-block center col-md-6 offset-3">
-								<h2 class="mb-3">đặc sản nhà hàng</h2>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae veniam quam incidunt eos eaque esse ducimus dolore, velit, laborum dignissimos?</p>
-							</div>
-						</div>
 						<div class="clear"></div>
-						<div class="row clearfix">
-							<div class="col-md-4 mt-4" id="dacsanbanhong">
-								<div class="card border-0" style="box-shadow: 0px 1px 1px 1px #333333; border-radius: 5px;">
-									<img src="demos/recipes/images/blog/piping-bag.jpg" class="card-img-top" alt="Image">
-									<div class="card-body" style="padding: 40px">
-										<h4 class="card-title mb-3">How to Make Paper Piping-Bag</h4>
-										<p class="card-text">Authoritatively productize 24/7 platforms authoritatively rather than enterprise customer service.</p>
-										<a href="#" class="card-link stretched-link">Learn More <i class="icon-angle-right position-relative ml-2" style="top: 2px"></i></a>
+
+						<div class="row mt-5 clearfix">
+							<div class="col-lg-4 col-sm-6 bottommargin-sm">
+								<div class="feature-box media-box">
+									<div class="fbox-media" style="width: 60px; height: 60px">
+										<img src="demos/restaurant/images/icons/route.svg" alt="Image">
+									</div>
+									<div class="fbox-content px-0">
+										<h3>1. ăn ở đâu</h3>
+										<p>Chọn nhà hàng trực tuyến, đối tác liên kết trong phạm vi tỉnh thành</p>
 									</div>
 								</div>
 							</div>
 
-							<div class="col-md-4 mt-4" id="dacsanrautron">
-								<div class="card border-0" style="box-shadow: 0px 1px 1px 1px #333333; border-radius: 5px;">
-									<img src="demos/recipes/images/blog/healthy-food.jpg" class="card-img-top" alt="Image">
-									<div class="card-body" style="padding: 40px">
-										<h4 class="card-title mb-3">Top 10 Healthy Foods of 2021</h4>
-										<p class="card-text">Dramatically initiate authoritatively interactive e-tailers with enterprise results phosfluorescently.</p>
-										<a href="#" class="card-link stretched-link">Learn More <i class="icon-angle-right position-relative ml-2" style="top: 2px"></i></a>
+							<div class="col-lg-4 col-sm-6 bottommargin-sm">
+								<div class="feature-box media-box">
+									<div class="fbox-media" style="width: 60px; height: 60px">
+										<img src="demos/restaurant/images/icons/shop.svg" alt="Image">
+									</div>
+									<div class="fbox-content px-0">
+										<h3>2. ăn món gì</h3>
+										<p>Chọn món - hương vị ẩm thực trong thực đơn, xem giá cả và ngày đăng.</p>
 									</div>
 								</div>
 							</div>
 
-							<div class="col-md-4 mt-4" id="dacsangoicuqua">
-								<div class="card border-0" style="box-shadow: 0px 1px 1px 1px #333333; border-radius: 5px;">
-									<img src="demos/recipes/images/blog/meal-prep.jpg" class="card-img-top" alt="Image">
-									<div class="card-body" style="padding: 40px">
-										<h4 class="card-title mb-3">Top Vegetarian Meal Preps</h4>
-										<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-										<a href="#" class="card-link stretched-link">Learn More <i class="icon-angle-right position-relative ml-2" style="top: 2px"></i></a>
+							<div class="col-lg-4 col-sm-6 bottommargin-sm">
+								<div class="feature-box media-box">
+									<div class="fbox-media" style="width: 75px; height: 60px">
+										<img src="demos/restaurant/images/icons/delivery-bg.svg" alt="Image">
+									</div>
+									<div class="fbox-content px-0">
+										<h3>3. chọn là chạy</h3>
+										<p>Giao hàng nhanh luôn luôn sẵn sàng, hương vẫn còn - vị vẫn ngon</p>
 									</div>
 								</div>
 							</div>
+							<div class="text-center" data-type="AwesomeTableView" data-hide-filters="false" data-filters="" data-viewID="-M_nwiiEJ_9o2FGGzJN9"></div>
 						</div>
 					</div>
 				</div>
 
-				<div id="lienhewebamthuc" class="section m-0" style="background: url('demos/recipes/images/subscribe-bg.jpg') no-repeat center center / cover; min-height: 300px; padding: 120px 0">
+				<div class="section m-0 bg-transparent" style="padding: 80px 0 70px;">
 					<div class="container">
-						<div class="row">
-							<div class="col-sm-6 mt-4 mt-sm-0 subscribe-widget" data-loader="button">
-								<img src="demos/recipes/images/icons/email.svg" alt="Enmail Icon" width="60" class="mb-4">
-								<div class="heading-block border-bottom-0 mb-5">
-									<h2 class="nott ls0 mb-1">thực đơn canvas</h2>
-									<p class="lead text-muted">Easy Recipes and Cookings right to your Inbox</p>
-								</div>
-								<div class="widget-subscribe-form-result"></div>
-								<form id="widget-subscribe-form" action="include/subscribe.php" role="form" method="post" class="mb-0">
-									<div class="input-group input-group-lg">
-										<input type="email" name="widget-subscribe-form-email" class="form-control required" placeholder="Enter Your Email Address..">
-										<div class="input-group-append">
-											<button type="submit" class="btn text-white bg-color px-4" id="inputGroup-sizing-lg">Subscribe</button>
-										</div>
-									</div>
-								</form>
-							</div>
+						<div class="mx-auto d-flex justify-content-center center" style="max-width: 900px;">
+							<h3 class="mb-0 ls0">kênh ẩm thực - chia lợi nhuận <a class="button button-circle button-xlarge button-light text-white ls0 nott mt-0 mb-1 ml-3" style="position: relative;"><span>Order Now</span> <i class="fa fa-arrow-circle-right"></i></a></h3>
 						</div>
 					</div>
 				</div>
-
 			</div>
+			<div style="position: absolute; bottom: 0; left: 0; width: 100%; z-index: 3; background: url('demos/restaurant/images/sketch-header.png') repeat center bottom; background-size: auto 100%; height: 40px; margin-bottom: -10px;"></div>
 		</section><!-- #content end -->
 
 		<!-- Footer
 		============================================= -->
-		<footer id="footer" class="bg-white border-0">
-
-			<div class="container">
-
-				<!-- Footer Widgets
-				============================================= -->
-				<div class="footer-widgets-wrap">
-
-					<div class="row">
-
-						<div class="col-lg-2 col-md-2 col-6 pr-4">
-							<div class="widget clearfix">
-
-								<h4 class="ls0 nott">Download App</h4>
-								<a href="#"><img src="demos/articles/images/appstore.png" alt="App Link"></a>
-								<a href="#"><img src="demos/articles/images/googleplay.png" alt="App Link" class="mt-2"></a>
-
-							</div>
-						</div>
-						<div class="col-lg-2 col-md-2 col-6">
-							<div class="widget clearfix">
-
-								<h4 class="ls0 nott">Support</h4>
-
-								<ul class="list-unstyled ml-0">
-									<li class="mb-2"><a href="#" class="text-black-50">Home</a></li>
-									<li class="mb-2"><a href="#" class="text-black-50">About</a></li>
-									<li class="mb-2"><a href="#" class="text-black-50">FAQs</a></li>
-									<li class="mb-2"><a href="#" class="text-black-50">Support</a></li>
-								</ul>
-
-							</div>
-						</div>
-						<div class="col-lg-2 col-md-2 col-6 mt-4 mt-md-0">
-							<div class="widget clearfix">
-
-								<h4 class="ls0 nott">Trending</h4>
-
-								<ul class="list-unstyled ml-0">
-									<li class="mb-2"><a href="#" class="text-black-50">Shop</a></li>
-									<li class="mb-2"><a href="#" class="text-black-50">Portfolio</a></li>
-									<li class="mb-2"><a href="#" class="text-black-50">Blog</a></li>
-								</ul>
-
-							</div>
-						</div>
-						<div class="col-lg-2 col-md-2 col-6 mt-4 mt-md-0">
-							<div class="widget clearfix">
-
-								<h4 class="ls0 nott">Features</h4>
-
-								<ul class="list-unstyled ml-0">
-									<li class="mb-2"><a href="#" class="text-black-50">Help Center</a></li>
-									<li class="mb-2"><a href="#" class="text-black-50">Paid with Moblie</a></li>
-									<li class="mb-2"><a href="#" class="text-black-50">Status</a></li>
-									<li class="mb-2"><a href="#" class="text-black-50">Contact Support</a></li>
-								</ul>
-
-							</div>
-						</div>
-
-						<div class="col-lg-4 col-md-4">
-							<div id="instagram" class="widget clearfix">
-
-								<h4 class="ls0 nott">Instagram Photos</h4>
-								<div id="instagram-photos" class="instagram-photos masonry-thumbs grid-4" data-user="blog.canvastemplate" data-count="8"></div>
-
-							</div>
-						</div>
-					</div>
-
-				</div>
-
-			</div>
-
+		<footer id="footer" class="dark" style="background: url('demos/restaurant/images/footer-bg.jpg')  repeat center center / cover; background-size: auto 100%;; padding: 20px 0 22px">
 			<!-- Copyrights
 			============================================= -->
-			<div id="copyrights" class="bg-light">
-
-				<div class="container">
-					<div class="row justify-content-between align-items-center">
-						<div class="col-sm-4 d-flex justify-content-sm-start mb-3 mb-sm-0 text-black-50">
-							Copyrights &copy; 2020 All Rights Reserved by Canvas Inc.
+			<div id="copyrights" class="bg-transparent pb-4">
+				<div class="container clearfix">
+					<div class="row justify-content-between col-mb-30">
+						<div class="col-12 col-md-auto text-center text-md-left">
+							<span class="font-primary">&copy; Canvas Inc. 2021. All Rights Reserved.</span>
 						</div>
-						<div class="col-sm-4 d-flex justify-content-sm-center mb-3 mb-sm-0">
-							<a href="https://facebook.com/semicolonweb" target="_blank" class="social-icon si-small si-colored si-facebook" title="Facebook">
-								<i class="icon-facebook"></i>
-								<i class="icon-facebook"></i>
-							</a>
-							<a href="https://twitter.com/__semicolon" target="_blank" class="social-icon si-small si-colored si-twitter" title="Twitter">
-								<i class="icon-twitter"></i>
-								<i class="icon-twitter"></i>
-							</a>
-							<a href="https://www.youtube.com/semicolonweb" target="_blank" class="social-icon si-small si-colored si-youtube" title="youtube">
-								<i class="icon-youtube"></i>
-								<i class="icon-youtube"></i>
-							</a>
-							<a href="https://www.instagram.com/semicolonweb" target="_blank" class="social-icon si-small si-colored si-instagram" title="instagram">
-								<i class="icon-instagram"></i>
-								<i class="icon-instagram"></i>
-							</a>
-						</div>
-						<div class="col-sm-4 d-flex justify-content-sm-end">
-							<div class="copyright-links"><a href="#">Terms of Use</a> / <a href="#">Privacy Policy</a></div>
+						<div class="col-12 col-md-auto text-center text-md-right">
+							<div class="copyrights-menu copyright-links clearfix">
+								<a>Home</a>/<a>About Us</a>/<a>Team</a>/<a>Clients</a>/<a>Contact</a>
+							</div>
 						</div>
 					</div>
 				</div>
-
 			</div><!-- #copyrights end -->
-
 		</footer><!-- #footer end -->
 
 	</div><!-- #wrapper end -->
 
 	<!-- Go To Top
 	============================================= -->
-	<div id="gotoTop" class="icon-angle-up"></div>
+	<div id="gotoTop" class="fa fa-caret-up"></div>
 
 	<!-- JavaScripts
 	============================================= -->
 	<script src="js/jquery.js"></script>
 	<script src="js/plugins.min.js"></script>
 
-	<!-- SLIDER REVOLUTION 5.x SCRIPTS  -->
-	<script src="include/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
-	<script src="include/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
-
-	<!-- ADD-ONS JS FILES -->
-	<script src="include/rs-plugin/js/pixi.min.js"></script>
-	<script src="include/rs-plugin/js/addons/revolution.addon.liquideffect.min.js"></script>
-
-	<!-- SLIDER REVOLUTION EXTENSIONS  -->
-	<script src="include/rs-plugin/extensions/revolution.extension.actions.min.js"></script>
-	<script src="include/rs-plugin/extensions/revolution.extension.carousel.min.js"></script>
-	<script src="include/rs-plugin/extensions/revolution.extension.kenburn.min.js"></script>
-	<script src="include/rs-plugin/extensions/revolution.extension.layeranimation.min.js"></script>
-	<script src="include/rs-plugin/extensions/revolution.extension.migration.min.js"></script>
-	<script src="include/rs-plugin/extensions/revolution.extension.navigation.min.js"></script>
-	<script src="include/rs-plugin/extensions/revolution.extension.parallax.min.js"></script>
-	<script src="include/rs-plugin/extensions/revolution.extension.slideanims.min.js"></script>
-	<script src="include/rs-plugin/extensions/revolution.extension.video.min.js"></script>
-
 	<!-- Footer Scripts
 	============================================= -->
 	<script src="js/functions.js"></script>
-
-	<script>
-		var revapi2,
-		tpj;
-		var $ = jQuery.noConflict();
-		(function() {
-			if (!/loaded|interactive|complete/.test(document.readyState)) document.addEventListener("DOMContentLoaded",onLoad); else onLoad();
-
-			function onLoad() {
-				if (tpj===undefined) { tpj = jQuery; if("off" == "on") tpj.noConflict();}
-
-				if(tpj("#rev_slider_2_1").revolution == undefined){
-					revslider_showDoubleJqueryError("#rev_slider_2_1");
-				}else{
-					revapi2 = tpj("#rev_slider_2_1").show().revolution({
-						sliderType:"standard",
-						jsFileLocation:"include/rs-plugin/js/",
-						sliderLayout:"fullscreen",
-						dottedOverlay:"none",
-						delay:9000,
-						navigation: {
-							keyboardNavigation:"off",
-							keyboard_direction: "horizontal",
-							mouseScrollNavigation:"off",
-							mouseScrollReverse:"default",
-							onHoverStop:"off",
-							arrows: {
-								style:"uranus",
-								enable:true,
-								hide_onmobile:false,
-								hide_onleave:false,
-								tmp:'',
-								left: {
-									h_align:"right",
-									v_align:"bottom",
-									h_offset:80,
-									v_offset:30
-								},
-								right: {
-									h_align:"right",
-									v_align:"bottom",
-									h_offset:20,
-									v_offset:30
-								}
-							}
-						},
-						responsiveLevels:[1200,992,768,576],
-						visibilityLevels:[1200,992,768,576],
-						gridwidth:[1200,992,768,576],
-						gridheight:[868,768,960,720],
-						lazyType:"all",
-						shadow:0,
-						spinner:"off",
-						stopLoop:"off",
-						stopAfterLoops:-1,
-						stopAtSlide:-1,
-						shuffle:"off",
-						autoHeight:"on",
-						fullScreenAutoWidth:"off",
-						fullScreenAlignForce:"off",
-						fullScreenOffsetContainer: "0",
-						fullScreenOffset: "",
-						disableProgressBar:"off",
-						hideThumbsOnMobile:"off",
-						hideSliderAtLimit:0,
-						hideCaptionAtLimit:0,
-						hideAllCaptionAtLilmit:0,
-						debugMode:false,
-						fallbacks: {
-							simplifyAll:"off",
-							nextSlideOnWindowFocus:"off",
-							disableFocusListener:false,
-						}
-					});
-				}; /* END OF revapi call */
-				RsLiquideffectAddOn(tpj, revapi2);
-				if(typeof ExplodingLayersAddOn !== "undefined") ExplodingLayersAddOn(tpj, revapi2);
-			}; /* END OF ON LOAD FUNCTION */
-		}()); /* END OF WRAPPING FUNCTION */
-	</script>
 </body>
 </html>
