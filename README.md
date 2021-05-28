@@ -15,35 +15,35 @@
 <meta property="name" content="web ẩm thực"></meta> <meta property="operatingSystem" content="linux"></meta> <meta property="applicationCategory" content="BusinessApplication"></meta>
 <p property="aggregateRating" typeof="AggregateRating"><meta property="ratingValue" content=5></meta> <meta property="ratingCount" content=5></meta></p>
 <p property="offers" typeof="Offer"><meta property="price" content=3000000></meta> <meta property="priceCurrency" content="VND"></meta></p>
-<link property="url" href="https://thuongmaitructuyenbrvt.github.io/product/am-thuc-canvas/">
+<link property="url" href="https://thuongmaitructuyenbrvt.com/product/am-thuc-canvas/">
 </div>
 
 <div property="itemOffered" typeof="SoftwareApplication">
 <meta property="name" content="web du lịch"></meta> <meta property="operatingSystem" content="linux"></meta> <meta property="applicationCategory" content="BusinessApplication"></meta>
 <p property="aggregateRating" typeof="AggregateRating"><meta property="ratingValue" content=5></meta> <meta property="ratingCount" content=5></meta></p>
 <p property="offers" typeof="Offer"><meta property="price" content=3000000></meta> <meta property="priceCurrency" content="VND"></meta></p>
-<link property="url" href="https://thuongmaitructuyenbrvt.github.io/product/du-lich-townhub/">
+<link property="url" href="https://thuongmaitructuyenbrvt.com/product/du-lich-townhub/">
 </div>
 
 <div property="itemOffered" typeof="SoftwareApplication">
 <meta property="name" content="web ứng dụng"></meta> <meta property="operatingSystem" content="linux"></meta> <meta property="applicationCategory" content="BusinessApplication"></meta>
 <p property="aggregateRating" typeof="AggregateRating"><meta property="ratingValue" content=5></meta> <meta property="ratingCount" content=5></meta></p>
 <p property="offers" typeof="Offer"><meta property="price" content=3000000></meta> <meta property="priceCurrency" content="VND"></meta></p>
-<link property="url" href="https://thuongmaitructuyenbrvt.github.io/product/ung-dung-sapp/">
+<link property="url" href="https://thuongmaitructuyenbrvt.com/product/ung-dung-sapp/">
 </div>
 
 <div property="itemOffered" typeof="SoftwareApplication">
 <meta property="name" content="web bán lẻ"></meta> <meta property="operatingSystem" content="linux"></meta> <meta property="applicationCategory" content="BusinessApplication"></meta>
 <p property="aggregateRating" typeof="AggregateRating"><meta property="ratingValue" content=5></meta> <meta property="ratingCount" content=5></meta></p>
 <p property="offers" typeof="Offer"><meta property="price" content=3000000></meta> <meta property="priceCurrency" content="VND"></meta></p>
-<link property="url" href="https://thuongmaitructuyenbrvt.github.io/product/ban-le-landrick/">
+<link property="url" href="https://thuongmaitructuyenbrvt.com/product/ban-le-landrick/">
 </div>
 
 </div><!----><!---->
 
 </div><!---->
 
-<h2 property="name"><a property="url" href="https://thuongmaitructuyenbrvt.github.io/" target="_blank" title="thương mại brvt">thương mại brvt</a></h2>
+<h2 property="name"><a property="url" href="https://thuongmaitructuyenbrvt.com/" target="_blank" title="thương mại brvt">thương mại brvt</a></h2>
 
 <img property="image" src="https://www.mediafire.com/convkey/e41f/bt53phvafr3esqy6g.jpg?size_id=8" alt="thuong mai brvt"></img>
 
@@ -73,8 +73,8 @@
 
 <table>
 <tr>
-<th><p property="partOfSeries" typeof="PodcastSeries"><a property="url" href="https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/nhac-hoa-tuyen-chon.html" target="_blank" title="nhạc hoa"><h3 property="name">nhạc hoa</h3></a> <link property="image" href="https://www.mediafire.com/convkey/10a3/r3uad54hymerff16g.jpg?size_id=8"><p></th>
-<th><p property="partOfSeries" typeof="PodcastSeries"><a property="url" href="https://thuongmaitructuyenbrvt.github.io/news/article-json.html" target="_blank" title="article json"><h3 property="name">article json</h3></a> <link property="image" href="https://www.mediafire.com/convkey/41b8/u6h0z2l5ctrwdpl6g.jpg?size_id=8"><p></th>
+<th><p property="partOfSeries" typeof="PodcastSeries"><a property="url" href="https://thuongmaitructuyenbrvt.com/nhac-tuyen-chon/nhac-hoa-tuyen-chon.html" target="_blank" title="nhạc hoa"><h3 property="name">nhạc hoa</h3></a> <link property="image" href="https://www.mediafire.com/convkey/10a3/r3uad54hymerff16g.jpg?size_id=8"><p></th>
+<th><p property="partOfSeries" typeof="PodcastSeries"><a property="url" href="https://thuongmaitructuyenbrvt.com/news/tin-tuc-hang-dau-article.html" target="_blank" title="article json"><h3 property="name">article json</h3></a> <link property="image" href="https://www.mediafire.com/convkey/41b8/u6h0z2l5ctrwdpl6g.jpg?size_id=8"><p></th>
 </tr>
 <tr>
 <td><img src="https://www.mediafire.com/convkey/10a3/r3uad54hymerff16g.jpg?size_id=8" alt="nhac hoa"></td>
@@ -82,8 +82,8 @@
 </tr>
 
 <tr>
-<th><p property="partOfSeries" typeof="PodcastSeries"><a property="url" href="https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/nhac-quoc-te-tuyen-chon.html" target="_blank" title="nhạc quốc tế"><h3 property="name">nhạc quốc tế</h3></a> <link property="image" href="https://www.mediafire.com/convkey/1473/fpx43icm2j36hq86g.jpg?size_id=8"><p></th>
-<th><p property="partOfSeries" typeof="PodcastSeries"><a property="url" href="https://thuongmaitructuyenbrvt.github.io/news/itemlist-json.html" target="_blank" title="itemlist json"><h3 property="name">itemlist json</h3></a> <link property="image" href="https://www.mediafire.com/convkey/c6c3/sd5pmyov1c3bx5u6g.jpg?size_id=8"><p></th>
+<th><p property="partOfSeries" typeof="PodcastSeries"><a property="url" href="https://thuongmaitructuyenbrvt.com/nhac-tuyen-chon/nhac-quoc-te-tuyen-chon.html" target="_blank" title="nhạc quốc tế"><h3 property="name">nhạc quốc tế</h3></a> <link property="image" href="https://www.mediafire.com/convkey/1473/fpx43icm2j36hq86g.jpg?size_id=8"><p></th>
+<th><p property="partOfSeries" typeof="PodcastSeries"><a property="url" href="https://thuongmaitructuyenbrvt.com/news/danh-muc-lien-ket-itemlist.html" target="_blank" title="itemlist json"><h3 property="name">itemlist json</h3></a> <link property="image" href="https://www.mediafire.com/convkey/c6c3/sd5pmyov1c3bx5u6g.jpg?size_id=8"><p></th>
 </tr>
 <tr>
 <td><img src="https://www.mediafire.com/convkey/1473/fpx43icm2j36hq86g.jpg?size_id=8" alt="nhac quoc te"></td>
@@ -91,8 +91,8 @@
 </tr>
 
 <tr>
-<th><p property="partOfSeries" typeof="PodcastSeries"><a property="url" href="https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/nhac-tre-tuyen-chon.html" target="_blank" title="nhạc trẻ"><h3 property="name">nhạc trẻ</h3></a> <link property="image" href="https://www.mediafire.com/convkey/cb36/wvlih8mc8527y4x6g.jpg?size_id=8"><p></th>
-<th><p property="partOfSeries" typeof="PodcastSeries"><a property="url" href="https://thuongmaitructuyenbrvt.github.io/news/recipe-json.html" target="_blank" title="recipe json"><h3 property="name">recipe json</h3></a> <link property="image" href="https://www.mediafire.com/convkey/e89f/s0yhrz8ayiawtt46g.jpg?size_id=8"><p></th>
+<th><p property="partOfSeries" typeof="PodcastSeries"><a property="url" href="https://thuongmaitructuyenbrvt.com/nhac-tuyen-chon/nhac-tre-tuyen-chon.html" target="_blank" title="nhạc trẻ"><h3 property="name">nhạc trẻ</h3></a> <link property="image" href="https://www.mediafire.com/convkey/cb36/wvlih8mc8527y4x6g.jpg?size_id=8"><p></th>
+<th><p property="partOfSeries" typeof="PodcastSeries"><a property="url" href="https://thuongmaitructuyenbrvt.com/news/am-thuc-nha-hang-recipe.html" target="_blank" title="recipe json"><h3 property="name">recipe json</h3></a> <link property="image" href="https://www.mediafire.com/convkey/e89f/s0yhrz8ayiawtt46g.jpg?size_id=8"><p></th>
 </tr>
 <tr>
 <td><img src="https://www.mediafire.com/convkey/cb36/wvlih8mc8527y4x6g.jpg?size_id=8" alt="nhac tre"></td>
@@ -100,8 +100,8 @@
 </tr>
 
 <tr>
-<th><p property="partOfSeries" typeof="PodcastSeries"><a property="url" href="https://thuongmaitructuyenbrvt.github.io/nhac-tuyen-chon/nhac-hoa-tau-tuyen-chon.html" target="_blank" title="nhạc hòa tấu"><h3 property="name">nhạc hòa tấu</h3></a> <link property="image" href="https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg?size_id=8"><p></th>
-<th><p property="partOfSeries" typeof="PodcastSeries"><a property="url" href="https://thuongmaitructuyenbrvt.github.io/news/howto-json.html" target="_blank" title="howto json"><h3 property="name">howto json</h3></a> <link property="image" href="https://www.mediafire.com/convkey/bcfc/49nr1b34eiskvwt6g.jpg?size_id=8"><p></th>
+<th><p property="partOfSeries" typeof="PodcastSeries"><a property="url" href="https://thuongmaitructuyenbrvt.com/nhac-tuyen-chon/nhac-hoa-tau-tuyen-chon.html" target="_blank" title="nhạc hòa tấu"><h3 property="name">nhạc hòa tấu</h3></a> <link property="image" href="https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg?size_id=8"><p></th>
+<th><p property="partOfSeries" typeof="PodcastSeries"><a property="url" href="https://thuongmaitructuyenbrvt.com/news/huong-dan-cach-lam-howto.html" target="_blank" title="howto json"><h3 property="name">howto json</h3></a> <link property="image" href="https://www.mediafire.com/convkey/bcfc/49nr1b34eiskvwt6g.jpg?size_id=8"><p></th>
 </tr>
 <tr>
 <td><img src="https://www.mediafire.com/convkey/4e1d/3if40knl62fko3a6g.jpg?size_id=8" alt="nhac hoa tau"></td>
