@@ -45,19 +45,6 @@
 		<meta itemprop="articleSection" content="Business">
 		<link itemprop="image" href="https://www.mediafire.com/convkey/590b/smmvqffantao1xw6g.jpg?size_id=8">
 		<meta itemprop="datePublished" content="May 18, 2021"> <meta itemprop="dateModified" content="Jun 25, 2021">
-		<div style="display: none;" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
-			<meta itemprop="name" content="thương mại brvt"> <link itemprop="logo" href="https://vn.thuongmaitructuyenbrvt.com/anh-thuong-hieu/logoamp.png">
-			<div itemprop="review" itemscope itemtype="https://schema.org/Review">
-				<meta itemprop="reviewBody" content="web du lịch tạo ra 1 thành phố trực tuyến thu nhỏ không mã nguồn nào theo kịp">
-				<meta itemprop="description" content="web du lịch tạo ra 1 thành phố trực tuyến thu nhỏ không mã nguồn nào theo kịp">
-				<div itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating">
-					<meta itemprop="ratingValue" content="5"> <meta itemprop="bestRating" content="5"> <meta itemprop="worstRating" content="1">
-				</div>
-				<div itemprop="author" itemscope itemtype="https://schema.org/Person">
-					<meta itemprop="name" content="itvtbadboy">
-				</div>
-			</div>
-		</div>
 		<div style="display: none;" itemprop="author" itemscope itemtype="https://schema.org/Person">
 			<meta itemprop="name" content="itvtbadboy">
 		</div>
@@ -190,7 +177,12 @@
 
 
 
-            <div id="wrapper">
+            <div id="wrapper" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+				<meta itemprop="name" content="thương mại brvt"> <link itemprop="logo" href="https://vn.thuongmaitructuyenbrvt.com/anh-thuong-hieu/logoamp.png">
+				<div style="display: none;" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+					<meta itemprop="ratingValue" content="5"> <meta itemprop="reviewCount" content="5">
+				</div>
+				<!---------- ---------- -----MICRODATA----- ---------- ---------->
                 <div class="content">
                     <section class="hero-section" data-scrollax-parent="true" id="dulichtructuyen">
                         <div class="bg-tabs-wrap">
@@ -426,72 +418,107 @@
                             <div class="listing-item-grid_container fl-wrap">
                                 <div class="row">
                                     <!--  listing-item-grid  -->
-                                    <div class="col-sm-4">
+                                    <div class="col-sm-4" itemprop="review" itemscope itemtype="https://schema.org/Review">
+										<div style="display: none;" itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating">
+											<meta itemprop="ratingValue" content="5"> <meta itemprop="bestRating" content="5"> <meta itemprop="worstRating" content="1">
+										</div>
+										<div style="display: none;" itemprop="author" itemscope itemtype="https://schema.org/Person">
+											<meta itemprop="name" content="itvtbadboy">
+										</div>
                                         <div id="newyork" class="listing-item-grid" style="box-shadow: -5px 1px 1px 1px #333333; border-radius: 10px;">
-                                            <div class="bg"  data-bg="images/all/56.jpg"></div>
+                                            <div class="bg" data-bg="images/all/56.jpg"><link itemprop="image" href="images/all/56.jpg"></div>
                                             <div class="d-gr-sec"></div>
                                             <div class="listing-counter color2-bg"><span>16 </span> Locations</div>
                                             <div class="listing-item-grid_title">
-                                                <h3><a href="listing.html">New York</a></h3>
-                                                <p>Trung tâm đô thị New York sở hữu 16 địa điểm hàng đầu</p>
+                                                <h3 itemprop="name"><a>New York</a></h3>
+                                                <meta itemprop="datePublished" content="2021-06-25"> <meta itemprop="description" content="Trung tâm đô thị New York sở hữu 16 địa điểm hàng đầu">
+                                                <p itemprop="reviewBody">Trung tâm đô thị New York sở hữu 16 địa điểm hàng đầu</p>
                                             </div>
                                         </div>
                                     </div>
                                     <!--  listing-item-grid end  -->
                                     <!--  listing-item-grid  -->
-                                    <div class="col-sm-4">
+                                    <div class="col-sm-4" itemprop="review" itemscope itemtype="https://schema.org/Review">
+										<div style="display: none;" itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating">
+											<meta itemprop="ratingValue" content="5"> <meta itemprop="bestRating" content="5"> <meta itemprop="worstRating" content="1">
+										</div>
+										<div style="display: none;" itemprop="author" itemscope itemtype="https://schema.org/Person">
+											<meta itemprop="name" content="itvtbadboy">
+										</div>
                                         <div id="paris" class="listing-item-grid" style="box-shadow: 0px 1px 1px 1px #333333; border-radius: 10px;">
-                                            <div class="bg"  data-bg="images/all/57.jpg"></div>
+                                            <div class="bg"  data-bg="images/all/57.jpg"><link itemprop="image" href="images/all/57.jpg"></div>
                                             <div class="d-gr-sec"></div>
                                             <div class="listing-counter color2-bg"><span>22 </span> Locations</div>
                                             <div class="listing-item-grid_title">
-                                                <h3><a href="listing.html">Paris</a></h3>
-                                                <p>Trung tâm đô thị Paris sở hữu 22 địa điểm hàng đầu</p>
+                                                <h3 itemprop="name"><a>Paris</a></h3>
+                                                 <meta itemprop="datePublished" content="2021-06-25"> <meta itemprop="description" content="Trung tâm đô thị Paris sở hữu 22 địa điểm hàng đầu">
+                                                <p itemprop="reviewBody">Trung tâm đô thị Paris sở hữu 22 địa điểm hàng đầu</p>
                                             </div>
                                         </div>
                                     </div>
                                     <!--  listing-item-grid end  -->                                
                                     <!--  listing-item-grid  -->
-                                    <div class="col-sm-4">
+                                    <div class="col-sm-4" itemprop="review" itemscope itemtype="https://schema.org/Review">
+										<div style="display: none;" itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating">
+											<meta itemprop="ratingValue" content="5"> <meta itemprop="bestRating" content="5"> <meta itemprop="worstRating" content="1">
+										</div>
+										<div style="display: none;" itemprop="author" itemscope itemtype="https://schema.org/Person">
+											<meta itemprop="name" content="itvtbadboy">
+										</div>
                                         <div id="moscow" class="listing-item-grid" style="box-shadow: 5px 1px 1px 1px #333333; border-radius: 10px;">
-                                            <div class="bg"  data-bg="images/all/58.jpg"></div>
+                                            <div class="bg"  data-bg="images/all/58.jpg"><link itemprop="image" href="images/all/58.jpg"></div>
                                             <div class="d-gr-sec"></div>
                                             <div class="listing-counter color2-bg"><span>9 </span> Locations</div>
                                             <div class="listing-item-grid_title">
-                                                <h3><a href="listing.html">Moscow</a></h3>
-                                                <p>Trung tâm đô thị Moscow sở hữu 9 địa điểm hàng đầu</p>
+                                                <h3 itemprop="name"><a>Moscow</a></h3>
+                                                <meta itemprop="datePublished" content="2021-06-25"> <meta itemprop="description" content="Trung tâm đô thị Moscow sở hữu 9 địa điểm hàng đầu">
+                                                <p itemprop="reviewBody">Trung tâm đô thị Moscow sở hữu 9 địa điểm hàng đầu</p>
                                             </div>
                                         </div>
                                     </div>
                                     <!--  listing-item-grid end  -->
                                     <!--  listing-item-grid  -->
-                                    <div class="col-sm-4">
+                                    <div class="col-sm-4" itemprop="review" itemscope itemtype="https://schema.org/Review">
+										<div style="display: none;" itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating">
+											<meta itemprop="ratingValue" content="5"> <meta itemprop="bestRating" content="5"> <meta itemprop="worstRating" content="1">
+										</div>
+										<div style="display: none;" itemprop="author" itemscope itemtype="https://schema.org/Person">
+											<meta itemprop="name" content="itvtbadboy">
+										</div>
                                         <div id="rome" class="listing-item-grid" style="box-shadow: -5px 1px 1px 1px #333333; border-radius: 10px;">
-                                            <div class="bg"  data-bg="images/all/60.jpg"></div>
+                                            <div class="bg"  data-bg="images/all/60.jpg"><link itemprop="image" href="images/all/60.jpg"></div>
                                             <div class="d-gr-sec"></div>
                                             <div class="listing-counter color2-bg"><span>12 </span> Locations</div>
                                             <div class="listing-item-grid_title">
-                                                <h3><a href="listing.html">Rome</a></h3>
-                                                <p>Trung tâm đô thị Rome sở hữu 12 địa điểm hàng đầu</p>
+                                                <h3 itemprop="name"><a>Rome</a></h3>
+                                                <meta itemprop="datePublished" content="2021-06-25"> <meta itemprop="description" content="Trung tâm đô thị Rome sở hữu 12 địa điểm hàng đầu">
+                                                <p itemprop="reviewBody">Trung tâm đô thị Rome sở hữu 12 địa điểm hàng đầu</p>
                                             </div>
                                         </div>
                                     </div>
                                     <!--  listing-item-grid end  -->
                                     <!--  listing-item-grid  -->
-                                    <div class="col-sm-8">
+                                    <div class="col-sm-8" itemprop="review" itemscope itemtype="https://schema.org/Review">
+										<div style="display: none;" itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating">
+											<meta itemprop="ratingValue" content="5"> <meta itemprop="bestRating" content="5"> <meta itemprop="worstRating" content="1">
+										</div>
+										<div style="display: none;" itemprop="author" itemscope itemtype="https://schema.org/Person">
+											<meta itemprop="name" content="itvtbadboy">
+										</div>
                                         <div id="london" class="listing-item-grid" style="box-shadow: 5px 1px 1px 1px #333333; border-radius: 10px;">
-                                            <div class="bg"  data-bg="images/all/59.jpg"></div>
+                                            <div class="bg"  data-bg="images/all/59.jpg"><link itemprop="image" href="images/all/59.jpg"></div>
                                             <div class="d-gr-sec"></div>
                                             <div class="listing-counter color2-bg"><span>33 </span> Locations</div>
                                             <div class="listing-item-grid_title">
-                                                <h3><a href="listing.html">London</a></h3>
-                                                <p>Trung tâm đô thị London sở hữu 33 địa điểm hàng đầu</p>
+                                                <h3 itemprop="name"><a>London</a></h3>
+                                                <meta itemprop="datePublished" content="2021-06-25"> <meta itemprop="description" content="Trung tâm đô thị London sở hữu 33 địa điểm hàng đầu">
+                                                <p itemprop="reviewBody">Trung tâm đô thị London sở hữu 33 địa điểm hàng đầu</p>
                                             </div>
                                         </div>
                                     </div>                                                                             
                                 </div>
                             </div>
-                            <a href="listing.html" class="btn dec_btn   color2-bg">View All Cities<i class="fal fa-arrow-alt-right"></i></a>
+                            <a class="btn dec_btn color2-bg">View All Cities<i class="fal fa-arrow-alt-right"></i></a>
                         </div>
                     </section>
 
