@@ -1,13 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 	<url>
+		<loc>https://vn.thuongmaitructuyenbrvt.com/nhac-tuyen-chon/guzheng-dac-biet.amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>guzheng | đặc biệt | thuongmaibrvt</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-06-27</news:publication_date>
+			<news:title>Guzheng đặc biệt chỉ 102, concert pop tuyển chọn khương itvtbadboy</news:title>
+			<news:keywords>guzheng, dac biet</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://vn.thuongmaitructuyenbrvt.com/nhac-tuyen-chon/nhac-hoa-tau-tuyen-chon.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>nhạc hòa tấu | tuyển chọn | thuongmaibrvt</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-06-27</news:publication_date>
+			<news:title>Nhạc hòa tấu tuyển chọn khương itvtbadboy sưu tầm (đàn tranh, sáo, trúc)</news:title>
+			<news:keywords>nhac, hoa tau</news:keywords>
+		</news:news>
+	</url>
+
+
+	<url>
 		<loc>https://vn.thuongmaitructuyenbrvt.com/product/ung-dung-sapp/itvtbadboy-phat-trien-tiem-nang-web-bootstrap-ung-dung.amp.html</loc>
 		<news:news>
 			<news:publication>
-				<news:name>thương mại brvt</news:name>
+				<news:name>itvtbadboy phát triển tiềm năng web bootstrap ứng dụng</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2021-06-26</news:publication_date>
+			<news:publication_date>2021-06-27</news:publication_date>
 			<news:title>Itvtbadboy phát triển tiềm năng web bootstrap ứng dụng chuẩn seo nổi bật, thông minh an toàn, năng suất tuyệt đối</news:title>
 			<news:keywords>itvtbadboy, phat trien tiem nang, web bootstrap ung dung</news:keywords>
 		</news:news>
@@ -16,10 +42,10 @@
 		<loc>https://vn.thuongmaitructuyenbrvt.com/product/ung-dung-sapp/bao-mat-ung-dung.amp.html</loc>
 		<news:news>
 			<news:publication>
-				<news:name>thương mại brvt</news:name>
+				<news:name>ứng dụng | bảo mật | thuongmaibrvt</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2021-06-26</news:publication_date>
+			<news:publication_date>2021-06-27</news:publication_date>
 			<news:title>Bảo mật ứng dụng nhanh nhẹ thông suốt trong ngoài hệ thống ma trận thương mại cdn (linux - cloud - saas), thiết kế khương itvtbadboy</news:title>
 			<news:keywords>bao mat, ung dung</news:keywords>
 		</news:news>
@@ -28,10 +54,10 @@
 		<loc>https://vn.thuongmaitructuyenbrvt.com/product/ung-dung-sapp/index.html</loc>
 		<news:news>
 			<news:publication>
-				<news:name>thương mại brvt</news:name>
+				<news:name>ứng dụng | sapp | thuongmaibrvt</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2021-06-26</news:publication_date>
+			<news:publication_date>2021-06-27</news:publication_date>
 			<news:title>Web ứng dụng chuẩn seo là cách tốt nhất để trình bày ứng dụng hoặc sản phẩm, một mã nguồn chuẩn seo mạnh mẽ nhưng dễ sử dụng với khả năng tùy chỉnh cao</news:title>
 			<news:keywords>ung dung</news:keywords>
 		</news:news>
@@ -41,10 +67,10 @@
 		<loc>https://vn.thuongmaitructuyenbrvt.com/product/du-lich-townhub/itvtbadboy-phat-trien-tiem-nang-web-bootstrap-du-lich.amp.html</loc>
 		<news:news>
 			<news:publication>
-				<news:name>thương mại brvt</news:name>
+				<news:name>itvtbadboy phát triển tiềm năng web bootstrap du lịch</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2021-06-25</news:publication_date>
+			<news:publication_date>2021-06-27</news:publication_date>
 			<news:title>Itvtbadboy phát triển tiềm năng web bootstrap du lịch trực tuyến, khai thác bản đồ business mở cơ hội cho kinh tế địa phương</news:title>
 			<news:keywords>itvtbadboy, phat trien tiem nang, web bootstrap du lich</news:keywords>
 		</news:news>
@@ -53,10 +79,10 @@
 		<loc>https://vn.thuongmaitructuyenbrvt.com/product/du-lich-townhub/phat-trien-du-lich.amp.html</loc>
 		<news:news>
 			<news:publication>
-				<news:name>thương mại brvt</news:name>
+				<news:name>du lịch | phát triển | thuongmaibrvt</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2021-06-25</news:publication_date>
+			<news:publication_date>2021-06-27</news:publication_date>
 			<news:title>Phát triển du lịch với website di động chuẩn seo thương mại (ẩm thực - dịch vụ - sự kiện), thiết kế khương itvtbadboy</news:title>
 			<news:keywords>phat trien, du lich</news:keywords>
 		</news:news>
@@ -65,10 +91,10 @@
 		<loc>https://vn.thuongmaitructuyenbrvt.com/product/du-lich-townhub/index.html</loc>
 		<news:news>
 			<news:publication>
-				<news:name>thương mại brvt</news:name>
+				<news:name>du lịch | townhub | thuongmaibrvt</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2021-06-25</news:publication_date>
+			<news:publication_date>2021-06-27</news:publication_date>
 			<news:title>Web du lịch chuẩn seo thiết kế hiện đại chuyên nghiệp với boxed and wide giả 3d kết hợp hiệu ứng rê chuột, web du lịch tạo ra 1 thành phố trực tuyến thu nhỏ không mã nguồn nào theo kịp</news:title>
 			<news:keywords>du lich</news:keywords>
 		</news:news>
@@ -78,10 +104,10 @@
 		<loc>https://vn.thuongmaitructuyenbrvt.com/product/ban-le-landrick/itvtbadboy-phat-trien-tiem-nang-web-bootstrap-ban-le.amp.html</loc>
 		<news:news>
 			<news:publication>
-				<news:name>thương mại brvt</news:name>
+				<news:name>itvtbadboy phát triển tiềm năng web bootstrap bán lẻ</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2021-06-25</news:publication_date>
+			<news:publication_date>2021-06-27</news:publication_date>
 			<news:title>Itvtbadboy phát triển tiềm năng web bootstrap bán lẻ sử dụng video google offers đột phá mọi giới hạn thị trường xây dựng kênh liên kết đại lý</news:title>
 			<news:keywords>itvtbadboy, phat trien tiem nang, web bootstrap ban le</news:keywords>
 		</news:news>
@@ -90,10 +116,10 @@
 		<loc>https://vn.thuongmaitructuyenbrvt.com/product/ban-le-landrick/thi-truong-ban-le.amp.html</loc>
 		<news:news>
 			<news:publication>
-				<news:name>thương mại brvt</news:name>
+				<news:name>bán lẻ | thị trường | thuongmaibrvt</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2021-06-24</news:publication_date>
+			<news:publication_date>2021-06-27</news:publication_date>
 			<news:title>Thị trường bán lẻ vững mạnh với website di động chuẩn seo thương mại (thời trang - điện máy - nội thất), thiết kế khương itvtbadboy</news:title>
 			<news:keywords>thi truong, ban le</news:keywords>
 		</news:news>
@@ -102,10 +128,10 @@
 		<loc>https://vn.thuongmaitructuyenbrvt.com/product/ban-le-landrick/index.html</loc>
 		<news:news>
 			<news:publication>
-				<news:name>thương mại brvt</news:name>
+				<news:name>bán lẻ | landrick | thuongmaibrvt</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2021-06-24</news:publication_date>
+			<news:publication_date>2021-06-27</news:publication_date>
 			<news:title>Web bán lẻ chuẩn seo đáp ứng tiêu chí thương mại không bảo mật sẽ là tương lai bán hàng đứng đầu thế giới, web bán lẻ hỗ trợ tối đa seo json và dễ dàng phát triển</news:title>
 			<news:keywords>ban le</news:keywords>
 		</news:news>
@@ -115,10 +141,10 @@
 		<loc>https://vn.thuongmaitructuyenbrvt.com/product/am-thuc-canvas/itvtbadboy-phat-trien-tiem-nang-web-bootstrap-am-thuc.amp.html</loc>
 		<news:news>
 			<news:publication>
-				<news:name>thương mại brvt</news:name>
+				<news:name>itvtbadboy phát triển tiềm năng web bootstrap ẩm thực</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2021-06-25</news:publication_date>
+			<news:publication_date>2021-06-27</news:publication_date>
 			<news:title>Itvtbadboy phát triển tiềm năng web bootstrap ẩm thực mở hết cơ hội cho nhà hàng tìm hương vị tứ phương chỉ 102</news:title>
 			<news:keywords>itvtbadboy, phat trien tiem nang, web bootstrap am thuc</news:keywords>
 		</news:news>
@@ -127,10 +153,10 @@
 		<loc>https://vn.thuongmaitructuyenbrvt.com/product/am-thuc-canvas/phat-trien-am-thuc.amp.html</loc>
 		<news:news>
 			<news:publication>
-				<news:name>thương mại brvt</news:name>
+				<news:name>ẩm thực | phát triển | thuongmaibrvt</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2021-06-23</news:publication_date>
+			<news:publication_date>2021-06-27</news:publication_date>
 			<news:title>Phát triển ẩm thực với website di động chuẩn seo thương mại (đặc sản - đặt cơm - nấu ăn), thiết kế khương itvtbadboy</news:title>
 			<news:keywords>phat trien, am thuc</news:keywords>
 		</news:news>
@@ -139,10 +165,10 @@
 		<loc>https://vn.thuongmaitructuyenbrvt.com/product/am-thuc-canvas/index.html</loc>
 		<news:news>
 			<news:publication>
-				<news:name>thương mại brvt</news:name>
+				<news:name>ẩm thực | canvas | thuongmaibrvt</news:name>
 				<news:language>vi</news:language>
 			</news:publication>
-			<news:publication_date>2021-06-23</news:publication_date>
+			<news:publication_date>2021-06-27</news:publication_date>
 			<news:title>Web ẩm thực chuẩn seo hỗ trợ tìm nhà hàng trên bản đồ business, đặt món trực tuyến google - facebook, giao hàng nhanh hương vẫn còn vị vẫn ngon</news:title>
 			<news:keywords>am thuc</news:keywords>
 		</news:news>
