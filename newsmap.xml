@@ -1,6 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 	<url>
+		<loc>https://vn.thuongmaitructuyenbrvt.com/nhac-tuyen-chon/vpop-dac-biet.amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>vpop | đặc biệt | thuongmaibrvt</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-06-28</news:publication_date>
+			<news:title>Vpop đặc biệt chỉ 102, vietnamese pop tuyển chọn khương itvtbadboy</news:title>
+			<news:keywords>vpop, dac biet</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://vn.thuongmaitructuyenbrvt.com/nhac-tuyen-chon/nhac-tre-tuyen-chon.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>nhạc trẻ | tuyển chọn | thuongmaibrvt</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-06-28</news:publication_date>
+			<news:title>Nhạc trẻ tuyển chọn khương itvtbadboy sưu tầm (không tên, Tú Quyên, Lam Trường, Nhật Hào, Nguyễn Thắng, Nguyễn Đức, Sỹ Đan ...)</news:title>
+			<news:keywords>nhac, tre</news:keywords>
+		</news:news>
+	</url>
+
+	<url>
+		<loc>https://vn.thuongmaitructuyenbrvt.com/nhac-tuyen-chon/pop-dac-biet.amp.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>pop | đặc biệt | thuongmaibrvt</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-06-28</news:publication_date>
+			<news:title>Pop đặc biệt chỉ 102, english pop tuyển chọn khương itvtbadboy</news:title>
+			<news:keywords>pop, dac biet</news:keywords>
+		</news:news>
+	</url>
+	<url>
+		<loc>https://vn.thuongmaitructuyenbrvt.com/nhac-tuyen-chon/nhac-quoc-te-tuyen-chon.html</loc>
+		<news:news>
+			<news:publication>
+				<news:name>nhạc quốc tế | tuyển chọn | thuongmaibrvt</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2021-06-28</news:publication_date>
+			<news:title>Nhạc quốc tế tuyển chọn khương itvtbadboy sưu tầm (Belinda Carlisle, Jill Andrews, Lý Liên Kiệt, Modern Talking, Chinese Melody, Degauss, Tokyo Square ...)</news:title>
+			<news:keywords>nhac, quoc te</news:keywords>
+		</news:news>
+	</url>
+
+	<url>
 		<loc>https://vn.thuongmaitructuyenbrvt.com/nhac-tuyen-chon/cpop-dac-biet.amp.html</loc>
 		<news:news>
 			<news:publication>
