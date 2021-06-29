@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+		<title>thương mại trực tuyến brvt</title>
+		<googleplay:owner>thuongmaibrvt@gmail.com</googleplay:owner>
+		<googleplay:author>thương mại brvt</googleplay:author>
+		<description>Thương mại brvt cung cấp giải pháp quảng bá thương hiệu</description>
+		<googleplay:image href="https://www.mediafire.com/convkey/e41f/bt53phvafr3esqy6g.jpg?size_id=8"/>
+		<language>vi-VN</language>
+		<link>https://vn.thuongmaitructuyenbrvt.com/</link>
+
+		<item>
+			<title>web ẩm thực</title>
+			<description>Web ẩm thực chuẩn seo hỗ trợ tìm nhà hàng trên bản đồ business, đặt món trực tuyến google - facebook, giao hàng nhanh hương vẫn còn vị vẫn ngon</description>
+			<pubDate>Tue, 29 Jun 2021 15:41:00 GMT</pubDate>
+			<enclosure url="https://drive.google.com/uc?export=download&id=1ssbWJlGVPDIlvqHwKkzglgIuwht2kSSJ" type="audio/mpeg"/>
+			<itunes:duration>01:00</itunes:duration>
+		</item>
+	</channel>
+</rss>
