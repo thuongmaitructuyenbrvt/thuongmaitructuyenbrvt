@@ -1,4 +1,4 @@
-// LocalBusiness
+<!-- LocalBusiness -->
 <slot vocab="https://schema.org/" typeof="LocalBusiness">
 
 <div style="display: none;">
@@ -40,7 +40,7 @@
 
 </div>
 </div>
-// End LocalBusiness
+<!-- End LocalBusiness -->
 
 <h2 property="name"><a property="url" href="https://thuongmaitructuyenbrvt.github.io/" target="_blank" title="thương mại trực tuyến brvt">thương mại trực tuyến brvt</a></h2>
 
