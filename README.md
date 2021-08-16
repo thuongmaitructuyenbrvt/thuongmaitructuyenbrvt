@@ -1,10 +1,10 @@
 <!-- LocalBusiness -->
 <slot vocab="https://schema.org/" typeof="Article">
 
-<meta property="datePublished" content="Aug 16, 2021"></meta> <meta property="dateModified" content="Aug 16, 2021"></meta> <meta property="articleSection" content="Business"></meta>
-<div property="author" typeof="Person"><meta property="name" content="thuongmaibrvt"></meta> <link property="url" href="https://thuongmaitructuyenbrvt.github.io/"></div>
-<div property="publisher" typeof="Organization"><meta property="name" content="thuongmaitructuyenbrvt"></meta> <span property="logo" typeof="ImageObject"><link property="url" href="https://thuongmaitructuyenbrvt.github.io/anh-thuong-hieu/logoamp.png"></span></div>
-<div property="mainEntityOfPage" typeof="WebSite"><meta property="name" content="thương mại trực tuyến brvt"></meta> <meta property="keywords" content="thuong mai, truc tuyen, brvt"></meta> <link property="url" href="https://thuongmaitructuyenbrvt.github.io/"></div>
+<span property="datePublished" content="Aug 16, 2021"></span> <span property="dateModified" content="Aug 16, 2021"></span> <span property="articleSection" content="Business"></span>
+<div property="author" typeof="Person"><span property="name" content="thuongmaibrvt"></span> <link property="url" href="https://thuongmaitructuyenbrvt.github.io/"></div>
+<div property="publisher" typeof="Organization"><span property="name" content="thuongmaitructuyenbrvt"></span> <span property="logo" typeof="ImageObject"><link property="url" href="https://thuongmaitructuyenbrvt.github.io/anh-thuong-hieu/logoamp.png"></span></div>
+<div property="mainEntityOfPage" typeof="WebSite"><span property="name" content="thương mại trực tuyến brvt"></span> <span property="keywords" content="thuong mai, truc tuyen, brvt"></span> <link property="url" href="https://thuongmaitructuyenbrvt.github.io/"></div>
 
 <h2 property="headline"><a property="url" href="https://thuongmaitructuyenbrvt.github.io/" target="_blank" title="thương mại trực tuyến brvt">thương mại trực tuyến brvt</a></h2>
 
