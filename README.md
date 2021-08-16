@@ -6,41 +6,7 @@
 <p property="aggregateRating" typeof="AggregateRating"><meta property="ratingValue" content=5></meta> <meta property="reviewCount" content=5></meta></p>
 <p property="address" typeof="PostalAddress"><meta property="streetAddress" content="56 nguyễn hữu huân"></meta> <meta property="addressLocality" content="bà rịa"></meta> <meta property="addressRegion" content="bà rịa - vũng tàu"></meta> <meta property="postalCode" content="78110"></meta> <meta property="addressCountry" content="VN"></meta></p>
 <p property="geo" typeof="GeoCoordinates"><meta property="latitude" content=10.5108216></meta> <meta property="longitude" content=107.1894638></meta></p>
-
-<div property="makesOffer" typeof="Offer">
-<p property="priceSpecification" typeof="UnitPriceSpecification"><meta property="priceCurrency" content="VND"></meta> <meta property="price" content=3000000></meta></p>
-
-<div property="itemOffered" typeof="SoftwareApplication">
-<meta property="name" content="web ẩm thực"></meta> <meta property="operatingSystem" content="linux"></meta> <meta property="applicationCategory" content="BusinessApplication"></meta>
-<p property="aggregateRating" typeof="AggregateRating"><meta property="ratingValue" content=5></meta> <meta property="ratingCount" content=5></meta></p>
-<p property="offers" typeof="Offer"><meta property="price" content=3000000></meta> <meta property="priceCurrency" content="VND"></meta></p>
-<link property="url" href="https://thuongmaitructuyenbrvt.github.io/product/am-thuc-canvas/">
 </div>
-
-<div property="itemOffered" typeof="SoftwareApplication">
-<meta property="name" content="web du lịch"></meta> <meta property="operatingSystem" content="linux"></meta> <meta property="applicationCategory" content="BusinessApplication"></meta>
-<p property="aggregateRating" typeof="AggregateRating"><meta property="ratingValue" content=5></meta> <meta property="ratingCount" content=5></meta></p>
-<p property="offers" typeof="Offer"><meta property="price" content=3000000></meta> <meta property="priceCurrency" content="VND"></meta></p>
-<link property="url" href="https://thuongmaitructuyenbrvt.github.io/product/du-lich-townhub/">
-</div>
-
-<div property="itemOffered" typeof="SoftwareApplication">
-<meta property="name" content="web ứng dụng"></meta> <meta property="operatingSystem" content="linux"></meta> <meta property="applicationCategory" content="BusinessApplication"></meta>
-<p property="aggregateRating" typeof="AggregateRating"><meta property="ratingValue" content=5></meta> <meta property="ratingCount" content=5></meta></p>
-<p property="offers" typeof="Offer"><meta property="price" content=3000000></meta> <meta property="priceCurrency" content="VND"></meta></p>
-<link property="url" href="https://thuongmaitructuyenbrvt.github.io/product/ung-dung-sapp/">
-</div>
-
-<div property="itemOffered" typeof="SoftwareApplication">
-<meta property="name" content="web bán lẻ"></meta> <meta property="operatingSystem" content="linux"></meta> <meta property="applicationCategory" content="BusinessApplication"></meta>
-<p property="aggregateRating" typeof="AggregateRating"><meta property="ratingValue" content=5></meta> <meta property="ratingCount" content=5></meta></p>
-<p property="offers" typeof="Offer"><meta property="price" content=3000000></meta> <meta property="priceCurrency" content="VND"></meta></p>
-<link property="url" href="https://thuongmaitructuyenbrvt.github.io/product/ban-le-landrick/">
-</div>
-
-</div>
-</div>
-<!-- End LocalBusiness -->
 
 <h2 property="name"><a property="url" href="https://thuongmaitructuyenbrvt.github.io/" target="_blank" title="thương mại trực tuyến brvt">thương mại trực tuyến brvt</a></h2>
 
@@ -61,6 +27,7 @@
 <p>Thương mại trực tuyến brvt phát triển giao diện website bootstrap, thiết kế website di động đột phá seo json, liên kết ma trận và tài nguyên google bảo vệ bảng xếp hạng từ khóa sản phẩm</p>
 
 </slot>
+<!-- End LocalBusiness -->
 
 <slot vocab="https://schema.org/" typeof="PodcastSeason">
 
