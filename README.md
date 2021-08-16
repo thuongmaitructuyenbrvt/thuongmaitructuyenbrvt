@@ -1,5 +1,5 @@
 <!-- LocalBusiness -->
-<slot vocab="https://schema.org/" typeof="Article">
+<div vocab="https://schema.org/" typeof="Article">
 
 <span property="datePublished" content="Aug 16, 2021"></span> <span property="dateModified" content="Aug 16, 2021"></span> <span property="articleSection" content="Business"></span>
 <div property="author" typeof="Person"><span property="name" content="thuongmaibrvt"></span> <link property="url" href="https://thuongmaitructuyenbrvt.github.io/"></div>
@@ -8,7 +8,7 @@
 
 <h2 property="headline"><a property="url" href="https://thuongmaitructuyenbrvt.github.io/" target="_blank" title="thương mại trực tuyến brvt">thương mại trực tuyến brvt</a></h2>
 
-<img property="image" src="https://www.mediafire.com/convkey/e41f/bt53phvafr3esqy6g.jpg?size_id=8" alt="thuong mai truc tuyen brvt"></img>
+<img property="image" src="https://www.mediafire.com/convkey/e41f/bt53phvafr3esqy6g.jpg?size_id=8" alt="thuong mai truc tuyen brvt">
 
 <table>
 <tr>
@@ -58,5 +58,5 @@
 </tr>
 </table>
 
-</slot>
+</div>
 <!-- End LocalBusiness -->
