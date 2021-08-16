@@ -6,4 +6,4 @@
 
 | bootstrap | di động |
 | --- | --- |
-| <img src="https://www.mediafire.com/convkey/4fbb/lgttpfs2gowkr5j6g.jpg" alt="thuong mai truc tuyen brvt"><p>thương mại ẩm thực</p> | <img src="https://www.mediafire.com/convkey/c6bd/w8gbapoqbjj52i95g.jpg" alt="thuong mai truc tuyen brvt"><p>thương mại bán lẻ</p> |
+| <img src="https://www.mediafire.com/convkey/4fbb/lgttpfs2gowkr5j6g.jpg" width="100%" alt="thuong mai truc tuyen brvt"><p>thương mại ẩm thực</p> | <img src="https://www.mediafire.com/convkey/c6bd/w8gbapoqbjj52i95g.jpg" width="100%" alt="thuong mai truc tuyen brvt"><p>thương mại bán lẻ</p> |
