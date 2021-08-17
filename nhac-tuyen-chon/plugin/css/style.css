@@ -1,7 +1,7 @@
 .ttw-music-player {
     width: 370px;
     margin: 10px auto;
-    font-family: 'Times New Roman', 'Lato', arial, sans-serif;
+    font-family: 'Roboto';
 }
 
 .ttw-music-player .player {
@@ -70,20 +70,20 @@
 .ttw-music-player .player .title {
     color: #efefef;
     text-shadow: 0 1px 1px rgba(0, 0, 0, .8);
-    font-family: 'Times New Roman', 'Lato Bold', arial, sans-serif;
+    font-family: 'Roboto';
     font-weight: bold;
     font-size: 20px;
 }
 
 .ttw-music-player .artist-outer {
     color: #727272;
-    font-family: 'Times New Roman', 'Lato Italic', arial, sans-serif;
+    font-family: 'Roboto';
     font-style: italic;
 }
 
 .ttw-music-player .artist {
     color: #999;
-    font-family: 'Times New Roman', 'Lato', arial, sans-serif;
+    font-family: 'Roboto';
     margin-left: 4px;
 }
 
@@ -315,7 +315,7 @@
 
 .ttw-music-player .more {
     display:none;
-    font-family: 'Times New Roman', 'Lato Italic', arial, sans-serif;
+    font-family: 'Roboto';
     font-style: italic;
     font-size: 20px;
     text-shadow: 0 1px 1px rgba(0, 0, 0, .6);
@@ -363,6 +363,3 @@
     width: 0;
     height: 0;
 }
-
-
-
